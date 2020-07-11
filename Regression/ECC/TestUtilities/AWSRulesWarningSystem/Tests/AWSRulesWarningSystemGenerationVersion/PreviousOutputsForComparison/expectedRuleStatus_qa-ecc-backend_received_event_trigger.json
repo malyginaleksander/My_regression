@@ -1,0 +1,8 @@
+{
+    "ScheduleExpression": "cron(0/10 * * * ? *)", 
+    "Name": "qa-ecc-backend_received_event_trigger", 
+    "RoleArn": "arn:aws:iam::106715121600:role/ecc_lambda_function", 
+    "State": "ENABLED", 
+    "Arn": "arn:aws:events:us-east-1:106715121600:rule/qa-ecc-backend_received_event_trigger", 
+    "Description": "Retrieve backend received events cron"
+}

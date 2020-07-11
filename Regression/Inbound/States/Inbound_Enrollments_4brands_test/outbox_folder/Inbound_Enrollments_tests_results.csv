@@ -1,0 +1,16 @@
+Passed,06_08_2020_01_59_34_PM,ts__gme_come_01,GME,Electric,,Alex_come_retest_01,come,Eversource Energy (WMECo),Residential,Pollution Free Reliable Rate,'02346,Massachusetts,NEW BEDFORD, 41 GLENDALE RD_come,'57144419562,85de111
+Passed,06_08_2020_02_01_15_PM,ts__gme_come_01,GME,Electric,,Alex_come_retest_02,come,National Grid,Residential,Pollution Free Reliable Rate,'02346,Massachusetts,NEW BEDFORD, 42 GLENDALE RD_come,'68477777081,eb284fd
+Passed,06_08_2020_02_01_43_PM,ts__gme_come_01,GME,Electric,,Alex_come_retest_03,come,Eversource Energy (NSTAR),Residential,Pollution Free Reliable Rate,'02346,Massachusetts,NEW BEDFORD, 43 GLENDALE RD_come,'98298077809,642197
+Passed,06_08_2020_02_02_13_PM,ts__gme_come_01,GME,Electric,,Alex_come_retest_04,come,Eversource Energy (WMECo),Residential,Pollution Free Reliable Rate,02740,Massachusetts,NEW BEDFORD, 41 GLENDALE RD_come,'29794843403,2414187
+Passed,06_08_2020_02_02_39_PM,ts__gme_come_01,GME,Electric,,Alex_come_retest_05,come,National Grid,Residential,Pollution Free Reliable Rate,02574,Massachusetts,WEST FALMOUTH, 42 GLENDALE RD_come,'42829049495,3f119ae
+Passed,06_08_2020_02_03_06_PM,ts__gme_come_01,GME,Electric,,Alex_come_retest_06,come,Eversource Energy (NSTAR),Residential,Pollution Free Reliable Rate,02642,Massachusetts,Eastham, 43 GLENDALE RD_come,'41914486441,599381f
+Passed,06_08_2020_02_36_04_PM,ts__gme_come_01,GME,Electric,,Alex_come_retest_07,come,Eversource Energy (WMECo),Residential,Pollution Free Reliable Rate,'<class 'zip'>,Massachusetts,NEW BEDFORD, 41 GLENDALE RD_come,'55537807993,11f1467
+Passed,06_08_2020_02_36_30_PM,ts__gme_come_01,GME,Electric,,Alex_come_retest_08,come,National Grid,Residential,Pollution Free Reliable Rate,'<class 'zip'>,Massachusetts,NEW BEDFORD, 41 GLENDALE RD_come,'24688892176,2dc2e7a
+Passed,06_08_2020_02_36_58_PM,ts__gme_come_01,GME,Electric,,Alex_come_retest_09,come,Eversource Energy (NSTAR),Residential,Pollution Free Reliable Rate,'<class 'zip'>,Massachusetts,NEW BEDFORD, 41 GLENDALE RD_come,'82816509818,495c6df
+Passed,06_14_2020_08_08_13_PM,EP_electric,Energy_Plus,Electric,,ts_1,ComEd,ComEd,Residential,Cash Back,'<class 'zip'>,Illinois,BEECHER,ts_1 Street,'7755645444898334890214,ecb3521
+Passed,06_14_2020_08_12_22_PM,EP_GAS,Energy_Plus,Gas,,ts_2,Washington Gas,Washington Gas,Residential,Professional,'<class 'zip'>,Maryland,WALDORF,ts_2 Street,'7276310982200565705683,e6137e1
+Passed,06_14_2020_08_18_09_PM,EP Electric GAS,Energy_Plus,Electric,Gas,ts_3,PSE&G,PSE&G,Residential,Cash Back,'<class 'zip'>,New Jersey,NEWARK,ts_3 Street,'PE739713672422038164,40874fe
+Passed,06_14_2020_08_19_02_PM,EP Multi Account,Energy_Plus,Electric,Electric,ts_4,PECO,PECO,Residential,Cash Back,'<class 'zip'>,Pennsylvania,BUTLER,ts_4 Street,'516657950659957843177,7655c05
+Passed,06_14_2020_08_19_41_PM,GME,GME,Electric,,ts_5,BGE,BGE,Residential,Pollution Free Reliable Rate,'<class 'zip'>,Maryland,BRYANS ROAD,ts_5 Street,'9527201561062462487734,9b443f4
+Passed,06_14_2020_08_20_14_PM,Energy_Plus,Energy_Plus,Electric,,ts_6,Consolidated Edison,Consolidated Edison,Residential,Cash Back,'<class 'zip'>,New York,NEW YORK,ts_6 Street,'9267557739139256875691,be45fd6
+Passed,06_14_2020_08_20_42_PM,Energy_Plus,Energy_Plus,Gas,,ts_7,BGE,BGE,Residential,Retail,'<class 'zip'>,Maryland,WALDORF,ts_7 Street,'4395131240985755396119,d9d2a5a

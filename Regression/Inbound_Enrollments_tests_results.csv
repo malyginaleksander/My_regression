@@ -1,0 +1,23 @@
+FAILED,Alex,01_29_2020_09_59_59_AM,NRG Gas,NRG,Gas,,ts_69,Tamara,Harrison,Illinois,Lemont,Nicor Gas,,,Essentials Natural Gas Plan,,60439, , 
+FAILED,Alex,01_29_2020_10_01_06_AM,NRG Gas,NRG,Gas,,ts_69,Debbie,Martinez,Illinois,Channahon,Nicor Gas,,,Essentials Natural Gas Plan,,60410, , 
+FAILED,Alex,01_29_2020_10_01_05_AM,NRG Electric,NRG,Electric,,ts_52,Kimberly,Garcia,Illinois,Gardner,ComEd,,,Essentials Electric Variable Plan,,60424, , 
+FAILED,Alex,01_29_2020_10_01_06_AM,NRG Gas,NRG,Gas,,ts_70,Lisa,Mcclain,Illinois,Phoenix,Peoples Gas,,,Carbon Offset Plan,,60426, , 
+FAILED,Alex,01_29_2020_10_01_07_AM,NRG,NRG,Gas,,ts_150,Jose,Walker,Illinois,Romeoville,Nicor Gas,,,Carbon Offset Plan,,60446, , 
+FAILED,Alex,01_29_2020_10_01_07_AM,NRG,NRG,Gas,,ts_151,Jason,Herrera,Illinois,Joliet,Peoples Gas,,,The Cash Back Plan,,60433, , 
+FAILED,Alex,01_29_2020_10_01_07_AM,NRG,NRG,Electric,,ts_179,Sara,Coleman,Illinois,Romeoville,ComEd,,,Plug in Illinois Fixed Plan,,60441, , 
+FAILED,Alex,01_29_2020_10_01_08_AM,NRG,NRG,Electric,,ts_180,Richard,Choi,Illinois,Lemont,Ameren,,,Flexible plan that benefits Lurie Children's Hospital,,60439, , 
+FAILED,Alex,01_29_2020_10_02_16_AM,NRG Electric,NRG,Electric,,ts_52,Alexander,Logan,Illinois,Oak Lawn,ComEd,,,Essentials Electric Variable Plan,,60458, , 
+FAILED,Alex,01_29_2020_10_03_00_AM,NRG Gas,NRG,Gas,,ts_69,Kimberly,Diaz,Illinois,Oak Lawn,Nicor Gas,,,Essentials Natural Gas Plan,,60455, , 
+FAILED,Alex,01_29_2020_04_42_49_PM,EP_ELECTRIC,Energy_Plus,Electric,,ts_2,Wayne,Gentry,Maryland,Laurel,BGE,Brand Residential - MD - BRC,6742 - Fixed Downsell,Cash Back,015 - Residential (3%/$25),20723, , 
+FAILED,Alex,01_29_2020_04_43_37_PM,EP_ELECTRIC,Energy_Plus,Electric,,ts_3,Elizabeth,Wilson,Maryland,Kensington,Delmarva Power,Delta - MD - DEL,6230 - Co-Brand INSL/Winback ONLY – RDI DO NOT USE ,Airline,"035 - 5,000 bonus, 2 units / $1",20895, , 
+FAILED,Alex,01_31_2020_01_58_23_PM,EP_ELECTRIC,Energy_Plus,Electric,,ts_1,Adrian,Bender,Illinois,Wilmington,ComEd,Brand Residential - IL - BRC,0000 - Unknown,Cash Back,015 - $25 bonus / 3%,60481, , 
+FAILED,Alex,01_31_2020_01_58_26_PM,EP_ELECTRIC,Energy_Plus,Electric,,ts_2,Kelly,Watkins,Maryland,Fort Washington,BGE,Brand Residential - MD - BRC,6742 - Fixed Downsell,Cash Back,015 - Residential (3%/$25),20749, , 
+FAILED,Alex,01_31_2020_02_04_05_PM,EP_ELECTRIC,Energy_Plus,Electric,,ts_1,Breanna,Oliver,Illinois,Flossmoor,ComEd,Brand Residential - IL - BRC,0000 - Unknown,Cash Back,015 - $25 bonus / 3%,60422, , 
+FAILED,Alex,01_31_2020_02_04_06_PM,EP_ELECTRIC,Energy_Plus,Electric,,ts_2,Jeffery,Simon,Maryland,Ewell,BGE,Brand Residential - MD - BRC,6742 - Fixed Downsell,Cash Back,015 - Residential (3%/$25),21824, , 
+FAILED,Alex,01_31_2020_02_04_07_PM,EP_ELECTRIC,Energy_Plus,Electric,,ts_3,Jessica,Perry,Maryland,Capitol Heights,Delmarva Power,Delta - MD - DEL,6230 - Co-Brand INSL/Winback ONLY – RDI DO NOT USE ,Airline,"035 - 5,000 bonus, 2 units / $1",20731, , 
+FAILED,Alex,01_31_2020_02_04_50_PM,EP_ELECTRIC,Energy_Plus,Electric,,ts_1,Megan,Walsh,Illinois,South Chicago Heights,ComEd,Brand Residential - IL - BRC,0000 - Unknown,Cash Back,015 - $25 bonus / 3%,60411, , 
+FAILED,Alex,01_31_2020_02_04_53_PM,EP_ELECTRIC,Energy_Plus,Electric,,ts_2,Karen,Taylor,Maryland,California,BGE,Brand Residential - MD - BRC,6742 - Fixed Downsell,Cash Back,015 - Residential (3%/$25),20619, , 
+Passed,Alex,02_02_2020_04_41_33_PM,EP_ELECTRIC,Energy_Plus,Electric,,ts_1,Kimberly,King,Illinois,Elwood,ComEd,Brand Residential - IL - BRC,0000 - Unknown,Cash Back,015 - $25 bonus / 3%,60421,'1664337361893624606062,0d18932
+Passed,Alex,02_06_2020_04_15_50_PM,EP_ELECTRIC,Energy_Plus,Electric,,ts_1,Jessica,Hernandez,Illinois,Blue Island,ComEd,Brand Residential - IL - BRC,0000 - Unknown,Cash Back,015 - $25 bonus / 3%,60406,'6345495071111697299815,0618c6e
+Passed,Alex,02_06_2020_04_16_32_PM,EP_ELECTRIC,Energy_Plus,Electric,,ts_2,Steven,Rosales,Maryland,California,BGE,Brand Residential - MD - BRC,6742 - Fixed Downsell,Cash Back,015 - Residential (3%/$25),20619,'1359683369345244765222,2fa9897
+Passed,Alex,02_06_2020_04_17_15_PM,EP_ELECTRIC,Energy_Plus,Electric,,ts_3,Samuel,Lee,Maryland,Gaithersburg,Delmarva Power,Delta - MD - DEL,6230 - Co-Brand INSL/Winback ONLY – RDI DO NOT USE ,Airline,"035 - 5,000 bonus, 2 units / $1",20878,'0513480248764663922372,5b1c994

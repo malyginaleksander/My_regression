@@ -1,0 +1,27 @@
+Status,  test_name, brand, account_type, SKU, TS, state, utility_full, utility, confcode
+Passed,Amtrak,NRG,Electric,gfe90cd4a62b8ccd,ts_1,Illinois,Comed,ComEd,818790f
+Passed,Amtrak,NRG,Electric,0421F39B-0B2D,ts_2,Illinois,Ameren,Ameren,143d87b
+Passed,Amtrak,NRG,Electric,g2da08e2fe0553ab,ts_3,Maryland,apmd,Potomac Edison,a547bdb
+Passed,Amtrak,NRG,Electric,ga486186e2437875,ts_4,Maryland,delmarva,Delmarva Power,bb82f3c
+Passed,Amtrak,NRG,Electric,ga5555aced018c7a,ts_5,Maryland,pepco,Pepco,ce47b36
+Passed,Amtrak,NRG,Electric,gc45a9c9708ccc6e,ts_6,Maryland,bge,BGE,e1397ef
+Passed,Amtrak,NRG,Electric,g5db8918f598b7e8,ts_9,Massachusetts,meco,National Grid,fc84ad0
+Passed,Amtrak,NRG,Electric,g92fe6a4f9509e97,ts_11,Massachusetts,beco,Eversource (Eastern Massachusetts),88f01a7
+Passed,Amtrak,NRG,Electric,gd872de76467c783,ts_12,Massachusetts,wmeco,Eversource (Western Massachusetts),1ab5d02
+Passed,Amtrak,NRG,Electric,g89bfb86639b8933,ts_13,New Jersey,pseg,PSE&G,2d5dca5
+Passed,Amtrak,NRG,Electric,g9308d570d10df32,ts_14,New Jersey,jcpl,Jersey Central Power & Light (JCP&L),40b7bde
+Passed,Amtrak,NRG,Electric,gb7d2ac129587629,ts_15,New Jersey,ace,Atlantic City Electric,53d3877
+Passed,Amtrak,NRG,Electric,0772E7F8-3533,ts_16,New Jersey,RECO,Rockland Electric Company (O&R),674a683
+Passed,Amtrak,NRG,Electric,g547cf6a1cf8b2cd,ts_18,Ohio,aepn,AEP Ohio,bf2f420
+Passed,Amtrak,NRG,Electric,g6061847692cfd0d,ts_19,Ohio,te,Toledo Edison,81d1437
+Passed,Amtrak,NRG,Electric,g75004fbb663e4cf,ts_20,Ohio,dpl,Dayton Power & Light,958a08f
+Passed,Amtrak,NRG,Electric,g8257253e697dded,ts_21,Ohio,dukeoh,Duke Energy Ohio,a7a60b4
+Passed,Amtrak,NRG,Electric,07CB40C7-1B22,ts_22,Ohio,CEI,The Illuminating Company,b9c0861
+Passed,Amtrak,NRG,Electric,09AE9B3B-FB12,ts_23,Ohio,OE,Ohio Edison,cd4c07f
+Passed,Amtrak,NRG,Electric,g1483a28f923f261,ts_24,Pennsylvania,meted,Met-Ed,e06d7ef
+Passed,Amtrak,NRG,Electric,g4b1ef90f1134fd2,ts_25,Pennsylvania,wpp,West Penn Power,f2e1111
+Passed,Amtrak,NRG,Electric,g4d3d73029f11050,ts_26,Pennsylvania,ppl,PPL Electric Utilities,0ab1d13
+Passed,Amtrak,NRG,Electric,g799dafd0af65329,ts_27,Pennsylvania,duq,Duquesne Light Company,20a8e4d
+Passed,Amtrak,NRG,Electric,gb70b26ab2ef15e0,ts_28,Pennsylvania,peco,PECO,348a29d
+Passed,Amtrak,NRG,Electric,gcaa1ee834cf18f9,ts_29,Pennsylvania,penn,Penn Power,cade3cc
+Passed,Amtrak,NRG,Electric,ge959b47e40c23f6,ts_30,Pennsylvania,penelec,Penelec,5dbd548

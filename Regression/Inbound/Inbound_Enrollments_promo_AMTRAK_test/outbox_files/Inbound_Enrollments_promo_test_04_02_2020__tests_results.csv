@@ -1,0 +1,3 @@
+status,test_name,brand,account_type_1,SKU,TS,state,utility_,utility_1,UAN,FirstName,LastName,Service_Type,UtilitySlug,ServiceAddress1,ServiceAddress2,ServiceCity,ServiceState,ServiceZip,zip_code,city,with_email,date_,confcode
+Passed,Amtrak,NRG,Electric,g92fe6a4f9509e97,ts_11,Massachusetts,beco,Eversource (Eastern Massachusetts),',,,,,165 CLIFFORD ST,,ROXBURY,,,02119,,email,04.02.2020,88a8678
+Passed,Amtrak,NRG,Electric,g92fe6a4f9509e97,ts_41,Massachusetts,beco,Eversource (Eastern Massachusetts),',,,,,2165 CLIFFORD ST,,ROXBURY,,,02119,,email,04.02.2020,0e8f190

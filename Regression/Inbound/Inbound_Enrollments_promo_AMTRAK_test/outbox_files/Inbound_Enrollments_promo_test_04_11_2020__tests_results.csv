@@ -1,0 +1,22 @@
+status,test_name,brand,account_type_1,SKU,TS,state,utility_,utility_1,UAN,FirstName,LastName,Service_Type,UtilitySlug,ServiceAddress1,ServiceAddress2,ServiceCity,ServiceState,ServiceZip,zip_code,city,with_email,date_,confcode
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_97,Massachusetts,camb,National Grid,'29504540021,JONATHAN,WING,CAMB,Electric,15 RICHDALE AVE,211,CAMBRIDGE,MA,02140,02140,,email,04.11.2020,79ab0ab
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_7,Massachusetts,camb,National Grid,',,,,,15 RICHDALE AVE,5,CAMBRIDGE,MA,02140,02140,,email,04.11.2020,1b3bb46
+Passed,Amtrak,NRG,Electric,g547cf6a1cf8b2cd,ts_18,Ohio,aepn,AEP Ohio,',,,,,294 N 10TH ST,5,NEWARK,OH,43055,43055,,email,04.11.2020,383de3b
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_37,Massachusetts,camb,National Grid,',,,,,15 RICHDALE AVE,5,CAMBRIDGE,MA,02140,02140,,email,04.11.2020,532a1b8
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_67,Massachusetts,camb,National Grid,'16070650094,CHRISTINA,DOBBS,CAMB,Electric,21 FAYETTE ST,6,CAMBRIDGE,MA,02140,02140,,email,04.11.2020,c2529d9
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_7,Massachusetts,camb,National Grid,',,,,,180 CHESTNUT ST,,CAMBRIDGE,MA,02139,02139,,email,04.11.2020,abbd570
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_37,Massachusetts,camb,National Grid,',,,,,520 CAMBRIDGE ST,,CAMBRIDGE,MA,02139,02139,,email,04.11.2020,c0d7b3c
+Passed,Amtrak,NRG,Electric,g547cf6a1cf8b2cd,ts_18,Ohio,aepn,AEP Ohio,',,,,,801 Findlay Rd,,Lima,oh,45801,45801,,email,04.11.2020,ddebaf1
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_67,Massachusetts,camb,National Grid,'11818210145,LEAH,RIKLIN,CAMB,Electric,45 COTTAGE ST,,CAMBRIDGE,MA,02139,02139,,email,04.11.2020,5c61d5a
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_97,Massachusetts,camb,National Grid,'16456620083,VALERIE,BALL,CAMB,Electric,0058 BROOK ST,2,BROOKLINE,MA,02445,02445,,email,04.11.2020,783e636
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_7,Massachusetts,camb,National Grid,',,,,,199 CHESTNUT ST,,CAMBRIDGE,MA,02139,02139,,email,04.11.2020,ee5f865
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_7,Massachusetts,camb,National Grid,',,,,,199 CHESTNUT ST,,CAMBRIDGE,MA,02139,02139,,email,04.11.2020,3a55e39
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_37,Massachusetts,camb,National Grid,',,,,,199 CAMBRIDGE ST,,CAMBRIDGE,MA,02139,02139,,email,04.11.2020,4d20ed9
+Passed,Amtrak,NRG,Electric,g547cf6a1cf8b2cd,ts_18,Ohio,aepn,AEP Ohio,',,,,,199 Findlay Rd,,Lima,oh,45801,45801,,email,04.11.2020,614057b
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_67,Massachusetts,camb,National Grid,'11818210145,LEAH,RIKLIN,CAMB,Electric,45 COTTAGE ST,,CAMBRIDGE,MA,02139,02139,,email,04.11.2020,7db4cb4
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_97,Massachusetts,camb,National Grid,'16456620083,VALERIE,BALL,CAMB,Electric,0058 BROOK ST,2,BROOKLINE,MA,02445,02445,,email,04.11.2020,99a4ed3
+Passed,Amtrak,NRG,Electric,g547cf6a1cf8b2cd,ts_48,Ohio,aepn,AEP Ohio,',,,,,1160 SHERIDAN DR,,LANCASTER,OH,43130,43130,,email,04.11.2020,e65ac55
+Passed,Amtrak,NRG,Electric,g547cf6a1cf8b2cd,ts_48,Ohio,aepn,AEP Ohio,',,,,,802 Findlay Rd,,LANCASTER,OH,45801,45801,,email,04.11.2020,0009a72
+Passed,Amtrak,NRG,Electric,g547cf6a1cf8b2cd,ts_48,Ohio,aepn,AEP Ohio,',,,,,8020 Findlay Rd,,LANCASTER,OH,45801,45801,,email,04.11.2020,1b0b02a
+Passed,Amtrak,NRG,Electric,g547cf6a1cf8b2cd,ts_48,Ohio,aepn,AEP Ohio,',,,,,3780 OLD LOGAN RD SE,B,LANCASTER,OH,43130,43130,,email,04.11.2020,6a69e0f
+Passed,Amtrak,NRG,Electric,g547cf6a1cf8b2cd,ts_48,Ohio,aepn,AEP Ohio,',,,,,8020 Findlay Rd,,LANCASTER,OH,45801,45801,,email,04.11.2020,b3ce6f7

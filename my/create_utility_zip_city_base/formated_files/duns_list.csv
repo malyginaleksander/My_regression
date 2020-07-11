@@ -1,0 +1,40 @@
+EDC,EDC_full,EPNET UtilityID,DUNs,State,ISO,SAP service provider,Bill type,SOP bill type,Re-enrollment bill type,UAN format,SOP,Rate code,Price,Sub Class Code,Overlap 150/151,BR to RR
+BED,NSTAR Boston Edison,42,006951552,MA,NEISO,NE001,Rate ready,,Rate ready,00000000000,,X,,X,X,
+CAMB,NSTAR Cambridge,43,006953665,MA,NEISO,NE002,Rate ready,,Rate ready,00000000000,,X,,X,X,
+COME,NSTAR Commonwealth Electric,44,006953848,MA,NEISO,NE003,Rate ready,,Rate ready,00000000000,,X,,X,X,
+MSEL,NatGrid Mass Electric,45,006952626,MA,NEISO,NE004,Rate ready,,Rate ready,0000000000,,X,,X,X,
+MWST,Western Massachusetts Electric,47,006956551,MA,NEISO,NE005,Rate ready,,Rate ready,54000000000000000000,,X,,X,X,
+COMED,Commonwealth Edison,36,006929509,IL,PJM,P0003,Bill ready,,Bill ready,0000000000,,,,,X,
+BGE,Baltimore Gas & Electric,31,156171464,MD,PJM,P0005,Bill ready,,Bill ready,0000000000,,,,,X,
+JCPL,Jersey Central Power & Light,28,006973358,NJ,PJM,P0008,Rate ready,,Rate ready,08000000000000000000,,X,,,,X
+PSEG,Public Service Electric and Gas Co,29,006973812,NJ,PJM,P0009,Bill ready,,Bill ready,PE000000000000000000,,,,,,
+DQE,Duquesne Light,16,007915606,PA,PJM,P0011,Rate ready,Rate ready,Rate ready,0000000000,X,X,,,,
+PENELEC,Pennsylvania Electric Co,20,008967614,PA,PJM,P0012,Rate ready,Rate ready,Rate ready,08000000000000000000,X,X,,,,X
+PPL,PP&L ELECTRIC UTILITIES,15,007909427AC,PA,PJM,P0013,Rate ready,Rate ready,Rate ready,0000000000,X,X,,,X,X
+PECO,PECO Energy,17,007914468,PA,PJM,P0014,Bill ready,Bill ready,Bill ready,0000000000,X,,,,X,
+MET,Metropolitan Edison Co,21,007916836,PA,PJM,P0015,Rate ready,Rate ready,Rate ready,08000000000000000000,X,X,,,,X
+CGE,Duke Energy Ohio,55,006999189,OH,PJM,P0018,Rate ready,,Rate ready,00000000000,,X,,,X,
+PP,PENNPOWER,18,007912736,PA,PJM,P0022,Rate ready,Rate ready,Rate ready,08000000000000000000,X,X,,,,X
+AEPCS,American Electric Power Columbus Southern,63,007901739,OH,PJM,P0023,Rate ready,,Rate ready,00040621000000000,,X,,,X,X
+AEPO,American Electric Power Ohio,62,002899953,OH,PJM,P0024,Rate ready,,Rate ready,00140060000000000,,X,,,X,X
+CHUD,Central Hudson,3,006993695,NY,NYISO,NY0001,Rate ready,,Rate ready,0000000000,,X,,,X,
+CONE,Consolidated Edison,1,006982359,NY,NYISO,NY0002,Rate ready,,Rate ready,000000000000000,,,X,,X,
+NYSEG,New York State Electric and Gas,4,006977763,NY,NYISO,NY0003,Bill ready,,Bill ready,0000000000,,,,,,
+NIMO,Niagara Mohawk,2,006994735,NY,NYISO,NY0004,Rate ready,,Rate ready,0000000000,,X,,,X,
+ORU,Orange and Rockland,6,006993406,NY,NYISO,NY0005,Rate ready,,Rate ready,0000000000,,,X,,X,
+RGE,Rochester Gas and Electric,5,160612110,NY,NYISO,NY0006,Bill ready,,Bill ready,0000000000,,,,,,
+CLP,Connecticut Light & Power,7,006917090,CT,NEISO,NE007,Rate Ready,,Rate Ready,51000000000000000000,,X,,X,X,
+UI,United Illuminating,8,006917967,CT,NEISO,NE008,Rate Ready,,Rate Ready,0000000000000,,X,,X,,
+WPP,West Penn Power,19,007911050EDC,PA,PJM,P0016,Rate Ready,Rate Ready,Rate Ready,08000000000000000000,X,X,,,,X
+ACE,Atlantic City Electric,27,006971618NJ,NJ,PJM,P0010,Bill Ready,,Bill Ready,0500000000000000000000,,,,,,
+RECO,Rockland Electric,30,617976758,NJ,PJM,P0025,Rate Ready,,Rate Ready,0000000000,,,X,,X,
+PEPCO,Pepco MD,32,006920284,MD,PJM,P0006,Bill Ready,,Bill Ready,0500000000000000000000,,,,,,
+Delmarva,Delmarva Power MD,33,006971618MD,MD,PJM,P0004,Bill Ready,,Bill Ready,0500000000000000000000,,,,,,
+APMD,Potomac Edison - APMD,35,043381565EDC,MD,PJM,P0007,Bill Ready,,Bill Ready,08000000000000000000,,,,,,
+NGNTKT,NatGrid Nantucket,46,007998644,MA,NEISO,NE006,Rate Ready,,Rate Ready,0000000000,,X,,X,X,
+PEPCODC,PepCo DC,59,006920284DC,DC,PJM,P0001,Bill Ready,,Bill Ready,0500000000000000000000,,,,,,
+DPLDE,Delmarva Power DE,60,006971618DE,DE,PJM,P0002,Bill Ready,,Bill Ready,0500000000000000000000,,,,,,
+DPL,Dayton Power & Light,61,147212336,OH,PJM,P0017,Bill Ready,,Bill Ready,0000000000,,,,,X,
+TE,Toledo Edison,74,007904626,OH,PJM,P0021,Bill Ready,,Bill Ready,08000000000000000000,,,,,,
+CEI,The Cleveland Illuminating Company,72,007900293,OH,PJM,P0019,Bill Ready,,Bill Ready,08000000000000000000,,,,,,
+OE,Ohio Edison,73,006998371,OH,PJM,P0020,Bill Ready,,Bill Ready,08000000000000000000,,,,,,

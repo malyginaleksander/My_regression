@@ -1,0 +1,2 @@
+ts,sku,ChannelSlug,BrandSlug,PremiseType,TermsOfServiceTyp,ProductName,ProductSlug,StateSlug,Commodity,UtilitySlug,first_name,last_name,ServiceAddress1,zip_code,city,account_no,email,emailmarketing,confirm_number,order_status,allow_email_marketing,test_time,sap_number
+ts_1,g00164a75659d6e5,web,green_mountain_energy,residential,fixed,Pollution Free Reliable Rate,pollution_free_reliable_rate,ma,electric,wmeco,Susan,wmeco,938801 Aaron Vasquez St.,'01376,Turner Falls,'123123124,no@nrg.com,no_email_mark,E1-9KL-MKV,completed,false,_06_11_2020,0000007668807628

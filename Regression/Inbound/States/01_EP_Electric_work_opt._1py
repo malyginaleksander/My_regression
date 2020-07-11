@@ -1,0 +1,18 @@
+def grab_code(driver, payload):
+    wait_grab_code_page(driver)
+    elem = driver.find_element_by_id("confcode")
+    confcode = elem.text
+    print("Passed "+sheet_name+ " " + payload.test_name+ ", Conformation =  " + confcode + ' for ' + payload.state + ' - ' + payload.utility_1)
+    if payload.utility_1 =='PSE&G' or  payload.utility_1 =='PSE&G Gas' or payload.utility_1 == 'NYSEG'  or payload.utility_1  == 'RG&E':
+        accountNo = str(payload.accountNo_1)
+    else:
+        accountNo = str(int(payload.accountNo_1))
+    zip = str(int(payload.zip))
+    f = open("./results.csv", 'w', newline = '')
+    now = datetime.now()
+    time = now.strftime("%m_%d_%Y_%I_%M_%S_%p")
+    csv_w = csv.writer(f)
+    csv_w.writerow("Passed", tester, payload.first_name,payload.brand, payload.state, payload.utility_1, confcode, accountNo, payload.partner_1, payload.campaign_1, payload.promo_1, zip, payload.city,time)
+    # f.write(confcode+"\n" )
+    # f.write("Passed "+"|"+ "TESTER: "+ tester + "|" + payload.first_name + "|" + sheet_name + "|"  + "|" + payload.state + "|" + payload.utility_1 + "|" + confcode + "|" + accountNo+ "|" + payload.partner_1
+    #          + payload.campaign_1 + "|" + payload.promo_1 + "|" + zip + "|" + payload.city + "--" + time + "\n" )

@@ -1,0 +1,21 @@
+test_name,brand,account_type_1,account_type_2,first_name,last_name,utility_1,type,categorie_1,zip,state,city,ServiceAddress1,accountNo_1,confcode,status
+ts_1,Energy_Plus,Electric,,Adam,ComEd,ComEd,Residential,Cash Back,'60104,Illinois,Bellwood,EP_electric Street,'6807559589275569580708,1bc8164,passed
+ts_2,Energy_Plus,Gas,,Julie,Washington Gas,Washington Gas,Residential,Professional,'20601,Maryland,WALDORF,EP_GAS Street,'5782232791055218296786,43dc3b4,passed
+ts_3,Energy_Plus,Electric,Gas,Chloe,PSE&G,PSE&G,Residential,Cash Back,'07114,New Jersey,NEWARK,EP Electric GAS Street,'PE610820335095993649,7b8f3e8,passed
+ts_4,Energy_Plus,Electric,Electric,Rodney,PECO,PECO,Residential,Cash Back,'16001,Pennsylvania,BUTLER,EP Multi Account Street,'514536574371638929266,b017d59,passed
+ts_5,GME,Electric,,Elizabeth,BGE,BGE,Residential,Pollution Free Reliable Rate,'20616,Maryland,BRYANS ROAD,GME Street,'5023343261945973214611,d8625ce,passed
+ts_6,Energy_Plus,Electric,,Scott,Consolidated Edison,Consolidated Edison,Residential,Cash Back,'10003,New York,NEW YORK,Energy_Plus Street,'8167070607606071200534,f6bbf46,passed
+ts_7,Energy_Plus,Gas,,Jonathan,BGE,BGE,Residential,Retail,'20603,Maryland,WALDORF,BGE Street,'2499518836564253007137,0f338d9,passed
+ts_8,GME,Electric,,Nathan,ComEd,ComEd,Residential, Pollution Free Reliable Rate,'60415,Illinois,CHICAGO RIDGE,GME Street,'2537091713439141070380,32f0518,passed
+ts_9,GME,Gas,,Jennifer,Nicor Gas,Nicor Gas,Residential,Carbon Conscious plan,'60432,Illinois,Joliet,GME Street,'6298235950782128130720,57cab2d,passed
+ts_10,NRG,Electric,,Amber,Eversource (Western Massachusetts),Eversource (Western Massachusetts),Residential,MA State Shopping Site Plan 12 month,'01072,Massachusetts,SHUTESBURY,NRG Street,'54302708799,80d9a0f,passed
+ts_11,GME,Electric,Gas,Darrell,Duquesne Light Company,Duquesne Light Company,Residential,Pollution Free Reliable Rate,'15001,Pennsylvania,ALIQUIPPA,Green2 Street,'08887947837511070277,ae317c8,passed
+ts_12,NRG,Electric,,Antonio,Pepco,Pepco,Residential,FNF Renewable,'20001,District of Columbia,WASHINGTON,NRG Electric Street,'0557694211364720755297,cda31d7,passed
+ts_13,NRG,Gas,,Lisa,Nicor Gas,Nicor Gas,Residential,Carbon Offset Plan,''60446,Illinois,Romeoville,NRG Street,'3218899346842894789116,eff2138,passed
+ts_14,NRG,Electric,,Alicia,Dayton Power & Light,Dayton Power & Light,Residential,24M Price Lock Plan,''45358,Ohio,Pitsburg,NRG Street,'4776788683723381041524,13f3de1,passed
+ts_15,Cirro,Electric,,Dawn,PPL Electric Utilities,PPL Electric Utilities,Residential,Smart Flex PS,''18463,Pennsylvania,STERLING,Cirro Street,'3810161660,383c6f2,passed
+ts_16,GME,Electric,,Robert,Eversource Energy (NSTAR),Eversource Energy (NSTAR),Residential,Pollution Free Reliable Rate,''01107,Massachusetts,SPRINGFIELD,GME Street,'72148150184,5e4b8c6,passed
+ts_17,NRG,Gas,,Michele,Peoples Gas,Peoples Gas,Residential,Carbon Offset Plan,''60615,Illinois,Chicago,NRG Gas Street,'7780362565938591133686,85d3cd9,passed
+ts_18,NRG,Electric,Gas,Shannon,PECO,PECO,Residential,The Cash Back Plan,''19430,Pennsylvania,CREAMERY,NRG Electric Street,'470751834471427965541,b60fa33,passed
+ts_19,GME,Electric,,William,BGE,BGE,Residential,Pollution Free Reliable Rate,''19490,Maryland,WORCESTER,GME Street,'1119014454951712826843,dcb936f,passed
+ts_20,GME,Electric,,Amanda,Met-Ed,Met-Ed,Residential,Pollution Free Reliable Rate,'18042,Pennsylvania,Easton,GME Street,'08152322172829576203,fb89151,passed

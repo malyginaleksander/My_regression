@@ -1,0 +1,11 @@
+EPNET_or_SAP_Status	EPNET_or_SAP_Expected	EndState	ExpectedEndState	StateList	ExpectedStateList	StateSummaryList	sap_enrollment_confirmation	epnet id	contract id	contract account id	ProductAPIQuery
+											http://products.%s.nrgpl.us/api/v1/products/?state_slug=ct
+											http://products.%s.nrgpl.us/api/v1/products/?state_slug=dc
+											http://products.%s.nrgpl.us/api/v1/products/?state_slug=de
+											http://products.%s.nrgpl.us/api/v1/products/?state_slug=il
+											http://products.%s.nrgpl.us/api/v1/products/?state_slug=ma
+											http://products.%s.nrgpl.us/api/v1/products/?state_slug=md
+											http://products.%s.nrgpl.us/api/v1/products/?state_slug=nj
+											http://products.%s.nrgpl.us/api/v1/products/?state_slug=ny
+											http://products.%s.nrgpl.us/api/v1/products/?state_slug=oh
+											http://products.%s.nrgpl.us/api/v1/products/?state_slug=pa

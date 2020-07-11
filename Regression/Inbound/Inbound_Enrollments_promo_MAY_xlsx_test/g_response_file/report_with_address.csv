@@ -1,0 +1,7 @@
+address,conf_number,idoc,sku,service_address_zip,service_address_state,allow_email_marketing,order_status
+523359 Rebecca Murphy St.,E1-G54-RW4,,151879DC-7ECC,'15234,PA,false,error
+841895 Jessica Chavez St.,E1-GDA-BWK,,14DB00D6-4C48,'21074,MD,false,error
+523359 Rebecca Murphy St.,E1-JW9-B6N,,05D00E17-1EC4,'15234,PA,false,error
+619122 Kelly Gonzalez St.,E1-JK5-QLK,,14DB00D6-4C48,'20640,MD,false,error
+89794 Richard Marks St.,E1-JN5-KLM,,086B113A-39CF,'02144,MA,false,error
+591716 William Williams St.,E1-JP5-A6V,,16203734-2A2C,'17077,PA,false,error

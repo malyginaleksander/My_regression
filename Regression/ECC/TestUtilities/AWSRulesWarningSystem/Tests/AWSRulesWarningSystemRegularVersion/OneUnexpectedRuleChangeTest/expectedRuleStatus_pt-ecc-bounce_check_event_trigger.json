@@ -1,0 +1,7 @@
+{
+    "ScheduleExpression": "rate(2 hours)", 
+    "Name": "pt-ecc-bounce_check_event_trigger", 
+    "State": "ENABLED", 
+    "Arn": "arn:aws:events:us-east-1:877023909339:rule/pt-ecc-bounce_check_event_trigger", 
+    "Description": "Schedule ET-bounce lambda function every 2 hours"
+}

@@ -1,0 +1,2 @@
+status,test_name,brand,account_type_1,SKU,TS,state,utility_,utility_1,UAN,FirstName,LastName,Service_Type,UtilitySlug,ServiceAddress1,ServiceAddress2,ServiceCity,ServiceState,ServiceZip,zip_code,city,with_email,date_,confcode
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_37,Massachusetts,camb,National Grid,',,,,,22 CHAUNCY ST,16,CAMBRIDGE,MA,02138,02138,,email,04.16.2020,f241fb2

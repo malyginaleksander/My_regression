@@ -1,0 +1,3 @@
+status,test_name,brand,account_type_1,SKU,TS,state,utility_,utility_1,UAN,FirstName,LastName,Service_Type,UtilitySlug,ServiceAddress1,ServiceAddress2,ServiceCity,ServiceState,ServiceZip,zip_code,city,with_email,date_,confcode
+Passed,Amtrak,NRG,Electric,ge959b47e40c23f6,ts_60,Pennsylvania,penelec,Penelec,,,,,,,,,,,,,email,03.31.2020,fa98fc9
+Passed,Amtrak,NRG,Electric,gfe90cd4a62b8ccd,ts_61,Illinois,Comed,ComEd,9868015033,SHAREEF,MUHAMMAD,COMED,Electric,8118 S WASHTENAW AVE,,CHICAGO,IL,60652-2816,,,email,03.31.2020,0dadccb

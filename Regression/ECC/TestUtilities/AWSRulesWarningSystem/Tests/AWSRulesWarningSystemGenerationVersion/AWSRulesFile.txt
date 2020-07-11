@@ -1,0 +1,4 @@
+pt-ecc-bounce_check_event_trigger --profile=prod --region=us-east-1
+qa-ecc-bounce_check_event_trigger --profile=qa --region=us-east-1
+pt-ecc-backend_received_event_trigger --profile=prod --region=us-east-1
+qa-ecc-backend_received_event_trigger --profile=qa --region=us-east-1

@@ -1,0 +1,11 @@
+status,test_name,brand,account_type_1,SKU,TS,state,utility_,utility_1,UAN,FirstName,LastName,Service_Type,UtilitySlug,ServiceAddress1,ServiceAddress2,ServiceCity,ServiceState,ServiceZip,zip_code,city,with_email,date_,confcode
+Passed,Amtrak,NRG,Electric,g547cf6a1cf8b2cd,ts_18,Ohio,aepn,AEP Ohio,',,,,,294 N 10TH ST,3,NEWARK,,,43055,,email,04.07.2020,02d6305
+Passed,Amtrak,NRG,Electric,g6061847692cfd0d,ts_19,Ohio,te,Toledo Edison,',,,,,340 S REYNOLDS RD,3,TOLEDO,,,43615,,email,04.07.2020,16d71dd
+Passed,Amtrak,NRG,Electric,g547cf6a1cf8b2cd,ts_48,Ohio,aepn,AEP Ohio,',,,,,123 FAIRMONT DR,3,FINDLAY,,,45840,,email,04.07.2020,2991ece
+Passed,Amtrak,NRG,Electric,g6061847692cfd0d,ts_19,Ohio,te,Toledo Edison,',,,,,340 S REYNOLDS RD,3,TOLEDO,,,43615,,email,04.07.2020,ab3fe1c
+Passed,Amtrak,NRG,Electric,g6061847692cfd0d,ts_19,Ohio,te,Toledo Edison,',,,,,340 S REYNOLDS RD,3,TOLEDO,,,43615,,email,04.07.2020,d7ad799
+Passed,Amtrak,NRG,Electric,g6061847692cfd0d,ts_19,Ohio,te,Toledo Edison,',,,,,2707 PICKLE RD,30,OREGON,,,43616,,email,04.07.2020,7eca4ad
+Passed,Amtrak,NRG,Electric,g6061847692cfd0d,ts_19,Ohio,te,Toledo Edison,',,,,,207 S REYNOLDS RD,3,TOLEDO,OH,43615.0,43615.0,,email,04.07.2020,c17e3e2
+Passed,Amtrak,NRG,Electric,g6061847692cfd0d,ts_49,Ohio,te,Toledo Edison,',,,,,635 WRIGHT AVE,2,TOLEDO,OH,43609.0,43609.0,,email,04.07.2020,d62b0e8
+Passed,Amtrak,NRG,Electric,g6061847692cfd0d,ts_79,Ohio,te,Toledo Edison,'08000521262720005915,MARK,LENZ,TE,Electric,340 S REYNOLDS RD,288,TOLEDO,OH,43615,43615,,email,04.07.2020,e9de45b
+Passed,Amtrak,NRG,Electric,g6061847692cfd0d,ts_109,Ohio,te,Toledo Edison,'08000946732470018467,NADINE,KODER,TE,Electric,5115 RAINBOW DR,,DELTA,OH,43515,43515,,email,04.07.2020,fdcfe53

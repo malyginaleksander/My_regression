@@ -1,0 +1,122 @@
+from __future__ import print_function
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.select import Select
+import time
+import xlrd
+import os
+import pytest
+from collections import namedtuple
+from States.NrgEnroll import NrgEnroll
+from ECC_PageFactory.test_SignUpAccount import test_SignUpAccount
+from PageFactory.ConfirmationPage import ConfirmationPage
+from PageFactory.VerificationPage import VerificationPage
+from PageFactory.ThanksPage import ThanksPage
+import pytest
+from PageFactory.HomePage import HomePage
+from PageFactory.PlansPage import PlansPage
+
+local_path = "./ECC_TestData/TestData.xlsx"
+full_path = os.path.abspath(local_path)
+workbook = xlrd.open_workbook(full_path)
+worksheet = workbook.sheet_by_name('Enroll_electric_planspage')
+
+electric_enrollment = []
+
+headers = [cell.value for cell in worksheet.row(0)]
+Payload = namedtuple('payload', headers)
+
+for current_row in range(1, worksheet.nrows):
+    values = [cell.value for cell in worksheet.row(current_row)]
+    value_dict = dict(zip(headers, values))
+    electric_enrollment.append(Payload(**value_dict))
+
+@pytest.fixture(scope='module')
+def driver(request):
+    print('driver_setup()')
+    if os.environ.get('USE_PHANTOM'):
+        print("making PhantomJS driver")
+
+        _driver = webdriver.PhantomJS()
+        _driver.implicitly_wait(5)
+        _driver.set_window_size(6000,2000)
+    else:
+        print("making Firefox driver")
+        _driver = webdriver.Firefox()
+
+    def resource_a_teardown():
+        print('driver_setup teardown()')
+        if _driver:
+            print(_driver.current_url)
+            _driver.close()
+        else:
+            assert False, "can't close driver"
+
+    request.addfinalizer(resource_a_teardown)
+    return _driver
+
+@pytest.mark.parametrize("payload", electric_enrollment, ids=[p.tc for p in electric_enrollment])
+
+def test_electric_enrollment(driver, payload):
+     print( payload.tc, 'NRG_regression WEB Electric Enrollment - State = ', payload.state )
+
+     try:
+         _electric_enrollment(driver, payload)
+     except Exception as ae:
+        import uuid
+        filename = "./failed/test_electric_enrollment_fail_{}_{}.png".format(payload.tc,uuid.uuid4())
+        driver.save_screenshot(filename)
+        print("Saving screenshot of failed test -- ", payload.tc)
+        print("filename:", filename)
+        print(str(ae))
+        raise ae
+
+def _electric_enrollment(driver, payload):
+        host = os.environ.get('ECC_ENROLL_HOST', 'http://www.pt.nrghomepower.com/')
+        driver = webdriver.Firefox()
+        driver.implicitly_wait(12)
+        driver.get('http://www.pt.nrghomepower.com/')
+        driver.maximize_window()
+
+        NrgEn = NrgEnroll(driver)
+
+        NrgEn = NrgEnroll(driver)
+        NrgEn.Click_Shops_FromMenu(payload)
+        NrgEn.Click_Plans_FromMenu(payload)
+        NrgEn.enterZipcode_submit_ForPlans(payload)
+        NrgEn.select_electric_utility(payload)
+        time.sleep(2)
+        NrgEn.select_electric_plan(payload)
+        time.sleep(2)
+        NrgEn.clickcontinue_planspage(payload)
+        time.sleep(2)
+
+        ## Personal Information
+        print( "Personal Information" )
+
+        NrgEn.fill_data(payload)
+        NrgEn.enter_account_number(payload.accountNo)
+        NrgEn.click_continue()  # continue-submit
+        time.sleep(4)
+
+        # Verification
+        vp = VerificationPage(driver)
+        vp.scroll_termsandconditions_and_agree()
+        time.sleep(2)
+
+        ## Grab Confirmation Code
+        cop = ConfirmationPage(driver)
+        confirmationNum = cop.get_confirmation_number()
+        print("Confirmation Number is: " + str(confirmationNum))
+        time.sleep(2)
+
+
+        # Here Expected confirmation number should be updated
+        assert confirmationNum == confirmationNum
+
+        ##Select Preferences
+        print("Selecting Preferences")
+        NrgEn.select_allpreferences_on_confirmationpage()
+        time.sleep(2)
+
+        driver.close()

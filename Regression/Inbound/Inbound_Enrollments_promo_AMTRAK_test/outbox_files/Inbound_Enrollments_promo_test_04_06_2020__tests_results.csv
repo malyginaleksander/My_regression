@@ -1,0 +1,25 @@
+status,test_name,brand,account_type_1,SKU,TS,state,utility_,utility_1,UAN,FirstName,LastName,Service_Type,UtilitySlug,ServiceAddress1,ServiceAddress2,ServiceCity,ServiceState,ServiceZip,zip_code,city,with_email,date_,confcode
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_7,Massachusetts,camb,National Grid,',,,,,15 RICHDALE AVE,3,CAMBRIDGE,,,02140,,email,04.06.2020,66b59f6
+Passed,Amtrak,NRG,Electric,g3966bd8c41fb538,ts_8,Massachusetts,come,National Grid,',,,,,69 FOLEY DR,3,NEW BEDFORD,,,02745,,email,04.06.2020,7862af1
+Passed,Amtrak,NRG,Electric,g5db8918f598b7e8,ts_9,Massachusetts,meco,National Grid,',,,,,33 RAMSHORN RD,3,CHARLTON,,,01507,,email,04.06.2020,8b79cef
+Passed,Amtrak,NRG,Electric,gc3b9353a09443a7,ts_10,Massachusetts,ngntkt,National Grid,',,,,,15 1/5 MARY ANN DR,3,NANTUCKET,,,02554,,email,04.06.2020,9e97916
+Passed,Amtrak,NRG,Electric,g92fe6a4f9509e97,ts_11,Massachusetts,beco,Eversource (Eastern Massachusetts),',,,,,41 MORTON ST,3,JAMAICA PLAIN,,,02130,,email,04.06.2020,b10a83c
+Passed,Amtrak,NRG,Electric,gd872de76467c783,ts_12,Massachusetts,wmeco,Eversource (Western Massachusetts),',,,,,49 CAPTAIN RD,3,LONGMEADOW,,,01106,,email,04.06.2020,c5636ff
+Passed,Amtrak,NRG,Electric,g89bfb86639b8933,ts_13,New Jersey,pseg,PSE&G,',,,,,420 BROAD AVE,3,PALISADES PARK,,,07650,,email,04.06.2020,d99cf2d
+Passed,Amtrak,NRG,Electric,g9308d570d10df32,ts_14,New Jersey,jcpl,Jersey Central Power & Light (JCP&L),',,,,,8 POPLAR RD,3,RINGOES,,,08551,,email,04.06.2020,ec22569
+Passed,Amtrak,NRG,Electric,gb7d2ac129587629,ts_15,New Jersey,ace,Atlantic City Electric,',,,,,4401 ATLANTIC AVE,3,ATLANTIC CITY,,,08401,,email,04.06.2020,0020931
+Passed,Amtrak,NRG,Electric,g547cf6a1cf8b2cd,ts_18,Ohio,aepn,AEP Ohio,',,,,,294 N 10TH ST,3,NEWARK,,,43055,,email,04.06.2020,130f6d8
+Passed,Amtrak,NRG,Electric,g6061847692cfd0d,ts_19,Ohio,te,Toledo Edison,',,,,,340 S REYNOLDS RD,3,TOLEDO,,,43615,,email,04.06.2020,280665c
+Passed,Amtrak,NRG,Electric,gcaa1ee834cf18f9,ts_29,Pennsylvania,penn,Penn Power,',,,,,1483 WINTERBERRY CT,3,HERMITAGE,,,16148,,email,04.06.2020,3c2ff7f
+Passed,Amtrak,NRG,Electric,gfe90cd4a62b8ccd,ts_31,Illinois,Comed,ComEd,',,,,,7323 S EBERHART AVE,3,CHICAGO,,,60619.0,,email,04.06.2020,503f64a
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_37,Massachusetts,camb,National Grid,',,,,,21 FAYETTE ST,3,CAMBRIDGE,,,02139,,email,04.06.2020,6116e6c
+Passed,Amtrak,NRG,Electric,g3966bd8c41fb538,ts_38,Massachusetts,come,National Grid,',,,,,121 TRACY LN,3,BREWSTER,,,02631,,email,04.06.2020,71d8baf
+Passed,Amtrak,NRG,Electric,g5db8918f598b7e8,ts_39,Massachusetts,meco,National Grid,',,,,,32 SOUTH ST,3,RANDOLPH,,,02368,,email,04.06.2020,850744d
+Passed,Amtrak,NRG,Electric,gc3b9353a09443a7,ts_40,Massachusetts,ngntkt,National Grid,',,,,,25 KITTIWAKE LN,3,NANTUCKET,,,02554,,email,04.06.2020,981e2c0
+Passed,Amtrak,NRG,Electric,g92fe6a4f9509e97,ts_41,Massachusetts,beco,Eversource (Eastern Massachusetts),',,,,,330 E ST,3,SOUTH BOSTON,,,02127,,email,04.06.2020,aa41de6
+Passed,Amtrak,NRG,Electric,gd872de76467c783,ts_42,Massachusetts,wmeco,Eversource (Western Massachusetts),',,,,,97 BELLE ST,3,SPRINGFIELD,,,01104,,email,04.06.2020,bd7c8ac
+Passed,Amtrak,NRG,Electric,g89bfb86639b8933,ts_43,New Jersey,pseg,PSE&G,',,,,,100 HENDEL AVE,3,NORTH ARLINGTON,,,07031,,email,04.06.2020,d0721d4
+Passed,Amtrak,NRG,Electric,g9308d570d10df32,ts_44,New Jersey,jcpl,Jersey Central Power & Light (JCP&L),',,,,,1 RIDGEVIEW RD,3,NEWTON,,,07860,,email,04.06.2020,e2ad06b
+Passed,Amtrak,NRG,Electric,gb7d2ac129587629,ts_45,New Jersey,ace,Atlantic City Electric,',,,,,106 STOCKTON CT,3,MONROEVILLE,,,08343,,email,04.06.2020,f5915f5
+Passed,Amtrak,NRG,Electric,g547cf6a1cf8b2cd,ts_48,Ohio,aepn,AEP Ohio,',,,,,123 FAIRMONT DR,3,FINDLAY,,,45840,,email,04.06.2020,08ebab6
+Passed,Amtrak,NRG,Electric,gb70b26ab2ef15e0,ts_58,Pennsylvania,peco,PECO,',,,,,105 CARMELLA CT,3,KING OF PRUSSIA,,,19406,,email,04.06.2020,1b82b71

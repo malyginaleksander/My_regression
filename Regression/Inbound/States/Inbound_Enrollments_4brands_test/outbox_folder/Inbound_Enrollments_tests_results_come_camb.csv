@@ -1,0 +1,7 @@
+test_name,brand,account_type_1,first_name,last_name,utility_1,type,categorie_1,zip,state,city,ServiceAddress1,email,emailmarketing,accountNo_1,sku,confcode
+Passed,06_04_2020_06_29_01_PM,ts__gme_new_1,GME,Electric,,KRISTEN_come,come,Eversource Energy (WMECo),Residential,Pollution Free Reliable Rate,02346,Massachusetts,Middleboro,7 JAMES WAY_come,'91694290484,ad2902d
+Passed,06_04_2020_06_30_51_PM,ts__gme_new_2,GME,Electric,,BURT_come,come,Eversource Energy (NSTAR),Residential,Pollution Free Reliable Rate,02630,Massachusetts,Barnstable ,1399 PHILLIPS RD_come,'69781899781,1a58073
+Passed,06_04_2020_06_31_18_PM,ts__gme_new_3,GME,Electric,,RACHEL_come,come,National Grid,Residential,Pollution Free Reliable Rate,02638,Massachusetts,Dennis, 40 GLENDALE RD_come,'28414146888,35b5ec2
+Passed,06_04_2020_06_31_47_PM,ts__gme_new_4,GME,Electric,,RACHEL_camb,camb,Eversource Energy (WMECo),Residential,Pollution Free Reliable Rate,02139,Massachusetts,Cambridge, 35 FLINTLOCK_camb,'48313655185,521a6d8
+Passed,06_04_2020_06_32_13_PM,ts__gme_new_5,GME,Electric,,CHRISTINA_camb,camb,Eversource Energy (NSTAR),Residential,Pollution Free Reliable Rate,02140,Massachusetts,Cambridge, 51 PLATEAU AVE_camb,'37824073886,6c07aed
+Passed,06_04_2020_06_32_40_PM,ts__gme_new_6,GME,Electric,,KATHRYN_camb,camb,National Grid,Residential,Pollution Free Reliable Rate,02238,Massachusetts,Cambridge,27 LOUIS ST_camb,'62413340293,874d6bb

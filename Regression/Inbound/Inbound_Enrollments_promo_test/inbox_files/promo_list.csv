@@ -1,0 +1,358 @@
+state,Partner,Product,account_type_1,Bonus,Ongoing_Earn,Campaign_Code,Promo_Code,Slug,URL,utility_1,PROMO_OFFER_TEXT
+Illinois,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,/aalil7910,ComEd,Power Trip Electric Plan with AAdvantage miles
+Illinois,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,/aalil7910,Ameren,Power Trip Electric Plan with AAdvantage miles
+Illinois,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7910,788,aal_2mon_2500_bonus_2pcnt_earn_gas,/aalil7910,Nicor Gas,Power Trip Natural Gas Plan with AAdvantage miles
+Illinois,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7910,788,aal_2mon_2500_bonus_2pcnt_earn_gas,/aalil7910,Peoples Gas,Power Trip Natural Gas Plan with AAdvantage miles
+Illinois,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,/aalil7911,ComEd,Power Trip Electric Plan with AAdvantage miles
+Illinois,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,/aalil7911,Ameren,Power Trip Electric Plan with AAdvantage miles
+Illinois,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7911,788,aal_2mon_2500_bonus_2pcnt_earn_gas,/aalil7911,Nicor Gas,Power Trip Natural Gas Plan with AAdvantage miles
+Illinois,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7911,788,aal_2mon_2500_bonus_2pcnt_earn_gas,/aalil7911,Peoples Gas,Power Trip Natural Gas Plan with AAdvantage miles
+Illinois,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,/aalil7912,ComEd,Power Trip Electric Plan with AAdvantage miles
+Illinois,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,/aalil7912,Ameren,Power Trip Electric Plan with AAdvantage miles
+Illinois,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7912,788,aal_2mon_2500_bonus_2pcnt_earn_gas,/aalil7912,Nicor Gas,Power Trip Natural Gas Plan with AAdvantage miles
+Illinois,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7912,788,aal_2mon_2500_bonus_2pcnt_earn_gas,/aalil7912,Peoples Gas,Power Trip Natural Gas Plan with AAdvantage miles
+Illinois,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,/aalil7913,ComEd,Power Trip Electric Plan with AAdvantage miles
+Illinois,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,/aalil7913,Ameren,Power Trip Electric Plan with AAdvantage miles
+Illinois,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7913,788,aal_2mon_2500_bonus_2pcnt_earn_gas,/aalil7913,Nicor Gas,Power Trip Natural Gas Plan with AAdvantage miles
+Illinois,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7913,788,aal_2mon_2500_bonus_2pcnt_earn_gas,/aalil7913,Peoples Gas,Power Trip Natural Gas Plan with AAdvantage miles
+Illinois,SPW,E,Electric,"50,000 Speedy Rewards points",15 point/$1,7910,408,spw_2mon_50000_bonus_15pcnt_earn,/spwil7910,ComEd,Power Trip Electric Plan with Speedy Rewards points
+Illinois,SPW,E,Electric,"50,000 Speedy Rewards points",15 point/$1,7910,408,spw_2mon_50000_bonus_15pcnt_earn,/spwil7910,Ameren,Power Trip Electric Plan with Speedy Rewards points
+Illinois,SPW,G,Gas,"30,000 Speedy Rewards points",15 point/$1,7910,409,spw_2mon_50000_bonus_15pcnt_earn,/spwil7910,Nicor Gas,Power Trip Natural Gas Plan with Speedy Rewards points
+Illinois,SPW,G,Gas,"30,000 Speedy Rewards points",15 point/$1,7910,409,spw_2mon_50000_bonus_15pcnt_earn,/spwil7910,Peoples Gas,Power Trip Natural Gas Plan with Speedy Rewards points
+Illinois,UAL,E,Electric,"10,000 MileagePlus Miles",2 points/ $1,7910,47,ual_2mon_10000_bonus_2pcnt_earn,/ualil7910,ComEd,Power Trip Electric Plan with MileagePlus miles
+Illinois,UAL,E,Electric,"10,000 MileagePlus Miles",2 points/ $1,7910,47,ual_2mon_10000_bonus_2pcnt_earn,/ualil7910,Ameren,Power Trip Electric Plan with MileagePlus miles
+Illinois,UAL,G,Gas,"2,500 MileagePlus Miles",2 points/ $1,7910,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,/ualil7910,Nicor Gas,Power Trip Natural Gas Plan with MileagePlus miles
+Illinois,UAL,G,Gas,"2,500 MileagePlus Miles",2 points/ $1,7910,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,/ualil7910,Peoples Gas,Power Trip Natural Gas Plan with MileagePlus miles
+Illinois,UAL,E,Electric,"10,000 MileagePlus Miles",2 points/ $1,7911,47,ual_2mon_10000_bonus_2pcnt_earn,/ualil7911,ComEd,Power Trip Electric Plan with MileagePlus miles
+Illinois,UAL,E,Electric,"10,000 MileagePlus Miles",2 points/ $1,7911,47,ual_2mon_10000_bonus_2pcnt_earn,/ualil7911,Ameren,Power Trip Electric Plan with MileagePlus miles
+Illinois,UAL,G,Gas,"2,500 MileagePlus Miles",2 points/ $1,7911,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,/ualil7911,Nicor Gas,Power Trip Natural Gas Plan with MileagePlus miles
+Illinois,UAL,G,Gas,"2,500 MileagePlus Miles",2 points/ $1,7911,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,/ualil7911,Peoples Gas,Power Trip Natural Gas Plan with MileagePlus miles
+Illinois,NRR,E,Electric,$75 Cash Back Variable,3% annually,7915,533,0420dm_winback_75_bonus,/nrril7915,ComEd,Win Back Electric Variable Plan
+Illinois,NRR,E,Electric,$75 Cash Back Variable,3% annually,7915,533,0420dm_winback_75_bonus,/nrril7915,Ameren,Win Back Electric Variable Plan
+Illinois,NRR,G,Gas,$25 Cash Back,3% annually,7915,594,0420dm_winback_25_bonus_gas,/nrril7915,Nicor Gas,Win Back Natural Gas Variable Plan
+Illinois,NRR,G,Gas,$25 Cash Back,3% annually,7915,594,0420dm_winback_25_bonus_gas,/nrril7915,Peoples Gas,Win Back Natural Gas Variable Plan
+Massachusetts,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,/aalma7910,National Grid,Power Trip Electric Plan with AAdvantage miles
+Massachusetts,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,/aalma7910,Eversource (Eastern Massachusetts),Power Trip Electric Plan with AAdvantage miles
+Massachusetts,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,/aalma7910,Eversource (Western Massachusetts),Power Trip Electric Plan with AAdvantage miles
+Massachusetts,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,/aalma7911,National Grid,Power Trip Electric Plan with AAdvantage miles
+Massachusetts,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,/aalma7911,Eversource (Eastern Massachusetts),Power Trip Electric Plan with AAdvantage miles
+Massachusetts,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,/aalma7911,Eversource (Western Massachusetts),Power Trip Electric Plan with AAdvantage miles
+Massachusetts,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,/aalma7912,National Grid,Power Trip Electric Plan with AAdvantage miles
+Massachusetts,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,/aalma7912,Eversource (Eastern Massachusetts),Power Trip Electric Plan with AAdvantage miles
+Massachusetts,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,/aalma7912,Eversource (Western Massachusetts),Power Trip Electric Plan with AAdvantage miles
+Massachusetts,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,/aalma7913,National Grid,Power Trip Electric Plan with AAdvantage miles
+Massachusetts,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,/aalma7913,Eversource (Eastern Massachusetts),Power Trip Electric Plan with AAdvantage miles
+Massachusetts,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,/aalma7913,Eversource (Western Massachusetts),Power Trip Electric Plan with AAdvantage miles
+Massachusetts,AAL,E,Electric,"10,000 AAdvantage miles - FIXED ECF",2 miles/ $1 ,7914,47,aal_6mofix_10000_2pct_earn,/aalma7914,National Grid,AAL - Fixed Price Test 6 Mo Fixed
+Massachusetts,AAL,E,Electric,"10,000 AAdvantage miles - FIXED ECF",2 miles/ $1 ,7914,47,aal_6mofix_10000_2pct_earn,/aalma7914,Eversource (Eastern Massachusetts),AAL - Fixed Price Test 6 Mo Fixed
+Massachusetts,AAL,E,Electric,"10,000 AAdvantage miles - FIXED ECF",2 miles/ $1 ,7914,47,aal_6mofix_10000_2pct_earn,/aalma7914,Eversource (Western Massachusetts),AAL - Fixed Price Test 6 Mo Fixed
+Massachusetts,UAL,E,Electric,"10,000 United MileagePlus Miles",2 miles/ $1,7910,47,ual_2mon_10000_bonus_2pcnt_earn,/ualma7910,National Grid,Power Trip Electric Plan with MileagePlus miles
+Massachusetts,UAL,E,Electric,"10,000 United MileagePlus Miles",2 miles/ $1,7910,47,ual_2mon_10000_bonus_2pcnt_earn,/ualma7910,Eversource (Eastern Massachusetts),Power Trip Electric Plan with MileagePlus miles
+Massachusetts,UAL,E,Electric,"10,000 United MileagePlus Miles",2 miles/ $1,7910,47,ual_2mon_10000_bonus_2pcnt_earn,/ualma7910,Eversource (Western Massachusetts),Power Trip Electric Plan with MileagePlus miles
+Massachusetts,UAL,E,Electric,"10,000 United MileagePlus Miles",2 miles/ $1,7911,47,ual_2mon_10000_bonus_2pcnt_earn,/ualma7911,National Grid,Power Trip Electric Plan with MileagePlus miles
+Massachusetts,UAL,E,Electric,"10,000 United MileagePlus Miles",2 miles/ $1,7911,47,ual_2mon_10000_bonus_2pcnt_earn,/ualma7911,Eversource (Eastern Massachusetts),Power Trip Electric Plan with MileagePlus miles
+Massachusetts,UAL,E,Electric,"10,000 United MileagePlus Miles",2 miles/ $1,7911,47,ual_2mon_10000_bonus_2pcnt_earn,/ualma7911,Eversource (Western Massachusetts),Power Trip Electric Plan with MileagePlus miles
+Massachusetts,UAL,E,Electric,"10,000 United MileagePlus Miles - FIXED ECF",2 miles/ $1,7914,47,ual_6mofix_10000_2pct_earn,/ualma7914,National Grid,UAL - Fixed Price Test 6 Mo Fixed
+Massachusetts,UAL,E,Electric,"10,000 United MileagePlus Miles - FIXED ECF",2 miles/ $1,7914,47,ual_6mofix_10000_2pct_earn,/ualma7914,Eversource (Eastern Massachusetts),UAL - Fixed Price Test 6 Mo Fixed
+Massachusetts,UAL,E,Electric,"10,000 United MileagePlus Miles - FIXED ECF",2 miles/ $1,7914,47,ual_6mofix_10000_2pct_earn,/ualma7914,Eversource (Western Massachusetts),UAL - Fixed Price Test 6 Mo Fixed
+Massachusetts,NRR,E,Electric,$75 Cash back ,3 % CB annually/ $1,7915,533,0420dm_winback_75_bonus,/nrrma7915,National Grid,Win Back Electric Variable Plan
+Massachusetts,NRR,E,Electric,$75 Cash back ,3 % CB annually/ $1,7915,533,0420dm_winback_75_bonus,/nrrma7915,Eversource (Eastern Massachusetts),Win Back Electric Variable Plan
+Massachusetts,NRR,E,Electric,$75 Cash back ,3 % CB annually/ $1,7915,533,0420dm_winback_75_bonus,/nrrma7915,Eversource (Western Massachusetts),Win Back Electric Variable Plan
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,/aalmd7910,BGE,Power Trip Electric Plan with AAdvantage miles
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,/aalmd7910,Delmarva Power,Power Trip Electric Plan with AAdvantage miles
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,/aalmd7910,Pepco,Power Trip Electric Plan with AAdvantage miles
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,/aalmd7910,Potomac Edison,Power Trip Electric Plan with AAdvantage miles
+Maryland,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7910,788,aal_2mon_2500_bonus_2pcnt_earn_gas,/aalmd7910,BGE,Power Trip Natural Gas Plan with AAdvantage miles
+Maryland,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7910,788,aal_2mon_2500_bonus_2pcnt_earn_gas,/aalmd7910,Washington Gas,Power Trip Natural Gas Plan with AAdvantage miles
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,/aalmd7911,BGE,Power Trip Electric Plan with AAdvantage miles
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,/aalmd7911,Delmarva Power,Power Trip Electric Plan with AAdvantage miles
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,/aalmd7911,Pepco,Power Trip Electric Plan with AAdvantage miles
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,/aalmd7911,Potomac Edison,Power Trip Electric Plan with AAdvantage miles
+Maryland,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7911,788,aal_2mon_2500_bonus_2pcnt_earn_gas,/aalmd7911,BGE,Power Trip Natural Gas Plan with AAdvantage miles
+Maryland,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7911,788,aal_2mon_2500_bonus_2pcnt_earn_gas,/aalmd7911,Washington Gas,Power Trip Natural Gas Plan with AAdvantage miles
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,/aalmd7912,BGE,Power Trip Electric Plan with AAdvantage miles
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,/aalmd7912,Delmarva Power,Power Trip Electric Plan with AAdvantage miles
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,/aalmd7912,Pepco,Power Trip Electric Plan with AAdvantage miles
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,/aalmd7912,Potomac Edison,Power Trip Electric Plan with AAdvantage miles
+Maryland,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7912,788,aal_2mon_2500_bonus_2pcnt_earn_gas,/aalmd7912,BGE,Power Trip Natural Gas Plan with AAdvantage miles
+Maryland,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7912,788,aal_2mon_2500_bonus_2pcnt_earn_gas,/aalmd7912,Washington Gas,Power Trip Natural Gas Plan with AAdvantage miles
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,/aalmd7913,BGE,Power Trip Electric Plan with AAdvantage miles
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,/aalmd7913,Delmarva Power,Power Trip Electric Plan with AAdvantage miles
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,/aalmd7913,Pepco,Power Trip Electric Plan with AAdvantage miles
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,/aalmd7913,Potomac Edison,Power Trip Electric Plan with AAdvantage miles
+Maryland,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7913,788,aal_2mon_2500_bonus_2pcnt_earn_gas,/aalmd7913,BGE,Power Trip Natural Gas Plan with AAdvantage miles
+Maryland,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7913,788,aal_2mon_2500_bonus_2pcnt_earn_gas,/aalmd7913,Washington Gas,Power Trip Natural Gas Plan with AAdvantage miles
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles - FIXED ECF",2 miles/ $1 ,7914,47,aal_6mofix_10000_2pct_earn,/aalmd7914,BGE,AAL - Fixed Price Test 6 Mo Fixed
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles - FIXED ECF",2 miles/ $1 ,7914,47,aal_6mofix_10000_2pct_earn,/aalmd7914,Delmarva Power,AAL - Fixed Price Test 6 Mo Fixed
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles - FIXED ECF",2 miles/ $1 ,7914,47,aal_6mofix_10000_2pct_earn,/aalmd7914,Pepco,AAL - Fixed Price Test 6 Mo Fixed
+Maryland,AAL,E,ELECTRIC,"10,000 AAdvantage miles - FIXED ECF",2 miles/ $1 ,7914,47,aal_6mofix_10000_2pct_earn,/aalmd7914,Potomac Edison,AAL - Fixed Price Test 6 Mo Fixed
+Maryland,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7914,788,aal_2mon_2500_bonus_2pcnt_earn_gas,/aalmd7914,BGE,Power Trip Natural Gas Plan with AAdvantage miles
+Maryland,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7914,788,aal_2mon_2500_bonus_2pcnt_earn_gas,/aalmd7914,Washington Gas,Power Trip Natural Gas Plan with AAdvantage miles
+Maryland,ATK,E,ELECTRIC,"10,000 Amtrak Guest Rewards",2 points/ $1,7910,47,atk_2mon_10000_bonus_2pcnt_earn,/atkmd7910,BGE,Power Trip Electric Plan with Amtrak Guest Rewards points
+Maryland,ATK,E,ELECTRIC,"10,000 Amtrak Guest Rewards",2 points/ $1,7910,47,atk_2mon_10000_bonus_2pcnt_earn,/atkmd7910,Delmarva Power,Power Trip Electric Plan with Amtrak Guest Rewards points
+Maryland,ATK,E,ELECTRIC,"10,000 Amtrak Guest Rewards",2 points/ $1,7910,47,atk_2mon_10000_bonus_2pcnt_earn,/atkmd7910,Pepco,Power Trip Electric Plan with Amtrak Guest Rewards points
+Maryland,ATK,E,ELECTRIC,"10,000 Amtrak Guest Rewards",2 points/ $1,7910,47,atk_2mon_10000_bonus_2pcnt_earn,/atkmd7910,Potomac Edison,Power Trip Electric Plan with Amtrak Guest Rewards points
+Maryland,ATK,G,Gas,"2,500 Amtrak Guest Rewards",2 points/ $1,7910,788,atk_2mon_2500_bonus_2pcnt_earn_gas,/atkmd7910,BGE,Power Trip Natural Gas Plan with Amtrak Guest Rewards points
+Maryland,ATK,G,Gas,"2,500 Amtrak Guest Rewards",2 points/ $1,7910,788,atk_2mon_2500_bonus_2pcnt_earn_gas,/atkmd7910,Washington Gas,Power Trip Natural Gas Plan with Amtrak Guest Rewards points
+Maryland,UAL,E,ELECTRIC,"10,000 MileagePlus miles",2 miles/ $1,7910,47,ual_2mon_10000_bonus_2pcnt_earn,/ualmd7910,BGE,Power Trip Electric Plan with MileagePlus miles
+Maryland,UAL,E,ELECTRIC,"10,000 MileagePlus miles",2 miles/ $1,7910,47,ual_2mon_10000_bonus_2pcnt_earn,/ualmd7910,Delmarva Power,Power Trip Electric Plan with MileagePlus miles
+Maryland,UAL,E,ELECTRIC,"10,000 MileagePlus miles",2 miles/ $1,7910,47,ual_2mon_10000_bonus_2pcnt_earn,/ualmd7910,Pepco,Power Trip Electric Plan with MileagePlus miles
+Maryland,UAL,E,ELECTRIC,"10,000 MileagePlus miles",2 miles/ $1,7910,47,ual_2mon_10000_bonus_2pcnt_earn,/ualmd7910,Potomac Edison,Power Trip Electric Plan with MileagePlus miles
+Maryland,UAL,G,Gas,"2,500 MileagePlus miles",2 miles/ $1,7910,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,/ualmd7910,BGE,Power Trip Natural Gas Plan with MileagePlus miles
+Maryland,UAL,G,Gas,"2,500 MileagePlus miles",2 miles/ $1,7910,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,/ualmd7910,Washington Gas,Power Trip Natural Gas Plan with MileagePlus miles
+Maryland,UAL,E,ELECTRIC,"10,000 MileagePlus miles",2 miles/ $1,7911,47,ual_2mon_10000_bonus_2pcnt_earn,/ualmd7911,BGE,Power Trip Electric Plan with MileagePlus miles
+Maryland,UAL,E,ELECTRIC,"10,000 MileagePlus miles",2 miles/ $1,7911,47,ual_2mon_10000_bonus_2pcnt_earn,/ualmd7911,Delmarva Power,Power Trip Electric Plan with MileagePlus miles
+Maryland,UAL,E,ELECTRIC,"10,000 MileagePlus miles",2 miles/ $1,7911,47,ual_2mon_10000_bonus_2pcnt_earn,/ualmd7911,Pepco,Power Trip Electric Plan with MileagePlus miles
+Maryland,UAL,E,ELECTRIC,"10,000 MileagePlus miles",2 miles/ $1,7911,47,ual_2mon_10000_bonus_2pcnt_earn,/ualmd7911,Potomac Edison,Power Trip Electric Plan with MileagePlus miles
+Maryland,UAL,G,Gas,"2,500 MileagePlus miles",2 miles/ $1,7911,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,/ualmd7911,BGE,Power Trip Natural Gas Plan with MileagePlus miles
+Maryland,UAL,G,Gas,"2,500 MileagePlus miles",2 miles/ $1,7911,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,/ualmd7911,Washington Gas,Power Trip Natural Gas Plan with MileagePlus miles
+Maryland,UAL,E,ELECTRIC,"10,000 MileagePlus miles -FIXED - ECF",2 miles/ $1,7914,47,ual_6mofix_10000_2pct_earn,/ualmd7914,BGE,UAL - Fixed Price Test 6 Mo Fixed
+Maryland,UAL,E,ELECTRIC,"10,000 MileagePlus miles -FIXED - ECF",2 miles/ $1,7914,47,ual_6mofix_10000_2pct_earn,/ualmd7914,Delmarva Power,UAL - Fixed Price Test 6 Mo Fixed
+Maryland,UAL,E,ELECTRIC,"10,000 MileagePlus miles -FIXED - ECF",2 miles/ $1,7914,47,ual_6mofix_10000_2pct_earn,/ualmd7914,Pepco,UAL - Fixed Price Test 6 Mo Fixed
+Maryland,UAL,E,ELECTRIC,"10,000 MileagePlus miles -FIXED - ECF",2 miles/ $1,7914,47,ual_6mofix_10000_2pct_earn,/ualmd7914,Potomac Edison,UAL - Fixed Price Test 6 Mo Fixed
+Maryland,UAL,G,Gas,"2,500 MileagePlus miles",2 miles/ $1,7914,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,/ualmd7914,BGE,Power Trip Natural Gas Plan with MileagePlus miles
+Maryland,UAL,G,Gas,"2,500 MileagePlus miles",2 miles/ $1,7914,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,/ualmd7914,Washington Gas,Power Trip Natural Gas Plan with MileagePlus miles
+Maryland,NRR,E,ELECTRIC,$75  Cash Back ,3% CB annually,7915,533,0420dm_winback_75_bonus,/nrrmd7915,BGE,Win Back Electric Variable Plan
+Maryland,NRR,E,ELECTRIC,$75  Cash Back ,3% CB annually,7915,533,0420dm_winback_75_bonus,/nrrmd7915,Delmarva Power,Win Back Electric Variable Plan
+Maryland,NRR,E,ELECTRIC,$75  Cash Back ,3% CB annually,7915,533,0420dm_winback_75_bonus,/nrrmd7915,Pepco,Win Back Electric Variable Plan
+Maryland,NRR,E,ELECTRIC,$75  Cash Back ,3% CB annually,7915,533,0420dm_winback_75_bonus,/nrrmd7915,Potomac Edison,Win Back Electric Variable Plan
+Maryland,NRR,G,Gas,$25  Cash Back ,3% CB annually,7915,594,0420dm_winback_25_bonus_gas,/nrrmd7915,BGE,Win Back Natural Gas Variable Plan
+Maryland,NRR,G,Gas,$25  Cash Back ,3% CB annually,7915,594,0420dm_winback_25_bonus_gas,/nrrmd7915,Washington Gas,Win Back Natural Gas Variable Plan
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,aalnj7910,PSE&G,Power Trip Electric Plan with AAdvantage miles
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,aalnj7910,PSE&G,Power Trip Electric Plan with AAdvantage miles
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,aalnj7910,Jersey Central Power & Light (JCP&L),Power Trip Electric Plan with AAdvantage miles
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,aalnj7910,Rockland Electric Company (O&R),Power Trip Electric Plan with AAdvantage miles
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,aalnj7910,Atlantic City Electric,Power Trip Electric Plan with AAdvantage miles
+New Jersey,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7910,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aalnj7910,PSE&G Gas,Power Trip Natural Gas Plan with AAdvantage miles
+New Jersey,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7910,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aalnj7910,South Jersey Gas,Power Trip Natural Gas Plan with AAdvantage miles
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,aalnj7911,PSE&G,Power Trip Electric Plan with AAdvantage miles
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,aalnj7911,Jersey Central Power & Light (JCP&L),Power Trip Electric Plan with AAdvantage miles
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,aalnj7911,Rockland Electric Company (O&R),Power Trip Electric Plan with AAdvantage miles
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,aalnj7911,Atlantic City Electric,Power Trip Electric Plan with AAdvantage miles
+New Jersey,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7911,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aalnj7911,PSE&G Gas,Power Trip Natural Gas Plan with AAdvantage miles
+New Jersey,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7911,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aalnj7911,South Jersey Gas,Power Trip Natural Gas Plan with AAdvantage miles
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,aalnj7912,PSE&G,Power Trip Electric Plan with AAdvantage miles
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,aalnj7912,Jersey Central Power & Light (JCP&L),Power Trip Electric Plan with AAdvantage miles
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,aalnj7912,Rockland Electric Company (O&R),Power Trip Electric Plan with AAdvantage miles
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,aalnj7912,Atlantic City Electric,Power Trip Electric Plan with AAdvantage miles
+New Jersey,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7912,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aalnj7912,PSE&G Gas,Power Trip Natural Gas Plan with AAdvantage miles
+New Jersey,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7912,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aalnj7912,South Jersey Gas,Power Trip Natural Gas Plan with AAdvantage miles
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,aalnj7913,PSE&G,Power Trip Electric Plan with AAdvantage miles
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,aalnj7913,Jersey Central Power & Light (JCP&L),Power Trip Electric Plan with AAdvantage miles
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,aalnj7913,Rockland Electric Company (O&R),Power Trip Electric Plan with AAdvantage miles
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,aalnj7913,Atlantic City Electric,Power Trip Electric Plan with AAdvantage miles
+New Jersey,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7913,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aalnj7913,PSE&G Gas,Power Trip Natural Gas Plan with AAdvantage miles
+New Jersey,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7913,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aalnj7913,South Jersey Gas,Power Trip Natural Gas Plan with AAdvantage miles
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles - FIXED PRICE - ECF",2 miles/ $1 ,7914,47,aal_6mofix_10000_2pct_earn,aalnj7914,PSE&G,AAL - Fixed Price Test 6 Mo Fixed
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles - FIXED PRICE - ECF",2 miles/ $1 ,7914,47,aal_6mofix_10000_2pct_earn,aalnj7914,Jersey Central Power & Light (JCP&L),AAL - Fixed Price Test 6 Mo Fixed
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles - FIXED PRICE - ECF",2 miles/ $1 ,7914,47,aal_6mofix_10000_2pct_earn,aalnj7914,Rockland Electric Company (O&R),AAL - Fixed Price Test 6 Mo Fixed
+New Jersey,AAL,E,Electric,"10,000 AAdvantage miles - FIXED PRICE - ECF",2 miles/ $1 ,7914,47,aal_6mofix_10000_2pct_earn,aalnj7914,Atlantic City Electric,AAL - Fixed Price Test 6 Mo Fixed
+New Jersey,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7914,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aalnj7914,PSE&G Gas,Power Trip Natural Gas Plan with AAdvantage miles
+New Jersey,AAL,G,Gas,"2,500 AAdvantage miles",2 miles/ $1 ,7914,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aalnj7914,South Jersey Gas,Power Trip Natural Gas Plan with AAdvantage miles
+New Jersey,UAL,E,Electric,"10,000 MileagePlus Miles",2 miles/ $1,7910,47,ual_2mon_10000_bonus_2pcnt_earn,ualnj7910,PSE&G,Power Trip Electric Plan with MileagePlus miles
+New Jersey,UAL,E,Electric,"10,000 MileagePlus Miles",2 miles/ $1,7910,47,ual_2mon_10000_bonus_2pcnt_earn,ualnj7910,Jersey Central Power & Light (JCP&L),Power Trip Electric Plan with MileagePlus miles
+New Jersey,UAL,E,Electric,"10,000 MileagePlus Miles",2 miles/ $1,7910,47,ual_2mon_10000_bonus_2pcnt_earn,ualnj7910,Rockland Electric Company (O&R),Power Trip Electric Plan with MileagePlus miles
+New Jersey,UAL,E,Electric,"10,000 MileagePlus Miles",2 miles/ $1,7910,47,ual_2mon_10000_bonus_2pcnt_earn,ualnj7910,Atlantic City Electric,Power Trip Electric Plan with MileagePlus miles
+New Jersey,UAL,G,Gas,"2,500 MileagePlus Miles",2 miles/ $1,7910,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,ualnj7910,PSE&G Gas,Power Trip Natural Gas Plan with MileagePlus miles
+New Jersey,UAL,G,Gas,"2,500 MileagePlus Miles",2 miles/ $1,7910,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,ualnj7910,South Jersey Gas,Power Trip Natural Gas Plan with MileagePlus miles
+New Jersey,UAL,E,Electric,"10,000 MileagePlus Miles",2 miles/ $1,7911,47,ual_2mon_10000_bonus_2pcnt_earn,ualnj7911,PSE&G,Power Trip Electric Plan with MileagePlus miles
+New Jersey,UAL,E,Electric,"10,000 MileagePlus Miles",2 miles/ $1,7911,47,ual_2mon_10000_bonus_2pcnt_earn,ualnj7911,Jersey Central Power & Light (JCP&L),Power Trip Electric Plan with MileagePlus miles
+New Jersey,UAL,E,Electric,"10,000 MileagePlus Miles",2 miles/ $1,7911,47,ual_2mon_10000_bonus_2pcnt_earn,ualnj7911,Rockland Electric Company (O&R),Power Trip Electric Plan with MileagePlus miles
+New Jersey,UAL,E,Electric,"10,000 MileagePlus Miles",2 miles/ $1,7911,47,ual_2mon_10000_bonus_2pcnt_earn,ualnj7911,Atlantic City Electric,Power Trip Electric Plan with MileagePlus miles
+New Jersey,UAL,G,Gas,"2,500 MileagePlus Miles",2 miles/ $1,7911,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,ualnj7911,PSE&G Gas,Power Trip Natural Gas Plan with MileagePlus miles
+New Jersey,UAL,G,Gas,"2,500 MileagePlus Miles",2 miles/ $1,7911,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,ualnj7911,South Jersey Gas,Power Trip Natural Gas Plan with MileagePlus miles
+New Jersey,UAL,E,Electric,"10,000 MileagePluse Miles - FIXED PRICE - ECF",2 miles/ $1 ,7914,47,ual_6mofix_10000_2pct_earn,ualnj7914,PSE&G,UAL - Fixed Price Test 6 Mo Fixed
+New Jersey,UAL,E,Electric,"10,000 MileagePluse Miles - FIXED PRICE - ECF",2 miles/ $1 ,7914,47,ual_6mofix_10000_2pct_earn,ualnj7914,Jersey Central Power & Light (JCP&L),UAL - Fixed Price Test 6 Mo Fixed
+New Jersey,UAL,E,Electric,"10,000 MileagePluse Miles - FIXED PRICE - ECF",2 miles/ $1 ,7914,47,ual_6mofix_10000_2pct_earn,ualnj7914,Rockland Electric Company (O&R),UAL - Fixed Price Test 6 Mo Fixed
+New Jersey,UAL,E,Electric,"10,000 MileagePluse Miles - FIXED PRICE - ECF",2 miles/ $1 ,7914,47,ual_6mofix_10000_2pct_earn,ualnj7914,Atlantic City Electric,UAL - Fixed Price Test 6 Mo Fixed
+New Jersey,UAL,G,Gas,"2,500 MileagePlus Miles",2 miles/ $1 ,7914,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,ualnj7914,PSE&G Gas,Power Trip Natural Gas Plan with MileagePlus miles
+New Jersey,UAL,G,Gas,"2,500 MileagePlus Miles",2 miles/ $1 ,7914,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,ualnj7914,South Jersey Gas,Power Trip Natural Gas Plan with MileagePlus miles
+New Jersey,NRR,E,Electric,"10,000 MileagePlus Miles",2 miles/ $1,7915,533,0420dm_winback_75_bonus,nrrnj7915,PSE&G,Win Back Electric Variable Plan
+New Jersey,NRR,E,Electric,"10,000 MileagePlus Miles",2 miles/ $1,7915,533,0420dm_winback_75_bonus,nrrnj7915,Jersey Central Power & Light (JCP&L),Win Back Electric Variable Plan
+New Jersey,NRR,E,Electric,"10,000 MileagePlus Miles",2 miles/ $1,7915,533,0420dm_winback_75_bonus,nrrnj7915,Rockland Electric Company (O&R),Win Back Electric Variable Plan
+New Jersey,NRR,E,Electric,"10,000 MileagePlus Miles",2 miles/ $1,7915,533,0420dm_winback_75_bonus,nrrnj7915,Atlantic City Electric,Win Back Electric Variable Plan
+New Jersey,NRR,G,Gas,"2,500 MileagePlus Miles",2 miles/ $1,7915,594,0420dm_winback_25_bonus_gas,nrrnj7915,PSE&G Gas,Win Back Natural Gas Variable Plan
+New Jersey,NRR,G,Gas,"2,500 MileagePlus Miles",2 miles/ $1,7915,594,0420dm_winback_25_bonus_gas,nrrnj7915,South Jersey Gas,Win Back Natural Gas Variable Plan
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7910,Met-Ed,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7910,PECO,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7910,Penelec,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7910,Penn Power,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7910,PPL Electric Utilities,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7910,West Penn Power,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7911,Duquesne Light Company,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7911,Met-Ed,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7911,PECO,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7911,Penelec,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7911,Penn Power,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7911,PPL Electric Utilities,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7911,West Penn Power,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7912,Duquesne Light Company,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7912,Met-Ed,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7912,PECO,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7912,Penelec,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7912,Penn Power,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7912,PPL Electric Utilities,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7912,West Penn Power,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7913,Duquesne Light Company,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7913,Met-Ed,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7913,PECO,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7913,Penelec,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7913,Penn Power,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7913,PPL Electric Utilities,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AAL,E,Electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,/aalpa7913,West Penn Power,Power Trip Electric Plan with AAdvantage miles
+Pennsylvania,AMA,E,Electric,$75 Cash Back,3% annually,7910,78,ama_2mon_75_cash_3pcnt_earn,aaa.com/nrghomepa,Duquesne Light Company,Electric Plan for AAA Mid-Atlantic members
+Pennsylvania,AMA,E,Electric,$75 Cash Back,3% annually,7910,78,ama_2mon_75_cash_3pcnt_earn,aaa.com/nrghomepa,Met-Ed,Electric Plan for AAA Mid-Atlantic members
+Pennsylvania,AMA,E,Electric,$75 Cash Back,3% annually,7910,78,ama_2mon_75_cash_3pcnt_earn,aaa.com/nrghomepa,PECO,Electric Plan for AAA Mid-Atlantic members
+Pennsylvania,AMA,E,Electric,$75 Cash Back,3% annually,7910,78,ama_2mon_75_cash_3pcnt_earn,aaa.com/nrghomepa,Penelec,Electric Plan for AAA Mid-Atlantic members
+Pennsylvania,AMA,E,Electric,$75 Cash Back,3% annually,7910,78,ama_2mon_75_cash_3pcnt_earn,aaa.com/nrghomepa,Penn Power,Electric Plan for AAA Mid-Atlantic members
+Pennsylvania,AMA,E,Electric,$75 Cash Back,3% annually,7910,78,ama_2mon_75_cash_3pcnt_earn,aaa.com/nrghomepa,PPL Electric Utilities,Electric Plan for AAA Mid-Atlantic members
+Pennsylvania,AMA,E,Electric,$75 Cash Back,3% annually,7910,78,ama_2mon_75_cash_3pcnt_earn,aaa.com/nrghomepa,West Penn Power,Electric Plan for AAA Mid-Atlantic members
+Pennsylvania,SPW,E,Electric,"50,000 Speedy Rewards points",15 points /$1,7910,408,spw_2mon_50000_bonus_15pcnt_earn,/spwpa7910,Duquesne Light Company,Power Trip Electric Plan with Speedy Rewards points
+Pennsylvania,SPW,E,Electric,"50,000 Speedy Rewards points",15 points /$1,7910,408,spw_2mon_50000_bonus_15pcnt_earn,/spwpa7910,Met-Ed,Power Trip Electric Plan with Speedy Rewards points
+Pennsylvania,SPW,E,Electric,"50,000 Speedy Rewards points",15 points /$1,7910,408,spw_2mon_50000_bonus_15pcnt_earn,/spwpa7910,PECO,Power Trip Electric Plan with Speedy Rewards points
+Pennsylvania,SPW,E,Electric,"50,000 Speedy Rewards points",15 points /$1,7910,408,spw_2mon_50000_bonus_15pcnt_earn,/spwpa7910,Penelec,Power Trip Electric Plan with Speedy Rewards points
+Pennsylvania,SPW,E,Electric,"50,000 Speedy Rewards points",15 points /$1,7910,408,spw_2mon_50000_bonus_15pcnt_earn,/spwpa7910,Penn Power,Power Trip Electric Plan with Speedy Rewards points
+Pennsylvania,SPW,E,Electric,"50,000 Speedy Rewards points",15 points /$1,7910,408,spw_2mon_50000_bonus_15pcnt_earn,/spwpa7910,PPL Electric Utilities,Power Trip Electric Plan with Speedy Rewards points
+Pennsylvania,SPW,E,Electric,"50,000 Speedy Rewards points",15 points /$1,7910,408,spw_2mon_50000_bonus_15pcnt_earn,/spwpa7910,West Penn Power,Power Trip Electric Plan with Speedy Rewards points
+Pennsylvania,UAL,E,Electric,"10,000 MileagePlus miles",2 miles/ $1 ,7910,47,ual_2mon_10000_bonus_2pcnt_earn,/UALpa7910,Duquesne Light Company,Power Trip Electric Plan with MileagePlus miles
+Pennsylvania,UAL,E,Electric,"10,000 MileagePlus miles",2 miles/ $1 ,7910,47,ual_2mon_10000_bonus_2pcnt_earn,/UALpa7910,Met-Ed,Power Trip Electric Plan with MileagePlus miles
+Pennsylvania,UAL,E,Electric,"10,000 MileagePlus miles",2 miles/ $1 ,7910,47,ual_2mon_10000_bonus_2pcnt_earn,/UALpa7910,PECO,Power Trip Electric Plan with MileagePlus miles
+Pennsylvania,UAL,E,Electric,"10,000 MileagePlus miles",2 miles/ $1 ,7910,47,ual_2mon_10000_bonus_2pcnt_earn,/UALpa7910,Penelec,Power Trip Electric Plan with MileagePlus miles
+Pennsylvania,UAL,E,Electric,"10,000 MileagePlus miles",2 miles/ $1 ,7910,47,ual_2mon_10000_bonus_2pcnt_earn,/UALpa7910,Penn Power,Power Trip Electric Plan with MileagePlus miles
+Pennsylvania,UAL,E,Electric,"10,000 MileagePlus miles",2 miles/ $1 ,7910,47,ual_2mon_10000_bonus_2pcnt_earn,/UALpa7910,PPL Electric Utilities,Power Trip Electric Plan with MileagePlus miles
+Pennsylvania,UAL,E,Electric,"10,000 MileagePlus miles",2 miles/ $1 ,7910,47,ual_2mon_10000_bonus_2pcnt_earn,/UALpa7910,West Penn Power,Power Trip Electric Plan with MileagePlus miles
+Pennsylvania,UAL,E,Electric,"10,000 MileagePlus miles",2 miles/ $1 ,7911,47,ual_2mon_10000_bonus_2pcnt_earn,/UALpa7911,Duquesne Light Company,Power Trip Electric Plan with MileagePlus miles
+Pennsylvania,UAL,E,Electric,"10,000 MileagePlus miles",2 miles/ $1 ,7911,47,ual_2mon_10000_bonus_2pcnt_earn,/UALpa7911,Met-Ed,Power Trip Electric Plan with MileagePlus miles
+Pennsylvania,UAL,E,Electric,"10,000 MileagePlus miles",2 miles/ $1 ,7911,47,ual_2mon_10000_bonus_2pcnt_earn,/UALpa7911,PECO,Power Trip Electric Plan with MileagePlus miles
+Pennsylvania,UAL,E,Electric,"10,000 MileagePlus miles",2 miles/ $1 ,7911,47,ual_2mon_10000_bonus_2pcnt_earn,/UALpa7911,Penelec,Power Trip Electric Plan with MileagePlus miles
+Pennsylvania,UAL,E,Electric,"10,000 MileagePlus miles",2 miles/ $1 ,7911,47,ual_2mon_10000_bonus_2pcnt_earn,/UALpa7911,Penn Power,Power Trip Electric Plan with MileagePlus miles
+Pennsylvania,UAL,E,Electric,"10,000 MileagePlus miles",2 miles/ $1 ,7911,47,ual_2mon_10000_bonus_2pcnt_earn,/UALpa7911,PPL Electric Utilities,Power Trip Electric Plan with MileagePlus miles
+Pennsylvania,UAL,E,Electric,"10,000 MileagePlus miles",2 miles/ $1 ,7911,47,ual_2mon_10000_bonus_2pcnt_earn,/UALpa7911,West Penn Power,Power Trip Electric Plan with MileagePlus miles
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7916,553,0420dm_brand_50_bonus,/nrrpa7916,PECO,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7916,553,0420dm_brand_50_bonus,/nrrpa7916,PPL Electric Utilities,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7917,553,0420dm_brand_50_bonus,/nrrpa7917,Duquesne Light Company,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7917,553,0420dm_brand_50_bonus,/nrrpa7917,PPL Electric Utilities,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7917,553,0420dm_brand_50_bonus,/nrrpa7917,Met-Ed,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7917,553,0420dm_brand_50_bonus,/nrrpa7917,Penelec,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7917,553,0420dm_brand_50_bonus,/nrrpa7917,Penn Power,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7917,553,0420dm_brand_50_bonus,/nrrpa7917,West Penn Power,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7918,553,0420dm_brand_50_bonus,/nrrpa7918,Duquesne Light Company,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7918,553,0420dm_brand_50_bonus,/nrrpa7918,Met-Ed,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7918,553,0420dm_brand_50_bonus,/nrrpa7918,PECO,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7918,553,0420dm_brand_50_bonus,/nrrpa7918,Penelec,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7918,553,0420dm_brand_50_bonus,/nrrpa7918,Penn Power,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7918,553,0420dm_brand_50_bonus,/nrrpa7918,PPL Electric Utilities,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7918,553,0420dm_brand_50_bonus,/nrrpa7918,West Penn Power,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7919,553,0420dm_brand_50_bonus,/nrrpa7919,Duquesne Light Company,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7919,553,0420dm_brand_50_bonus,/nrrpa7919,Met-Ed,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7919,553,0420dm_brand_50_bonus,/nrrpa7919,PECO,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7919,553,0420dm_brand_50_bonus,/nrrpa7919,Penelec,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7919,553,0420dm_brand_50_bonus,/nrrpa7919,Penn Power,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7919,553,0420dm_brand_50_bonus,/nrrpa7919,PPL Electric Utilities,Cash Back Electric Plan
+Pennsylvania,NRR,E,Electric,$50 Cash Back, 3% CB annually,7919,553,0420dm_brand_50_bonus,/nrrpa7919,West Penn Power,Cash Back Electric Plan
+Pennsylvania,NRR,E,gas,$50 Cash Back, 3% CB annually,7919,553,0420dm_brand_50_bonus,/nrrpa7919,Philadelphia Gas Works,Cash Back Natural Gas Plan
+Pennsylvania,NRR,E,Electric,$75 Cash Back, 3% CB annually,7915,533,0420dm_winback_75_bonus,/nrrpa7915,Duquesne Light Company,Win Back Electric Variable Plan
+Pennsylvania,NRR,E,Electric,$75 Cash Back, 3% CB annually,7915,533,0420dm_winback_75_bonus,/nrrpa7915,Met-Ed,Win Back Electric Variable Plan
+Pennsylvania,NRR,E,Electric,$75 Cash Back, 3% CB annually,7915,533,0420dm_winback_75_bonus,/nrrpa7915,PECO,Win Back Electric Variable Plan
+Pennsylvania,NRR,E,Electric,$75 Cash Back, 3% CB annually,7915,533,0420dm_winback_75_bonus,/nrrpa7915,Penelec,Win Back Electric Variable Plan
+Pennsylvania,NRR,E,Electric,$75 Cash Back, 3% CB annually,7915,533,0420dm_winback_75_bonus,/nrrpa7915,Penn Power,Win Back Electric Variable Plan
+Pennsylvania,NRR,E,Electric,$75 Cash Back, 3% CB annually,7915,533,0420dm_winback_75_bonus,/nrrpa7915,PPL Electric Utilities,Win Back Electric Variable Plan
+Pennsylvania,NRR,E,Electric,$75 Cash Back, 3% CB annually,7915,533,0420dm_winback_75_bonus,/nrrpa7915,West Penn Power,Win Back Electric Variable Plan
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7910,Duke Energy Ohio,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7910,Dayton Power & Light,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7910,Toledo Edison,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7910,The Illuminating Company,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7910,Ohio Edison,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7910,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7910,AEP Ohio,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,G,gas,"2,500 AAdvantage miles",2 miles/ $1 ,7910,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aaloh7910,Dominion East Ohio,Power Trip Natural Gas Plan with AAdvantage miles
+Ohio,AAL,G,gas,"2,500 AAdvantage miles",2 miles/ $1 ,7910,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aaloh7910,Columbia Gas of Ohio,Power Trip Natural Gas Plan with AAdvantage miles
+Ohio,AAL,G,gas,"2,500 AAdvantage miles",2 miles/ $1 ,7910,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aaloh7910,Duke Energy Ohio,Power Trip Natural Gas Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7911,Duke Energy Ohio,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7911,Dayton Power & Light,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7911,Toledo Edison,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7911,The Illuminating Company,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7911,AEP Ohio,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7911,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7911,Ohio Edison,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,G,gas,"2,500 AAdvantage miles",2 miles/ $1 ,7911,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aaloh7911,Dominion East Ohio,Power Trip Natural Gas Plan with AAdvantage miles
+Ohio,AAL,G,gas,"2,500 AAdvantage miles",2 miles/ $1 ,7911,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aaloh7911,Columbia Gas of Ohio,Power Trip Natural Gas Plan with AAdvantage miles
+Ohio,AAL,G,gas,"2,500 AAdvantage miles",2 miles/ $1 ,7911,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aaloh7911,Duke Energy Ohio,Power Trip Natural Gas Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7912,Duke Energy Ohio,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7912,Dayton Power & Light,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7912,Toledo Edison,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7912,The Illuminating Company,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7912,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7912,AEP Ohio,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,G,gas,"2,500 AAdvantage miles",2 miles/ $1 ,7912,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aaloh7912,Dominion East Ohio,Power Trip Natural Gas Plan with AAdvantage miles
+Ohio,AAL,G,gas,"2,500 AAdvantage miles",2 miles/ $1 ,7912,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aaloh7912,Columbia Gas of Ohio,Power Trip Natural Gas Plan with AAdvantage miles
+Ohio,AAL,G,gas,"2,500 AAdvantage miles",2 miles/ $1 ,7912,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aaloh7912,Duke Energy Ohio,Power Trip Natural Gas Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7913,Duke Energy Ohio,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7913,Dayton Power & Light,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7913,Toledo Edison,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7913,The Illuminating Company,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles",2 miles/ $1 ,7913,47,aal_2mon_10000_bonus_2pcnt_earn,aaloh7913,AEP Ohio,Power Trip Electric Plan with AAdvantage miles
+Ohio,AAL,G,gas,"2,500 AAdvantage miles",2 miles/ $1 ,7913,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aaloh7913,Dominion East Ohio,Power Trip Natural Gas Plan with AAdvantage miles
+Ohio,AAL,G,gas,"2,500 AAdvantage miles",2 miles/ $1 ,7913,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aaloh7913,Columbia Gas of Ohio,Power Trip Natural Gas Plan with AAdvantage miles
+Ohio,AAL,G,gas,"2,500 AAdvantage miles",2 miles/ $1 ,7913,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aaloh7913,Duke Energy Ohio,Power Trip Natural Gas Plan with AAdvantage miles
+Ohio,AAL,E,electric,"10,000 AAdvantage miles - FIXED PRICE",2 miles/ $1 ,7914,47,aal_6mofix_10000_2pct_earn,aaloh7914,Duke Energy Ohio,AAL - Fixed Price Test 6 Mo Fixed
+Ohio,AAL,E,electric,"10,000 AAdvantage miles - FIXED PRICE",2 miles/ $1 ,7914,47,aal_6mofix_10000_2pct_earn,aaloh7914,Dayton Power & Light,AAL - Fixed Price Test 6 Mo Fixed
+Ohio,AAL,E,electric,"10,000 AAdvantage miles - FIXED PRICE",2 miles/ $1 ,7914,47,aal_6mofix_10000_2pct_earn,aaloh7914,Toledo Edison,AAL - Fixed Price Test 6 Mo Fixed
+Ohio,AAL,E,electric,"10,000 AAdvantage miles - FIXED PRICE",2 miles/ $1 ,7914,47,aal_6mofix_10000_2pct_earn,aaloh7914,The Illuminating Company,AAL - Fixed Price Test 6 Mo Fixed
+Ohio,AAL,E,electric,"10,000 AAdvantage miles - FIXED PRICE",2 miles/ $1 ,7914,47,aal_6mofix_10000_2pct_earn,aaloh7914,AEP Ohio,AAL - Fixed Price Test 6 Mo Fixed
+Ohio,AAL,G,gas,"2,500 AAdvantage miles",2 miles/ $1 ,7914,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aaloh7914,Dominion East Ohio,Power Trip Natural Gas Plan with AAdvantage miles
+Ohio,AAL,G,gas,"2,500 AAdvantage miles",2 miles/ $1 ,7914,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aaloh7914,Columbia Gas of Ohio,Power Trip Natural Gas Plan with AAdvantage miles
+Ohio,AAL,G,gas,"2,500 AAdvantage miles",2 miles/ $1 ,7914,788,aal_2mon_2500_bonus_2pcnt_earn_gas,aaloh7914,Duke Energy Ohio,Power Trip Natural Gas Plan with AAdvantage miles
+Ohio,AMA,E,electric,$75 Cash  Back,3% annually,7910,78,ama_2mon_75_cash_3pcnt_earn,aaa.com/nrghomeoh,Duke Energy Ohio,Electric Plan for AAA Mid-Atlantic members
+Ohio,AMA,E,electric,$75 Cash  Back,3% annually,7910,78,ama_2mon_75_cash_3pcnt_earn,aaa.com/nrghomeoh,Dayton Power & Light,Electric Plan for AAA Mid-Atlantic members
+Ohio,AMA,E,electric,$75 Cash  Back,3% annually,7910,78,ama_2mon_75_cash_3pcnt_earn,aaa.com/nrghomeoh,Toledo Edison,Electric Plan for AAA Mid-Atlantic members
+Ohio,AMA,E,electric,$75 Cash  Back,3% annually,7910,78,ama_2mon_75_cash_3pcnt_earn,aaa.com/nrghomeoh,The Illuminating Company,Electric Plan for AAA Mid-Atlantic members
+Ohio,AMA,E,electric,$75 Cash  Back,3% annually,7910,78,ama_2mon_75_cash_3pcnt_earn,aaa.com/nrghomeoh,AEP Ohio,Electric Plan for AAA Mid-Atlantic members
+Ohio,AMA,G,gas,$25 Cash Back ,3% annually,7910,791,ama_2mon_25_bonus_3pcnt_earn_gas,aaa.com/nrghomeoh,Dominion East Ohio,Natural Gas Plan for AAA Mid-Atlantic members
+Ohio,AMA,G,gas,$25 Cash Back ,3% annually,7910,791,ama_2mon_25_bonus_3pcnt_earn_gas,aaa.com/nrghomeoh,Columbia Gas of Ohio,Natural Gas Plan for AAA Mid-Atlantic members
+Ohio,AMA,G,gas,$25 Cash Back ,3% annually,7910,791,ama_2mon_25_bonus_3pcnt_earn_gas,aaa.com/nrghomeoh,Duke Energy Ohio,Natural Gas Plan for AAA Mid-Atlantic members
+Ohio,SPW,E,electric,"50,000 Speedy Rewards  Points",15 points/$1,7910,408,spw_2mon_50000_bonus_15pcnt_earn,spwoh7910,Duke Energy Ohio,Power Trip Electric Plan with Speedy Rewards points
+Ohio,SPW,E,electric,"50,000 Speedy Rewards  Points",15 points/$1,7910,408,spw_2mon_50000_bonus_15pcnt_earn,spwoh7910,Dayton Power & Light,Power Trip Electric Plan with Speedy Rewards points
+Ohio,SPW,E,electric,"50,000 Speedy Rewards  Points",15 points/$1,7910,408,spw_2mon_50000_bonus_15pcnt_earn,spwoh7910,Toledo Edison,Power Trip Electric Plan with Speedy Rewards points
+Ohio,SPW,E,electric,"50,000 Speedy Rewards  Points",15 points/$1,7910,408,spw_2mon_50000_bonus_15pcnt_earn,spwoh7910,The Illuminating Company,Power Trip Electric Plan with Speedy Rewards points
+Ohio,SPW,E,electric,"50,000 Speedy Rewards  Points",15 points/$1,7910,408,spw_2mon_50000_bonus_15pcnt_earn,spwoh7910,AEP Ohio,Power Trip Electric Plan with Speedy Rewards points
+Ohio,SPW,G,gas,"30,000 Speedy Rewards Points",15 points/$1,7910,409,spw_2mon_30000_bonus_15pt_earn_gas,spwoh7910,Dominion East Ohio,Power Trip Natural Gas Plan with Speedy Rewards points
+Ohio,SPW,G,gas,"30,000 Speedy Rewards Points",15 points/$1,7910,409,spw_2mon_30000_bonus_15pt_earn_gas,spwoh7910,Columbia Gas of Ohio,Power Trip Natural Gas Plan with Speedy Rewards points
+Ohio,SPW,G,gas,"30,000 Speedy Rewards Points",15 points/$1,7910,409,spw_2mon_30000_bonus_15pt_earn_gas,spwoh7910,Duke Energy Ohio,Power Trip Natural Gas Plan with Speedy Rewards points
+Ohio,UAL,E,electric,"10,000 Rapid Rewards Points",2 points/ $1,7910,47,ual_2mon_10000_bonus_2pcnt_earn,ualoh7910,Duke Energy Ohio,Power Trip Electric Plan with MileagePlus miles
+Ohio,UAL,E,electric,"10,000 Rapid Rewards Points",2 points/ $1,7910,47,ual_2mon_10000_bonus_2pcnt_earn,ualoh7910,Dayton Power & Light,Power Trip Electric Plan with MileagePlus miles
+Ohio,UAL,E,electric,"10,000 Rapid Rewards Points",2 points/ $1,7910,47,ual_2mon_10000_bonus_2pcnt_earn,ualoh7910,Toledo Edison,Power Trip Electric Plan with MileagePlus miles
+Ohio,UAL,E,electric,"10,000 Rapid Rewards Points",2 points/ $1,7910,47,ual_2mon_10000_bonus_2pcnt_earn,ualoh7910,The Illuminating Company,Power Trip Electric Plan with MileagePlus miles
+Ohio,UAL,E,electric,"10,000 Rapid Rewards Points",2 points/ $1,7910,47,ual_2mon_10000_bonus_2pcnt_earn,ualoh7910,AEP Ohio,Power Trip Electric Plan with MileagePlus miles
+Ohio,UAL,G,gas,"2,500 Rapid Rewards Points",2 points/ $1,7910,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,ualoh7910,Dominion East Ohio,Power Trip Natural Gas Plan with MileagePlus miles
+Ohio,UAL,G,gas,"2,500 Rapid Rewards Points",2 points/ $1,7910,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,ualoh7910,Columbia Gas of Ohio,Power Trip Natural Gas Plan with MileagePlus miles
+Ohio,UAL,G,gas,"2,500 Rapid Rewards Points",2 points/ $1,7910,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,ualoh7910,Duke Energy Ohio,Power Trip Natural Gas Plan with MileagePlus miles
+Ohio,UAL,E,electric,"10,000 Rapid Rewards Points",2 points/ $1,7911,47,ual_2mon_10000_bonus_2pcnt_earn,ualoh7911,Duke Energy Ohio,Power Trip Electric Plan with MileagePlus miles
+Ohio,UAL,E,electric,"10,000 Rapid Rewards Points",2 points/ $1,7911,47,ual_2mon_10000_bonus_2pcnt_earn,ualoh7911,Dayton Power & Light,Power Trip Electric Plan with MileagePlus miles
+Ohio,UAL,E,electric,"10,000 Rapid Rewards Points",2 points/ $1,7911,47,ual_2mon_10000_bonus_2pcnt_earn,ualoh7911,Toledo Edison,Power Trip Electric Plan with MileagePlus miles
+Ohio,UAL,E,electric,"10,000 Rapid Rewards Points",2 points/ $1,7911,47,ual_2mon_10000_bonus_2pcnt_earn,ualoh7911,The Illuminating Company,Power Trip Electric Plan with MileagePlus miles
+Ohio,UAL,E,electric,"10,000 Rapid Rewards Points",2 points/ $1,7911,47,ual_2mon_10000_bonus_2pcnt_earn,ualoh7911,AEP Ohio,Power Trip Electric Plan with MileagePlus miles
+Ohio,UAL,G,gas,"2,500 Rapid Rewards Points",2 points/ $1,7911,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,ualoh7911,Dominion East Ohio,Power Trip Natural Gas Plan with MileagePlus miles
+Ohio,UAL,G,gas,"2,500 Rapid Rewards Points",2 points/ $1,7911,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,ualoh7911,Columbia Gas of Ohio,Power Trip Natural Gas Plan with MileagePlus miles
+Ohio,UAL,G,gas,"2,500 Rapid Rewards Points",2 points/ $1,7911,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,ualoh7911,Duke Energy Ohio,Power Trip Natural Gas Plan with MileagePlus miles
+Ohio,UAL,E,electric,"10,000 MileagePlus Miles - FIXED PRICE",2 points/ $1,7914,47,ual_6mofix_10000_2pct_earn,ualoh7914,Duke Energy Ohio,UAL - Fixed Price Test 6 Mo Fixed
+Ohio,UAL,E,electric,"10,000 MileagePlus Miles - FIXED PRICE",2 points/ $1,7914,47,ual_6mofix_10000_2pct_earn,ualoh7914,Dayton Power & Light,UAL - Fixed Price Test 6 Mo Fixed
+Ohio,UAL,E,electric,"10,000 MileagePlus Miles - FIXED PRICE",2 points/ $1,7914,47,ual_6mofix_10000_2pct_earn,ualoh7914,Toledo Edison,UAL - Fixed Price Test 6 Mo Fixed
+Ohio,UAL,E,electric,"10,000 MileagePlus Miles - FIXED PRICE",2 points/ $1,7914,47,ual_6mofix_10000_2pct_earn,ualoh7914,The Illuminating Company,UAL - Fixed Price Test 6 Mo Fixed
+Ohio,UAL,E,electric,"10,000 MileagePlus Miles - FIXED PRICE",2 points/ $1,7914,47,ual_6mofix_10000_2pct_earn,ualoh7914,AEP Ohio,UAL - Fixed Price Test 6 Mo Fixed
+Ohio,UAL,G,gas,"2,500 Rapid Rewards Points",2 points/ $1,7914,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,ualoh7914,Dominion East Ohio,Power Trip Natural Gas Plan with MileagePlus miles
+Ohio,UAL,G,gas,"2,500 Rapid Rewards Points",2 points/ $1,7914,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,ualoh7914,Columbia Gas of Ohio,Power Trip Natural Gas Plan with MileagePlus miles
+Ohio,UAL,G,gas,"2,500 Rapid Rewards Points",2 points/ $1,7914,788,ual_2mon_2500_bonus_2pcnt_earn_gas   ,ualoh7914,Duke Energy Ohio,Power Trip Natural Gas Plan with MileagePlus miles
+Ohio,NRR,E,electric,$75 Cash Back Variable,3% annually,7915,533,0420dm_winback_75_bonus,nrroh7915,Duke Energy Ohio,Win Back Electric Variable Plan
+Ohio,NRR,E,electric,$75 Cash Back Variable,3% annually,7915,533,0420dm_winback_75_bonus,nrroh7915,Dayton Power & Light,Win Back Electric Variable Plan
+Ohio,NRR,E,electric,$75 Cash Back Variable,3% annually,7915,533,0420dm_winback_75_bonus,nrroh7915,Toledo Edison,Win Back Electric Variable Plan
+Ohio,NRR,E,electric,$75 Cash Back Variable,3% annually,7915,533,0420dm_winback_75_bonus,nrroh7915,The Illuminating Company,Win Back Electric Variable Plan
+Ohio,NRR,E,electric,$75 Cash Back Variable,3% annually,7915,533,0420dm_winback_75_bonus,nrroh7915,AEP Ohio,Win Back Electric Variable Plan
+Ohio,NRR,G,gas,$25 Cash Back,3% annually,7915,594,0420dm_winback_25_bonus_gas,nrroh7915,Dominion East Ohio,Win Back Natural Gas Variable Plan
+Ohio,NRR,G,gas,$25 Cash Back,3% annually,7915,594,0420dm_winback_25_bonus_gas,nrroh7915,Columbia Gas of Ohio,Win Back Natural Gas Variable Plan
+Ohio,NRR,G,gas,$25 Cash Back,3% annually,7915,594,0420dm_winback_25_bonus_gas,nrroh7915,Duke Energy Ohio,Win Back Natural Gas Variable Plan
+Ohio,NRR,E,electric,$50 Cash Back Variable,3% annually,7919,553,0420dm_brand_50_bonus,nrroh7919,Duke Energy Ohio,Cash Back Electric Plan
+Ohio,NRR,E,electric,$50 Cash Back Variable,3% annually,7919,553,0420dm_brand_50_bonus,nrroh7919,Dayton Power & Light,Cash Back Electric Plan
+Ohio,NRR,E,electric,$50 Cash Back Variable,3% annually,7919,553,0420dm_brand_50_bonus,nrroh7919,Toledo Edison,Cash Back Electric Plan
+Ohio,NRR,E,electric,$50 Cash Back Variable,3% annually,7919,553,0420dm_brand_50_bonus,nrroh7919,The Illuminating Company,Cash Back Electric Plan
+Ohio,NRR,E,electric,$50 Cash Back Variable,3% annually,7919,553,0420dm_brand_50_bonus,nrroh7919,AEP Ohio,Cash Back Electric Plan
+Ohio,NRR,G,gas,$25 Cash Back,3% annually,7919,594,0420dm_brand_25_bonus_gas,nrroh7919,Dominion East Ohio,Cash Back Natural Gas Plan
+Ohio,NRR,G,gas,$25 Cash Back,3% annually,7919,594,0420dm_brand_25_bonus_gas,nrroh7919,Columbia Gas of Ohio,Cash Back Natural Gas Plan
+Ohio,NRR,G,gas,$25 Cash Back,3% annually,7919,594,0420dm_brand_25_bonus_gas,nrroh7919,Duke Energy Ohio,Cash Back Natural Gas Plan

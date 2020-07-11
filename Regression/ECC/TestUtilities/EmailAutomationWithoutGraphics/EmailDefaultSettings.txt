@@ -1,0 +1,4 @@
+sender_email matthissongtest@gmail.com
+format HTML
+port 465
+receiver_email matthew.hissong@nrg.com

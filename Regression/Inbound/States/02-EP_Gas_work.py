@@ -1,0 +1,281 @@
+from datetime import datetime
+from collections import namedtuple
+import pytest
+from selenium import webdriver
+import time
+import xlrd
+import os
+
+from Inbound.States.Inbound_Enrollments_4brands_test.InboundEnrollments_tests_Settings import URL, tester
+from Inbound.States.Inbound_Enrollments_4brands_test.Inbound_pages_methods import login, if_start_manual_call, summary, wait_offer_page, \
+    wait_get_started_page, wait_get_started_page_state_list, wait_costumer_info_page, wait_billing_page, \
+    wait_grab_code_page, wait_finish_page
+import Inbound.States.Inbound_Enrollments_4brands_test.Inbound_tags
+
+sheet_name = 'EP GAS'
+workbook = xlrd.open_workbook("./State_Data.xlsx")
+worksheet = workbook.sheet_by_name(sheet_name)
+
+tests_values = []
+headers = [cell.value for cell in worksheet.row(0)]
+Payload = namedtuple('payload', headers)
+
+for current_row in range(1, worksheet.nrows):
+    values = [cell.value for cell in worksheet.row(current_row)]
+    value_dict = dict(zip(headers, values))
+    tests_values.append(Payload(**value_dict))
+
+
+@pytest.fixture(scope='session')
+def driver(request):
+    if os.environ.get('USE_PHANTOM'):
+        print("making PhantomJS driver")
+        driver = webdriver.PhantomJS()
+        driver.set_window_size(6000, 2000)
+    else:
+        print("making Firefox driver")
+        driver = webdriver.Firefox()
+    def resource_a_teardown():
+        print('driver_setup teardown()')
+        if driver:
+            print(driver.current_url)
+            driver.close()
+        else:
+            assert False, "can't close driver"
+    request.addfinalizer(resource_a_teardown)
+    return driver
+
+
+def grab_code(driver, payload):
+    wait_grab_code_page(driver)
+    elem = driver.find_element_by_id("confcode")
+    confcode = elem.text
+    print("Passed - EP Inbound Gas, Conformation =  " + confcode + ' for ' + payload.state + ' - ' + payload.utility_1)
+    accountNo = str(payload.accountNo_el_1)
+    zip = str (payload.zip)
+    f = open("./results.txt", 'a')
+    now = datetime.now()
+    time = now.strftime("%m_%d_%Y_%I_%M_%S_%p")
+    f.write(confcode+"\n" )
+    f.write("Passed "+"|"+ "TESTER: "+ tester + "|" + payload.first_name + "|" + sheet_name + "|"  + "|" + payload.state + "|" + payload.utility_1 + "|" + confcode + "|" + accountNo + "|" + payload.partner
+             + payload.campaign + "|" + payload.promo + "|" + zip + "|" + payload.city + "--" + time + "\n" )
+
+
+@pytest.mark.parametrize("payload", tests_values, ids=[p.first_name for p in tests_values])
+def test_state(driver, payload):
+    now = datetime.now()
+    time = now.strftime("%m_%d_%Y_%I_%M_%S_%p")
+
+    try:
+        EP_Gas_test(driver, payload)
+
+
+    except Exception as ae:
+        filename = ("./failed/" + sheet_name + "_fail_{}_{}.png").format(payload.first_name, time)
+        driver.get_screenshot_as_file(filename)
+        print("Saving screenshot of failed test -- ", payload.first_name)
+        print("filename:", filename)
+        print(str(ae))
+        account = str(payload.accountNo_el_1)
+        zip = str(payload.zip)
+        f = open("./results.txt", 'a')
+        f.write(
+            "FAILED " + "--" + payload.first_name + "--" + sheet_name + "--" + payload.state + "--" + payload.utility_1 + "--"  + "--" + account + "--" + payload.partner +
+            "--" + payload.campaign + "--" + payload.promo + "--" + zip + "--" + payload.city + "--" + time + "\n")
+        raise ae
+
+
+def EP_Gas_test(driver, payload):
+    driver.get(URL)
+    login(driver)
+    if_start_manual_call(driver)
+
+    ### Get Started:
+    wait_get_started_page(driver)
+    elem = driver.find_element_by_id(Inbound.States.Inbound_Enrollments_4brands_test.Inbound_tags.get_started_First_name_id).send_keys(tester + "_" + payload.first_name)
+    elem = driver.find_element_by_id(Inbound.States.Inbound_Enrollments_4brands_test.Inbound_tags.get_started_last_name_id).send_keys(payload.last_name)
+    wait_get_started_page_state_list(driver)
+    elem = driver.find_element_by_name(Inbound.States.Inbound_Enrollments_4brands_test.Inbound_tags.get_started_state_list__id)
+    for option in elem.find_elements_by_tag_name(
+            Inbound.States.Inbound_Enrollments_4brands_test.Inbound_tags.get_started_state_option_id):
+        if option.text == payload.state:
+            option.click()
+
+    # Is Your Name on the Utility Bill?
+    try:
+        elem = driver.find_element_by_xpath("/html/body/div[2]/div/div[1]/div[6]/div[2]/div/div/label[1]/input").click()
+    except:
+        pass
+
+    # What account are you calling about today?
+    try:
+        elem = driver.find_element_by_class_name("commodity-choice-gas").click()
+    except:
+        pass
+
+    elem = driver.find_element_by_name("utility-list")
+    for option in elem.find_elements_by_tag_name('option'):
+        if option.text == payload.utility_1:
+            option.click()
+
+    try:
+        driver.find_element_by_xpath('/html/body/div[2]/div/div[1]/div[6]/div[3]/select').click()
+        driver.find_element_by_xpath('//option[contains(@label,"New Jersey Natural Gas")]').click()
+    except:
+        pass
+
+    # Is this electric account a residential or business address?
+    elem = driver.find_element_by_class_name("account-type-residential").click()
+
+    elem = driver.find_element_by_class_name("account-usage-both").click()
+    elem = driver.find_element_by_id("save-and-continue").click()
+
+    ## Offer:
+    wait_offer_page(driver)
+    print(payload.categorie)
+    # if payload.categorie =="Airline":
+    #     elem = driver.find_element_by_class_name("categories")
+    #     for option in elem.find_elements_by_tag_name('option'):
+    #         if option.text == (payload.categorie):
+    #             option.click()
+    #     elem = driver.find_element_by_class_name("partners")
+    #     for option in elem.find_elements_by_tag_name('option'):
+    #         if option.text == payload.partner:
+    #             option.click()
+    #     elem = driver.find_element_by_class_name("campaigns")
+    #     for option in elem.find_elements_by_tag_name('option'):
+    #         if option.text == payload.campaign:
+    #             option.click()
+    #     elem = driver.find_element_by_class_name("promos")
+    #     for option in elem.find_elements_by_tag_name('option'):
+    #         if option.text == payload.promo:
+    #             option.click()
+    #
+    #     driver.find_element_by_xpath('/html/body/div[2]/div/div[1]/div[3]/div/div/div[4]/p[2]/input').send_keys(int(payload.accountNo_el_1))
+    #     driver.find_element_by_xpath('/html/body/div[2]/div/div[1]/div[3]/div/div/div[4]/p[4]/input').send_keys(payload.first_name)
+    #     driver.find_element_by_xpath('/html/body/div[2]/div/div[1]/div[3]/div/div/div[4]/p[5]/input').send_keys(payload.last_name)
+
+    elem = driver.find_element_by_class_name("categories")
+    for option in elem.find_elements_by_tag_name('option'):
+        if option.text == ("Cash Back"):
+            option.click()
+    elem = driver.find_element_by_class_name("partners")
+    for option in elem.find_elements_by_tag_name('option'):
+        if option.text == payload.partner:
+            option.click()
+    elem = driver.find_element_by_class_name("campaigns")
+    for option in elem.find_elements_by_tag_name('option'):
+        if option.text == payload.campaign:
+            option.click()
+    elem = driver.find_element_by_class_name("promos")
+    for option in elem.find_elements_by_tag_name('option'):
+        if option.text == payload.promo:
+            option.click()
+
+
+
+
+
+    time.sleep(2)
+    elem = driver.find_element_by_id("btn_continue").click()
+    time.sleep(4)
+
+    ## Customer Info:
+    wait_costumer_info_page(driver)
+    elem = driver.find_element_by_name('First Name').send_keys(payload.first_name)
+    elem = driver.find_element_by_name("Last Name").send_keys(payload.last_name)
+    elem = driver.find_element_by_name("Service Address 1").send_keys(payload.address)
+    elem = driver.find_element_by_name("City").send_keys(payload.city)
+    elem = driver.find_element_by_name("Zip").send_keys(str(payload.zip))
+    elem = driver.find_element_by_name("Phone Area Code").send_keys(int(payload.area_code))
+    elem = driver.find_element_by_name("Phone Prefix").send_keys(int(payload.prefix))
+    elem = driver.find_element_by_name("Phone Last Digits").clear()
+    elem = driver.find_element_by_name("Phone Last Digits").send_keys(int(payload.last))
+    elem = driver.find_element_by_class_name("copy-to-billing-yes").click()
+    # time.sleep(2)
+    elem = driver.find_element_by_class_name("uan").send_keys(str(payload.accountNo_el_1))
+    elem = driver.find_element_by_class_name("check-account-number").click()
+    # time.sleep(2)
+
+    try:
+        elem = driver.find_element_by_name("Customer Key").send_keys("test")
+        driver.find_element_by_xpath('//input[contains(@id,"service-extra")]').send_keys(int(payload.servicereference))
+        elem = driver.find_element_by_class_name("check-extra-account-number").click()
+        time.sleep(2)
+    except:
+        pass
+
+    elem = driver.find_element_by_id("btn_continue").click()
+    time.sleep(2)
+
+    ## Billing Info:
+
+    wait_billing_page(driver)
+    elem = driver.find_element_by_name(" Billing Address").send_keys(payload.address)
+    elem = driver.find_element_by_name(" City").send_keys(payload.city)
+    elem = driver.find_element_by_class_name("state-dropdown")
+    for option in elem.find_elements_by_tag_name('option'):
+        if option.text == payload.state:
+            option.click()
+    elem = driver.find_element_by_name(" Zip Code").send_keys(str(payload.zip))
+    elem = driver.find_element_by_name(" Phone Area Code").send_keys(int(payload.area_code))
+    elem = driver.find_element_by_name(" Phone Prefix").send_keys(int(payload.prefix))
+    elem = driver.find_element_by_name(" Phone Last Digits").send_keys(int(payload.last))
+    elem = driver.find_element_by_class_name("email-no").click()
+    elem = driver.find_element_by_class_name("email-no-no").click()
+    elem = driver.find_element_by_id("btn_continue").click()
+    time.sleep(2)
+
+    ## Summary:
+    summary(driver)
+
+
+    ## Disclosure:
+    elem = driver.find_element_by_id("toggle_1_no").click()
+    elem = driver.find_element_by_id("toggle_2_no").click()
+
+    if driver.current_url == "http://www.pt.energypluscompany.com/myinbound/disclosure_state.php?state_abbrev=IL":
+        elem = driver.find_element_by_id("toggle_3_no").click()
+        elem = driver.find_element_by_id("toggle_4_no").click()
+        elem = driver.find_element_by_id("toggle_5_no").click()
+        elem = driver.find_element_by_id("toggle_6_yes").click()
+    if driver.current_url == "http://www.pt.energypluscompany.com/myinbound/disclosure_state.php?state_abbrev=MD":
+        elem = driver.find_element_by_id("toggle_3_no").click()
+        elem = driver.find_element_by_id("toggle_1_yes").click()
+        elem = driver.find_element_by_id("toggle_4_no").click()
+        elem = driver.find_element_by_id("toggle_5_no").click()
+        # elem = driver.find_element_by_id("toggle_7_no").click()
+    if driver.current_url == "http://www.pt.energypluscompany.com/myinbound/disclosure_state.php?state_abbrev=MA":
+        elem = driver.find_element_by_id("toggle_3_no").click()
+        elem = driver.find_element_by_id("toggle_4_no").click()
+        elem = driver.find_element_by_id("toggle_5_no").click()
+        elem = driver.find_element_by_id("toggle_6_yes").click()
+        elem = driver.find_element_by_id("toggle_8_no").click()
+        elem = driver.find_element_by_id("submit_tpv_button").click()
+        elem = driver.find_element_by_id("toggle_9_no").click()
+        elem = driver.find_element_by_id("toggle_10_yes").click()
+    if driver.current_url == "http://www.pt.energypluscompany.com/myinbound/disclosure_state.php?state_abbrev=NJ":
+        elem = driver.find_element_by_id("toggle_3_no").click()
+        elem = driver.find_element_by_id("toggle_4_no").click()
+        elem = driver.find_element_by_id("toggle_5_yes").click()
+    if driver.current_url == "http://www.pt.energypluscompany.com/myinbound/disclosure_state.php?state_abbrev=OH":
+        elem = driver.find_element_by_id("toggle_3_no").click()
+        elem = driver.find_element_by_id("toggle_4_no").click()
+        elem = driver.find_element_by_id("toggle_5_no").click()
+        elem = driver.find_element_by_id("toggle_6_no").click()
+        elem = driver.find_element_by_id("toggle_7_yes").click()
+    if driver.current_url == "http://www.pt.energypluscompany.com/myinbound/disclosure_state.php?state_abbrev=PA":
+        elem = driver.find_element_by_id("toggle_3_no").click()
+        elem = driver.find_element_by_id("toggle_4_no").click()
+        elem = driver.find_element_by_id("toggle_5_yes").click()
+        elem = driver.find_element_by_id("submit_tpv_button").click()
+        elem = driver.find_element_by_id("toggle_6_no").click()
+        elem = driver.find_element_by_id("toggle_7_yes").click()
+
+    ## Grab Conformation Code
+    grab_code(driver, payload)
+    elem = driver.find_element_by_id("submit_enroll").click()
+
+    ## Submit:
+
+    wait_finish_page(driver)

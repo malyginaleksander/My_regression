@@ -1,0 +1,2 @@
+status,test_name,brand,account_type_1,SKU,TS,state,utility_,utility_1,UAN,FirstName,LastName,Service_Type,UtilitySlug,ServiceAddress1,ServiceAddress2,ServiceCity,ServiceState,ServiceZip,zip_code,city,with_email,date_,confcode
+Passed,Amtrak,NRG,Electric,0421F39B-0B2D,ts_2,Illinois,Ameren,Ameren,',,,,,419 S MAPLE ST,,NOKOMIS,IL,62075.0,62075.0,,email,04.21.2020,d2e07f1

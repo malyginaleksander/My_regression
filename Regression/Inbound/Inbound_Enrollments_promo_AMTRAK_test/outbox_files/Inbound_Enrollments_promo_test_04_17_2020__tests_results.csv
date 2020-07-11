@@ -1,0 +1,17 @@
+status,test_name,brand,account_type_1,SKU,TS,state,utility_,utility_1,UAN,FirstName,LastName,Service_Type,UtilitySlug,ServiceAddress1,ServiceAddress2,ServiceCity,ServiceState,ServiceZip,zip_code,city,with_email,date_,confcode
+Passed,Amtrak,NRG,Electric,0421F39B-0B2D,ts_2,Illinois,Ameren,Ameren,',,,,,419 S MAPLE ST,,NOKOMIS,IL,62075.0,62075.0,,email,04.17.2020,425a8b2
+Passed,Amtrak,NRG,Electric,0772E7F8-3533,ts_16,New Jersey,RECO,Rockland Electric Company (O&R),',,,,,9 EATON TOWN RD,,HEWITT,NJ,07421,07421,,email,04.17.2020,6091713
+Passed,Amtrak,NRG,Electric,07CB40C7-1B22,ts_22,Ohio,CEI,The Illuminating Company,',,,,,124 Seminary St,,Berea,,44017,44017,,email,04.17.2020,7de4b26
+Passed,Amtrak,NRG,Electric,09AE9B3B-FB12,ts_23,Ohio,OE,Ohio Edison,',,,,,1307 Park St,,Cardington,,43315,43315,,email,04.17.2020,9a9e693
+Passed,Amtrak,NRG,Electric,0421F39B-0B2D,ts_32,Illinois,Ameren,Ameren,',,,,,2618 W VALLEY VW,,QUINCY,IL,62305,62305,,email,04.17.2020,b68ef18
+Passed,Amtrak,NRG,Electric,0772E7F8-3533,ts_46,New Jersey,RECO,Rockland Electric Company (O&R),',,,,,"2117 Central Ave,",,MIDLAND PARK,,07432,07432,,email,04.17.2020,d34f480
+Passed,Amtrak,NRG,Electric,07CB40C7-1B22,ts_52,Ohio,CEI,The Illuminating Company,',,,,,2124 Seminary St,,Berea,,44017,44017,,email,04.17.2020,ef339d8
+Passed,Amtrak,NRG,Electric,09AE9B3B-FB12,ts_53,Ohio,OE,Ohio Edison,',,,,,21307 Park St,,Cardington,,43315,43315,,email,04.17.2020,0a436b0
+Passed,Amtrak,NRG,Electric,0421F39B-0B2D,ts_62,Illinois,Ameren,Ameren,'9984970734,TRAVIS,BARNES,Electric,Ameren,1123  NOFSINGER RD,,METAMORA,IL,61548,61548,,email,04.17.2020,2394af5
+Passed,Amtrak,NRG,Electric,0772E7F8-3533,ts_76,New Jersey,RECO,Rockland Electric Company (O&R),'8148839014,CHIRAG,SHAH,Electric,RECO,35 PINE RD,,ALLENDALE,NJ,07401,07401,,email,04.17.2020,393e756
+Passed,Amtrak,NRG,Electric,07CB40C7-1B22,ts_82,Ohio,CEI,The Illuminating Company,'08061958281020027926,3648,AVONDALE LLC,Electric,CEI,3648 AVONDALE RD,,Beachwood,OH,44122,44122,,email,04.17.2020,52aad87
+Passed,Amtrak,NRG,Electric,09AE9B3B-FB12,ts_83,Ohio,OE,Ohio Edison,'08062706660000258328,JACKSON,ROUDEBUSH,Electric,OE,2616 NESMITH LAKE BLVD,,Akron,OH,44314,44314,,email,04.17.2020,7133a2a
+Passed,Amtrak,NRG,Electric,0421F39B-0B2D,ts_92,Illinois,Ameren,Ameren,'9977678065,KARI,LANCE,Electric,Ameren,375 W MADISON ST,,ASHLEY,IL,62808,62808,,email,04.17.2020,8cd9e16
+Passed,Amtrak,NRG,Electric,0772E7F8-3533,ts_106,New Jersey,RECO,Rockland Electric Company (O&R),'7065270007,JAMES,TOWNLEY,Electric,RECO,461 FRANKLIN AVE,,WYCKOFF,NJ,07481,07481,,email,04.17.2020,abe9b38
+Passed,Amtrak,NRG,Electric,07CB40C7-1B22,ts_112,Ohio,CEI,The Illuminating Company,'08061635611790011219,ROLAND,HAMMERL,Electric,CEI,3426 W 148TH ST,,Cleveland,OH,44111,44111,,email,04.17.2020,caa8149
+Passed,Amtrak,NRG,Electric,09AE9B3B-FB12,ts_113,Ohio,OE,Ohio Edison,'08062382670000844392,DEBORAH,SMITH,Electric,OE,1515 STATEROUTE 257 S,,Delaware,OH,43015,43015,,email,04.17.2020,e9107db

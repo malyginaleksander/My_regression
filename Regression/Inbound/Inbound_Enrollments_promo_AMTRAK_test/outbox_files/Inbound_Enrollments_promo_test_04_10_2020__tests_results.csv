@@ -1,0 +1,97 @@
+status,test_name,brand,account_type_1,SKU,TS,state,utility_,utility_1,UAN,FirstName,LastName,Service_Type,UtilitySlug,ServiceAddress1,ServiceAddress2,ServiceCity,ServiceState,ServiceZip,zip_code,city,with_email,date_,confcode
+Passed,Amtrak,NRG,Electric,gfe90cd4a62b8ccd,ts_61,Illinois,Comed,ComEd,'9868015033,SHAREEF,MUHAMMAD,COMED,Electric,8118 S WASHTENAW AVE,,CHICAGO,IL,60652,60652,,email,04.10.2020,d1612f0
+Passed,Amtrak,NRG,Electric,0421F39B-0B2D,ts_62,Illinois,Ameren,Ameren,'9984970734,TRAVIS,BARNES,Electric,Ameren,1123  NOFSINGER RD,,METAMORA,IL,61548,61548,,email,04.10.2020,f0464e3
+Passed,Amtrak,NRG,Electric,g2da08e2fe0553ab,ts_63,Maryland,apmd,Potomac Edison,'08044360845001099803,THOMAS,BLATT,APMD,Electric,506 QUAKER CREEK DR,,HANCOCK,MD,21750,21750,,email,04.10.2020,0670008
+Passed,Amtrak,NRG,Electric,ga486186e2437875,ts_64,Maryland,delmarva,Delmarva Power,'0550199131977001290822,ABISOLA,MESIOYE,Delmarva,Electric,3 SHERPARD WAY,,ELKTON,MD,21921,21921,,email,04.10.2020,1dbead2
+Passed,Amtrak,NRG,Electric,ga5555aced018c7a,ts_65,Maryland,pepco,Pepco,'0550243635457001946533,PAMELA,MCNEIL,PEPCO,Electric,520 JURGENSEN PL,,LANDOVER,MD,20785,20785,,email,04.10.2020,760cf83
+Passed,Amtrak,NRG,Electric,gc45a9c9708ccc6e,ts_66,Maryland,bge,BGE,'9825126333,DARIN,WINICK,BGE,Electric,7424 STANMORE CT,,BALTIMORE,MD,21212,21212,,email,04.10.2020,92c3d7e
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_67,Massachusetts,camb,National Grid,'11559340184,CHARLES,GERTLER,CAMB,Electric,68 ALLSTON ST,2,CAMBRIDGE,MA,02139,02139,,email,04.10.2020,b00d361
+Passed,Amtrak,NRG,Electric,g3966bd8c41fb538,ts_68,Massachusetts,come,National Grid,'15278200017,MICHAEL,CUTLER,COME,Electric,7 CHRISTIANTOWN RD,,WEST TISBURY,MA,02575,02575,,email,04.10.2020,cc942b6
+Passed,Amtrak,NRG,Electric,g5db8918f598b7e8,ts_69,Massachusetts,meco,National Grid,'9104381025,WILFREDO,PAGAN,MECO,Electric,151 MORRIS ST,,SOUTHBRIDGE,MA,01550,01550,,email,04.10.2020,ea472dc
+Passed,Amtrak,NRG,Electric,gc3b9353a09443a7,ts_70,Massachusetts,ngntkt,National Grid,'6529281021,RICHARD,THOMPSON,NGNTKT,Electric,2 NORQUARTA DR,,NANTUCKET,MA,02554,02554,,email,04.10.2020,0698387
+Passed,Amtrak,NRG,Electric,g92fe6a4f9509e97,ts_71,Massachusetts,beco,Eversource (Eastern Massachusetts),'30084550018,MATTHEW,MAYERCHAK,BECO,Electric,21 EVERETT ST,1,ARLINGTON,MA,02474,02474,,email,04.10.2020,2158c10
+Passed,Amtrak,NRG,Electric,gd872de76467c783,ts_72,Massachusetts,wmeco,Eversource (Western Massachusetts),'54531557031844131004,MARY,SERIAN,WMECO,Electric,1580 STATE RD,,RICHMOND,MA,01254,01254,,email,04.10.2020,375e36f
+Passed,Amtrak,NRG,Electric,g89bfb86639b8933,ts_73,New Jersey,pseg,PSE&G,'PE000011979362863176,YIHE,LI,PSEG,Electric,9215 RIVERSIDE STATION BLVD,,SECAUCUS,NJ,07094,07094,,email,04.10.2020,4ecbeaf
+Passed,Amtrak,NRG,Electric,g9308d570d10df32,ts_74,New Jersey,jcpl,Jersey Central Power & Light (JCP&L),'08070891810000173125,JOANNA,JORDAN,JCPL,Electric,148 EDGEWOOD DR,,TOMS RIVER,NJ,08755,08755,,email,04.10.2020,6c740be
+Passed,Amtrak,NRG,Electric,gb7d2ac129587629,ts_75,New Jersey,ace,Atlantic City Electric,'0500097636787000856504,PAMELA,GORMAN,ACE,Electric,205 BELLS LAKE RD,,TURNERSVILLE,NJ,08012,08012,,email,04.10.2020,8aaed71
+Passed,Amtrak,NRG,Electric,0772E7F8-3533,ts_76,New Jersey,RECO,Rockland Electric Company (O&R),'8148839014,CHIRAG,SHAH,Electric,RECO,35 PINE RD,,ALLENDALE,NJ,07401,07401,,email,04.10.2020,aa906b6
+Passed,Amtrak,NRG,Electric,g404ec710971e713,ts_77,Ohio,aeps,AEP Ohio,'00040621002160692,ALLEN,MULLER,AEPS,Electric,2828 KINGSROWE CT,,COLUMBUS,OH,43209,43209,,email,04.10.2020,c88727d
+Passed,Amtrak,NRG,Electric,g547cf6a1cf8b2cd,ts_78,Ohio,aepn,AEP Ohio,'00140060703092720,KORINA,EICHENLAUB,AEPN,Electric,35 WANDA RD,,PORTSMOUTH,OH,45662,45662,,email,04.10.2020,e527f64
+Passed,Amtrak,NRG,Electric,g6061847692cfd0d,ts_79,Ohio,te,Toledo Edison,'08000521262720005915,MARK,LENZ,TE,Electric,340 S REYNOLDS RD,288,TOLEDO,OH,43615,43615,,email,04.10.2020,01b109b
+Passed,Amtrak,NRG,Electric,g75004fbb663e4cf,ts_80,Ohio,dpl,Dayton Power & Light,'9891634920,FELECIA,POTTER,DPL,Electric,751 PEACH ORCHARD RD,,KETTERING,OH,45419,45419,,email,04.10.2020,1ee08c4
+Passed,Amtrak,NRG,Electric,g8257253e697dded,ts_81,Ohio,dukeoh,Duke Energy Ohio,'9920054221,KATHERINE,BRECKENRIDGE,DUKEOH,Electric,4953 RELLEUM AVE,,CINCINNATI,OH,45238,45238,,email,04.10.2020,3c324a2
+Passed,Amtrak,NRG,Electric,07CB40C7-1B22,ts_82,Ohio,CEI,The Illuminating Company,'08061958281020027926,3648,AVONDALE LLC,Electric,CEI,3648 AVONDALE RD,,Beachwood,OH,44122,44122,,email,04.10.2020,570976a
+Passed,Amtrak,NRG,Electric,09AE9B3B-FB12,ts_83,Ohio,OE,Ohio Edison,'08062706660000258328,JACKSON,ROUDEBUSH,Electric,OE,2616 NESMITH LAKE BLVD,,Akron,OH,44314,44314,,email,04.10.2020,6dd9988
+Passed,Amtrak,NRG,Electric,g1483a28f923f261,ts_84,Pennsylvania,meted,Met-Ed,'08071665870002463111,PEDRO,FABIAN,METED,Electric,2112 DOGWOOD CIR,,BUSHKILL,PA,18324,18324,,email,04.10.2020,8b6950f
+Passed,Amtrak,NRG,Electric,g55454a902d14d3c,ts_85,Pennsylvania,wpp,West Penn Power,'08071668420007028896,CAROLE,DAY,WPP,Electric,1873 JOHNSON RD,,CHAMBERSBURG,PA,17202,17202,,email,04.10.2020,de260ef
+Passed,Amtrak,NRG,Electric,g4d3d73029f11050,ts_86,Pennsylvania,ppl,PPL Electric Utilities,'9981088036,MICHEAL,BOHNE,PPL,Electric,9 MIDLAND DR,,MILLERSBURG,PA,17061,17061,,email,04.10.2020,fc25dc4
+Passed,Amtrak,NRG,Electric,g799dafd0af65329,ts_87,Pennsylvania,duq,Duquesne Light Company,'9841470002,THOMAS,JONES,DUQ,Electric,3477 YORK ST,,MUNHALL,PA,15120,15120,,email,04.10.2020,1b6f373
+Passed,Amtrak,NRG,Electric,gb70b26ab2ef15e0,ts_88,Pennsylvania,peco,PECO,'9914160016,RYAN,KING,PECO,Electric,612 E WILTSHIRE DR,,WALLINGFORD,PA,19086,19086,,email,04.10.2020,3a4e77b
+Passed,Amtrak,NRG,Electric,gcaa1ee834cf18f9,ts_89,Pennsylvania,penn,Penn Power,'08062398180000098439,LEANN,WOODS,PENN,Electric,15 S SCOTLAND LN,,NEW CASTLE,PA,16101,16101,,email,04.10.2020,580c1a5
+Passed,Amtrak,NRG,Electric,ge959b47e40c23f6,ts_90,Pennsylvania,penelec,Penelec,'08071637880006291749,TRAVIS,WRIGHT,PENELEC,Electric,305 BEAN TREE LN,,WILLIAMSBURG,PA,16693,16693,,email,04.10.2020,73bb7a8
+Passed,Amtrak,NRG,Electric,gfe90cd4a62b8ccd,ts_91,Illinois,Comed,ComEd,'9881012049,SHARYRON,DAY,COMED,Electric,11130 S WESTERN AVE,2C,CHICAGO,IL,60643,60643,,email,04.10.2020,880ab8e
+Passed,Amtrak,NRG,Electric,0421F39B-0B2D,ts_92,Illinois,Ameren,Ameren,'9977678065,KARI,LANCE,Electric,Ameren,375 W MADISON ST,,ASHLEY,IL,62808,62808,,email,04.10.2020,9e0ffef
+Passed,Amtrak,NRG,Electric,g2da08e2fe0553ab,ts_93,Maryland,apmd,Potomac Edison,'08046437585000447971,DAVID,HAWKINS,APMD,Electric,611 VALLEY RD,,KNOXVILLE,MD,21758,21758,,email,04.10.2020,b9f141c
+Passed,Amtrak,NRG,Electric,ga486186e2437875,ts_94,Maryland,delmarva,Delmarva Power,'0550125589327000976647,DAVID,LYNERD,Delmarva,Electric,426 RAGAN RD,,CONOWINGO,MD,21918,21918,,email,04.10.2020,d535f7f
+Passed,Amtrak,NRG,Electric,ga5555aced018c7a,ts_95,Maryland,pepco,Pepco,'0550243673487001718037,MARIANNE,SINCLAIR,PEPCO,Electric,3101 VERONA CT,,SILVER SPRING,MD,20906,20906,,email,04.10.2020,f23d785
+Passed,Amtrak,NRG,Electric,gc45a9c9708ccc6e,ts_96,Maryland,bge,BGE,'9635328133,SHANNON,MADDEN,BGE,Electric,511 45TH ST,,BALTIMORE,MD,21224,21224,,email,04.10.2020,0db08e0
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_97,Massachusetts,camb,National Grid,'11533110182,ROSS,BYE,CAMB,Electric,16 VANDINE ST,2R,CAMBRIDGE,MA,02141,02141,,email,04.10.2020,2b5a5b1
+Passed,Amtrak,NRG,Electric,g3966bd8c41fb538,ts_98,Massachusetts,come,National Grid,'14991480204,MARY,ALICE PEATY,COME,Electric,55 NYE RD,2,FALMOUTH,MA,02540,02540,,email,04.10.2020,4726f04
+Passed,Amtrak,NRG,Electric,g5db8918f598b7e8,ts_99,Massachusetts,meco,National Grid,'54675881098558631009,BRIAN,SAVLICK,WMECO,Electric,44 UPTON ST,,SPRINGFIELD,MA,01104,01104,,email,04.10.2020,62bbca3
+Passed,Amtrak,NRG,Electric,gc3b9353a09443a7,ts_100,Massachusetts,ngntkt,National Grid,'2620873021,ROBERT,DOWLING,NGNTKT,Electric,25 KITTIWAKE LN,,NANTUCKET,MA,02554,02554,,email,04.10.2020,7f0bd96
+Passed,Amtrak,NRG,Electric,g92fe6a4f9509e97,ts_101,Massachusetts,beco,Eversource (Eastern Massachusetts),'29897450028,MICHELLE,CASSIDY,BECO,Electric,12 ENTERPRISE ST,3,DORCHESTER,MA,02125,02125,,email,04.10.2020,9bace4f
+Passed,Amtrak,NRG,Electric,gd872de76467c783,ts_102,Massachusetts,wmeco,Eversource (Western Massachusetts),'54778297085403821003,PAUL,D'ANGELO,WMECO,Electric,26 JASON ST,,PITTSFIELD,MA,01201,01201,,email,04.10.2020,b0a311b
+Passed,Amtrak,NRG,Electric,g89bfb86639b8933,ts_103,New Jersey,pseg,PSE&G,'PE000012137272675962,LIANG YU,HOU,PSEG,Electric,615 PAVONIA AVE,5204,JERSEY CITY,NJ,07306,07306,,email,04.10.2020,c3e49d3
+Passed,Amtrak,NRG,Electric,g9308d570d10df32,ts_104,New Jersey,jcpl,Jersey Central Power & Light (JCP&L),'08071280500000233231,SHANNON,BENTLEY,JCPL,Electric,22 WITTS END DRE,1B,HAMBURG,NJ,07419,07419,,email,04.10.2020,dea5e6e
+Passed,Amtrak,NRG,Electric,gb7d2ac129587629,ts_105,New Jersey,ace,Atlantic City Electric,'0500100126937000409596,TANIKA,CRANDELL,ACE,Electric,302 ADAMS AVE,,WOODBINE,NJ,08270,08270,,email,04.10.2020,fbac11b
+Passed,Amtrak,NRG,Electric,0772E7F8-3533,ts_106,New Jersey,RECO,Rockland Electric Company (O&R),'7065270007,JAMES,TOWNLEY,Electric,RECO,461 FRANKLIN AVE,,WYCKOFF,NJ,07481,07481,,email,04.10.2020,1c1c9e4
+Passed,Amtrak,NRG,Electric,g404ec710971e713,ts_107,Ohio,aeps,AEP Ohio,'00040621002769111,ADEROLAKEMI,ADENIRAN,AEPS,Electric,6384 NEWTOWN DR,,COLUMBUS,OH,43231,43231,,email,04.10.2020,39c8300
+Passed,Amtrak,NRG,Electric,g547cf6a1cf8b2cd,ts_108,Ohio,aepn,AEP Ohio,'00140060703511715,MARC,DICH,AEPN,Electric,401 W LIMA AVE,A,ADA,OH,45810,45810,,email,04.10.2020,5752fb5
+Passed,Amtrak,NRG,Electric,g6061847692cfd0d,ts_109,Ohio,te,Toledo Edison,'08000946732470018467,NADINE,KODER,TE,Electric,5115 RAINBOW DR,,DELTA,OH,43515,43515,,email,04.10.2020,73b0a4e
+Passed,Amtrak,NRG,Electric,g75004fbb663e4cf,ts_110,Ohio,dpl,Dayton Power & Light,'9873804930,ANDREW,BRADLEY,DPL,Electric,1392 CHINOOK CT,,XENIA,OH,45385,45385,,email,04.10.2020,8fa5e74
+Passed,Amtrak,NRG,Electric,g8257253e697dded,ts_111,Ohio,dukeoh,Duke Energy Ohio,'9860085825,MAURICE,COFFEY,DUKEOH,Electric,5081 ROLLMAN ESTATES DR,,CINCINNATI,OH,45236,45236,,email,04.10.2020,abf400d
+Passed,Amtrak,NRG,Electric,07CB40C7-1B22,ts_112,Ohio,CEI,The Illuminating Company,'08061635611790011219,ROLAND,HAMMERL,Electric,CEI,3426 W 148TH ST,,Cleveland,OH,44111,44111,,email,04.10.2020,c899d16
+Passed,Amtrak,NRG,Electric,09AE9B3B-FB12,ts_113,Ohio,OE,Ohio Edison,'08062382670000844392,DEBORAH,SMITH,Electric,OE,1515 STATEROUTE 257 S,,Delaware,OH,43015,43015,,email,04.10.2020,dcd544f
+Passed,Amtrak,NRG,Electric,g1483a28f923f261,ts_114,Pennsylvania,meted,Met-Ed,'08071453410002391156,MARIBELL,DICK,METED,Electric,7568 LINCOLN HWY,,ABBOTTSTOWN,PA,17301,17301,,email,04.10.2020,f19453b
+Passed,Amtrak,NRG,Electric,g55454a902d14d3c,ts_115,Pennsylvania,wpp,West Penn Power,'08071588360007249695,ZACHARY,WANNEMACHER,WPP,Electric,638 BANK ST,,BRIDGEVILLE,PA,15017,15017,,email,04.10.2020,0cd8af5
+Passed,Amtrak,NRG,Electric,g4d3d73029f11050,ts_116,Pennsylvania,ppl,PPL Electric Utilities,'9979178061,NICK,BOLJEVIC,PPL,Electric,745 MAIN ST,101,STROUDSBURG,PA,18360,18360,,email,04.10.2020,2a4d5fb
+Passed,Amtrak,NRG,Electric,g799dafd0af65329,ts_117,Pennsylvania,duq,Duquesne Light Company,'9819502116,BRITTNEY,YOXALL,DUQ,Electric,440 ERIE AVE,206,GLASSPORT,PA,15045,15045,,email,04.10.2020,45493c9
+Passed,Amtrak,NRG,Electric,gb70b26ab2ef15e0,ts_118,Pennsylvania,peco,PECO,'9909701407,ROSEMARY,BARAKAT,PECO,Electric,16 RITTENHOUSE RD,,BROOMALL,PA,19008,19008,,email,04.10.2020,a2829e7
+Passed,Amtrak,NRG,Electric,gcaa1ee834cf18f9,ts_119,Pennsylvania,penn,Penn Power,'08061930050001441598,AARON,AMBROSE,PENN,Electric,906 SOUTH BLVD,,NEW CASTLE,PA,16102,16102,,email,04.10.2020,c3bd6e3
+Passed,Amtrak,NRG,Electric,ge959b47e40c23f6,ts_120,Pennsylvania,penelec,Penelec,'08071632310001202951,MARTIN,CLEMONS,PENELEC,Electric,4220 DAVISON AVE,,ERIE,PA,16504,16504,,email,04.10.2020,e21d2f5
+Passed,Amtrak,NRG,Electric,ge959b47e40c23f6,ts_120,Pennsylvania,penelec,Penelec,'08001900870001144374,JACK,WATRO,PENELEC,Electric, DEER CREEK RD,,MORRISDALE,PA,16858,16858,,email,04.10.2020,93dae23
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_7,Massachusetts,camb,National Grid,',,,,,1524 CAMBRIDGE ST,2,CAMBRIDGE,MA,02139,,,email,04.10.2020,ca243f0
+Passed,Amtrak,NRG,Electric,g3966bd8c41fb538,ts_8,Massachusetts,come,National Grid,',,,,,36 OLD COLONY WAY,16,ORLEANS,MA,02653,,,email,04.10.2020,e78c792
+Passed,Amtrak,NRG,Electric,g547cf6a1cf8b2cd,ts_18,Ohio,aepn,AEP Ohio,',,,,,6879 LAKE DR SW,,NAVARRE,OH,44662,,,email,04.10.2020,03dfa72
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_37,Massachusetts,camb,National Grid,',,,,,250 KENDALL ST,206,CAMBRIDGE,MA,02142,,,email,04.10.2020,203c0df
+Passed,Amtrak,NRG,Electric,g3966bd8c41fb538,ts_38,Massachusetts,come,National Grid,',,,,,69 FOLEY DR,,NEW BEDFORD,MA,02745,,,email,04.10.2020,3be36d5
+Passed,Amtrak,NRG,Electric,gc45a9c9708ccc6e,ts_66,Maryland,bge,BGE,'0914511675,MARVIN,SANDERFORD,BGE,Electric,2106 HAMILTON AVE,,BALTIMORE,MD,21214,,,email,04.10.2020,5683584
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_67,Massachusetts,camb,National Grid,'11529600014,CHARLES,POPPER,CAMB,Electric,44 CONCORD AVE,206,CAMBRIDGE,MA,02138,,,email,04.10.2020,6b34ab8
+Passed,Amtrak,NRG,Electric,g3966bd8c41fb538,ts_68,Massachusetts,come,National Grid,'12840810282,MAUREEN,BUTLER,COME,Electric,11 WATER ST,1E,MATTAPOISETT,MA,02739,,,email,04.10.2020,81a49d3
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_97,Massachusetts,camb,National Grid,'29838600038,JENNIFER,PRZYBYLO,CAMB,Electric,2 LEIGHTON ST,229,CAMBRIDGE,MA,02141,,,email,04.10.2020,9df105f
+Passed,Amtrak,NRG,Electric,g3966bd8c41fb538,ts_98,Massachusetts,come,National Grid,'13029700013,EDWARD,GOUVEIA,COME,Electric,25 ELMWOOD AVE,,WESTPORT,MA,02790,,,email,04.10.2020,f0826c0
+Passed,Amtrak,NRG,Electric,g5db8918f598b7e8,ts_99,Massachusetts,meco,National Grid,'1295885041,LIBIA,IGLESIA,MECO,Electric, 3 REEVES ST REAR 1 1 R,,WORCESTER,MA,01607,,,email,04.10.2020,0b23086
+Passed,Amtrak,NRG,Electric,g92fe6a4f9509e97,ts_101,Massachusetts,beco,Eversource (Eastern Massachusetts),'20118631116,STEPHANIE,HAYNES,BECO,Electric,65 CLIFFORD ST,1FL,ROXBURY,MA,02119-2428,,,email,04.10.2020,26e17ed
+Passed,Amtrak,NRG,Electric,g8257253e697dded,ts_111,Ohio,dukeoh,Duke Energy Ohio,'0020036820,MARK,DE SAINT-RAT,DUKEOH,Electric,442 EMERALD WOODS DR,,OXFORD,OH,45056,,,email,04.10.2020,41eaeea
+Passed,Amtrak,NRG,Electric,gcaa1ee834cf18f9,ts_119,Pennsylvania,penn,Penn Power,'08015637610001376498,RAYMOND,MIKLOS,PENN,Electric,1483 WINTERBERRY CT,,HERMITAGE,PA,16148,,,email,04.10.2020,5db393c
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_7,Massachusetts,camb,National Grid,',,,,,1 WHITTEMORE AVE,407,CAMBRIDGE,MA,02140,,,email,04.10.2020,033d696
+Passed,Amtrak,NRG,Electric,g3966bd8c41fb538,ts_8,Massachusetts,come,National Grid,',,,,,23 GRAND PINE WAY,,WESTPORT,MA,02790,,,email,04.10.2020,54543b2
+Passed,Amtrak,NRG,Electric,g547cf6a1cf8b2cd,ts_18,Ohio,aepn,AEP Ohio,',,,,,5940 SHEPLER CHURCH AVE SW,,NAVARRE,OH,44662,45662.0,,email,04.10.2020,6f17e65
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_37,Massachusetts,camb,National Grid,',,,,,10 CHATHAM ST,1,CAMBRIDGE,MA,02139,,,email,04.10.2020,89712b2
+Passed,Amtrak,NRG,Electric,g3966bd8c41fb538,ts_38,Massachusetts,come,National Grid,',,,,,12 COUNTY ST,,WESTPORT,MA,02790,,,email,04.10.2020,a4eea39
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_67,Massachusetts,camb,National Grid,'16271820116,ANNE,DESJARDINS,CAMB,Electric,77 BOLTON ST,A,CAMBRIDGE,MA,02140,02138,,email,04.10.2020,c3a1ff4
+Passed,Amtrak,NRG,Electric,g3966bd8c41fb538,ts_68,Massachusetts,come,National Grid,'15889620041,JUSTIN,FORTIER,COME,Electric,237 GIFFORD RD,,WESTPORT,MA,02790,02739,,email,04.10.2020,df8f711
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_97,Massachusetts,camb,National Grid,'23661591034,CHRISTOPHER,LIEDL,BECO,Electric,94 BROOK ST,3,BROOKLINE,MA,02445,02141,,email,04.10.2020,fb94dca
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_7,Massachusetts,camb,National Grid,',,,,,1 WHITTEMORE AVE,33,CAMBRIDGE,MA,02140,02140,,email,04.10.2020,1887ef9
+Passed,Amtrak,NRG,Electric,g3966bd8c41fb538,ts_8,Massachusetts,come,National Grid,',,,,,23 GRAND PINE WAY,33,WESTPORT,MA,02790,02790,,email,04.10.2020,556fe37
+Passed,Amtrak,NRG,Electric,g547cf6a1cf8b2cd,ts_18,Ohio,aepn,AEP Ohio,',,,,,5940 SHEPLER CHURCH AVE SW,33,NAVARRE,OH,44662,44662,,email,04.10.2020,7315489
+Passed,Amtrak,NRG,Electric,g547cf6a1cf8b2cd,ts_18,Ohio,aepn,AEP Ohio,',,,,,5940 SHEPLER CHURCH AVE SW,33,NAVARRE,OH,44662,44662,,email,04.10.2020,d69f5d1
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_37,Massachusetts,camb,National Grid,',,,,,10 CHATHAM ST,33,CAMBRIDGE,MA,02139,02139,,email,04.10.2020,efb81f2
+Passed,Amtrak,NRG,Electric,g3966bd8c41fb538,ts_38,Massachusetts,come,National Grid,',,,,,12 COUNTY ST,33,WESTPORT,MA,02790,02790,,email,04.10.2020,014a303
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_67,Massachusetts,camb,National Grid,'29172880071,OMAR,AHMAD,CAMB,Electric,160 CAMBRIDGEPARK DR,371,CAMBRIDGE,MA,02140,02140,,email,04.10.2020,1759b30
+Passed,Amtrak,NRG,Electric,g3966bd8c41fb538,ts_68,Massachusetts,come,National Grid,'26941450053,CATHY,MEDO,COME,Electric,361 MAIN RD,,WESTPORT,MA,02790,02790,,email,04.10.2020,33b0a60
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_97,Massachusetts,camb,National Grid,'23661591034,CHRISTOPHER,LIEDL,BECO,Electric,94 BROOK ST,3,BROOKLINE,MA,02445,02445,,email,04.10.2020,4f21174
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_97,Massachusetts,camb,National Grid,'29504540021,JONATHAN,WING,CAMB,Electric,15 RICHDALE AVE,211,CAMBRIDGE,MA,02140,02140,,email,04.10.2020,a4b7d0d
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_7,Massachusetts,camb,National Grid,',,,,,15 RICHDALE AVE,4,CAMBRIDGE,MA,02140,02140,,email,04.10.2020,5b4f17d
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_7,Massachusetts,camb,National Grid,',,,,,15 RICHDALE AVE,4,CAMBRIDGE,MA,02140,02140,,email,04.10.2020,aa8c84c
+Passed,Amtrak,NRG,Electric,g220285786e9fe8b,ts_18,Ohio,camb,AEP Ohio,',,,,,294 N 10TH ST,4,CNEWARK,Oh,43055,43055,,email,04.10.2020,c71b3b3

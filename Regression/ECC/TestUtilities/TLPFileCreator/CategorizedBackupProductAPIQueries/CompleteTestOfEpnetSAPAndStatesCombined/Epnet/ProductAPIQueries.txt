@@ -1,0 +1,6 @@
+EPNET_or_SAP_Status	EPNET_or_SAP_Expected	EndState	ExpectedEndState	StateList	ExpectedStateList	StateSummaryList	sap_enrollment_confirmation	epnet id	contract id	contract account id	ProductAPIQuery
+											http://products.%s.nrgpl.us/api/v1/products/?brand_slug=nrg_residential&commodity=gas&state_slug=il
+											http://products.%s.nrgpl.us/api/v1/products/?brand_slug=green_mountain_energy&state_slug=ny&commodity=gas
+											http://products.%s.nrgpl.us/api/v1/products/?brand_slug=green_mountain_energy&state_slug=ma&commodity=electric
+											http://products.%s.nrgpl.us/api/v1/products/?brand_slug=nrg_residential&commodity=gas&state_slug=md
+											http://products.%s.nrgpl.us/api/v1/products/?brand_slug=nrg_residential&commodity=gas&state_slug=nj

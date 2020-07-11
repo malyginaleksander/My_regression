@@ -1,0 +1,47 @@
+payload.ts,payload.brand,payload.StateSlug,payload.state,payload.account_type_1,payload.type,	payload.UtilitySlug,payload.categorie_1,accountNo,payload.account_type_2,payload.UtilitySlug_2,payload.categorie_2,accountNo_2,zipcode_,city,email,address,firstname,lastname,email,confcode,Status
+ts_18,NRG,PA,Pennsylvania,Electric,Residential,PECO,The Cash Back Plan,'5968392036,Gas,PECO Gas,Carbon Offset Plan,ac number is't set in generator,'19430,CREAMERY,Michael@testnrg.com,502507 Andrea Stewart St.,Michael,Ewing,Michael@testnrg.com,8547ca9,passed
+ts_19,GME,MD,Maryland,Electric,Residential,BGE,Pollution Free Reliable Rate,'4943312463,,,,,'19490,WORCESTER,Jeffery@testnrg.com,347541 Tracey Johnson St.,Jeffery,Bradley,Jeffery@testnrg.com,a81a0c7,passed
+ts_20,GME,PA,Pennsylvania,Electric,Residential,Met-Ed,Pollution Free Reliable Rate,'08572549128231834415,,,,,'18042,Easton,Adam@testnrg.com,405120 Elizabeth Bentley St.,Adam,Burgess,Adam@testnrg.com,0411774,passed
+ts_1,EP,IL,Illinois,Electric,Residential,ComEd,Cash Back,'1535324420,,,,,'60104,Bellwood,676840 Stephen Miller St.,Joseph,Lozano,Joseph@testnrg.com,no_email,faa486e,passed
+ts_2,EP,MD,Maryland,Gas,Residential,Washington Gas,Professional,'2108435432652,,,,,'20601,WALDORF,534154 Antonio Khan St.,Julian,Roman,Julian@testnrg.com,no_email,e5ec01d,passed
+ts_3,EP,NJ,New Jersey,Electric,Residential,PSE&G,Cash Back,'PE288925419410796031,Gas,PSE&G Gas,Cash Back,PG845949792169063245,'07114,NEWARK,696076 Kenneth Parks St.,Beverly,Fleming,Beverly@testnrg.com,no_email,21be577,passed
+ts_4,EP,PA,Pennsylvania,Electric,Residential,PECO,Cash Back,'6338455388,Electric,PPL Electric Utilities,Rail,7378578661,'16001,BUTLER,902483 Katherine Holder St.,James,Luna,James@testnrg.com,no_email,67d0deb,passed
+ts_5,GME,MD,Maryland,Electric,Residential,BGE,Pollution Free Reliable Rate,'5827528508,,,,,'20616,BRYANS ROAD,765696 Wayne Hill St.,Harry,Brennan,Harry@testnrg.com,no_email,8be4677,passed
+ts_5,GME,MD,Maryland,Electric,Residential,BGE,Pollution Free Reliable Rate,'5655092437,,,,,'20616,BRYANS ROAD,146850 Todd Avila St.,Erin,Pearson,Erin@testnrg.com,no_email,11a2325,passed
+ts_6,EP,NY,New York,Electric,Residential,Consolidated Edison,Cash Back,'5288727406,,,,,'10003,NEW YORK,47594 Michael Lopez St.,Erika,Hamilton,Erika@testnrg.com,no_email,c98a8f5,passed
+ts_7,EP,MD,Maryland,Gas,Residential,BGE,Retail,'1793930031,,,,,'20603,WALDORF,955023 Tracy Flores St.,Danielle,Jones,Danielle@testnrg.com,no_email,2d58c12,passed
+ts_8,GME,IL,Illinois,Electric,Residential,ComEd, Pollution Free Reliable Rate,'4447585977,,,,,'60415,CHICAGO RIDGE,732432 Natasha Smith St.,Katrina,Smith,Katrina@testnrg.com,no_email,4fbd573,passed
+ts_9,GME,IL,Illinois,Gas,Residential,Nicor Gas,Carbon Conscious plan,'6666135336,,,,,'60432,Joliet,293506 David Zimmerman St.,Victoria,Singleton,Victoria@testnrg.com,no_email,73b6af0,passed
+ts_10,NRG,MA,Massachusetts,Electric,Residential,Eversource (Western Massachusetts),MA State Shopping Site Plan 12 month,'54176570524,,,,,'01072,SHUTESBURY,170871 Angela Nash St.,Jeff,Jones,Jeff@testnrg.com,no_email,9def700,passed
+ts_11,GME,PA,Pennsylvania,Electric,Residential,Duquesne Light Company,Pollution Free Reliable Rate,'2424060671593,Gas,PECO Gas,Carbon Conscious plan,7111561736,'15001,ALIQUIPPA,90425 Dillon Miller St.,Alexa,Guerrero,Alexa@testnrg.com,no_email,cbb9cc8,passed
+ts_13,NRG,IL,Illinois,Gas,Residential,Nicor Gas,Carbon Offset Plan,'3908289906,,,,,'60446,Romeoville,354553 Andrew Rice St.,Christopher,Perkins,Christopher@testnrg.com,no_email,f44a572,passed
+ts_14,NRG,OH,Ohio,Electric,Residential,Dayton Power & Light,24M Price Lock Plan,'3851113992,,,,,'45358,Pitsburg,39899 Kristen Alvarado St.,Marissa,Anderson,Marissa@testnrg.com,no_email,176a606,passed
+ts_15,Cirro,PA,Pennsylvania,Electric,Residential,PPL Electric Utilities,Smart Flex PS,'4236029825,,,,,'18463,STERLING,28224 April Sanchez St.,Steven,Gordon,Steven@testnrg.com,no_email,34c1334,passed
+ts_16,GME,MA,Massachusetts,Electric,Residential,Eversource Energy (NSTAR),Pollution Free Reliable Rate,'75458120541,,,,,'01107,SPRINGFIELD,508604 Nancy Robinson St.,Shannon,Carlson,Shannon@testnrg.com,no_email,fcd2721,passed
+ts_17,NRG,IL,Illinois,Gas,Residential,Peoples Gas,Carbon Offset Plan,'1946836811645,,,,,'60615,Chicago,186407 Amy Davis St.,Anne,Gonzalez,Anne@testnrg.com,no_email,24b48d3,passed
+ts_18,NRG,PA,Pennsylvania,Electric,Residential,PECO,The Cash Back Plan,'1761123419,Gas,PECO Gas,Carbon Offset Plan,5873129634,'19430,CREAMERY,606431 Douglas Reyes St.,Denise,Hill,Denise@testnrg.com,no_email,5abc74b,passed
+ts_19,GME,MD,Maryland,Electric,Residential,BGE,Pollution Free Reliable Rate,'3465567030,,,,,'19490,WORCESTER,230617 James Gonzalez St.,Megan,Cruz,Megan@testnrg.com,no_email,7586a74,passed
+ts_20,GME,PA,Pennsylvania,Electric,Residential,Met-Ed,Pollution Free Reliable Rate,'08198097232831155988,,,,,'18042,Easton,846109 Brittany Carey St.,Sean,Flowers,Sean@testnrg.com,no_email,9589cab,passed
+ts_1,EP,IL,Illinois,Electric,Residential,ComEd,Cash Back,'2183845275,,,,,'60196,SCHAUMBURG,358194 Mary Singh St.,Amy,Campbell,Amy@testnrg.com,no_email,6a41515,passed
+ts_1,EP,IL,Illinois,Electric,Residential,Comed,Cash Back,'7132160098,,,,,'60517,WOODRIDGE,966712 Jared Lucas St.,William,Vang,William@testnrg.com,no_email,a885225,passed
+ts_2,EP,MD,Maryland,Gas,Residential,WGL,Professional,'9237064611299,,,,,'20764,SHADY SIDE,234583 Brandy Perez St.,Jamie,Robbins,Jamie@testnrg.com,no_email,d3eb2e9,passed
+ts_5,GME,MD,Maryland,Electric,Residential,BGE,Pollution Free Reliable Rate,'2546689249,,,,,'20772,UPPER MARLBORO,397790 Vanessa Williams St.,Stacey,Drake,Stacey@testnrg.com,no_email,ac4bf0b,passed
+ts_3,EP,NJ,New Jersey,Electric,Residential,PSEG,Cash Back,'PE230619870921566858,Gas,PSEG Gas,Cash Back,PG430328220670543510,'08620,TRENTON,778472 Jacob Lee St.,Amber,Johnson,Amber@testnrg.com,no_email,5ba37c0,passed
+ts_3,EP,NJ,New Jersey,Electric,Residential,PSEG,Cash Back,'PE916302297531769231,Gas,PSEG Gas,Cash Back,PG573623262070510811,'07632,ENGLEWOOD CLIFFS,332230 Robert Moore St.,Leah,Schneider,Leah@testnrg.com,no_email,16a1db3,passed
+ts_4,EP,PA,Pennsylvania,Electric,Residential,PECO,Cash Back,'2087940725,Electric,PPL,Rail,2187635763,'18976,WARRINGTON,877209 Christina Moore St.,Jon,Anderson,Jon@testnrg.com,no_email,4f4c0f6,passed
+ts_5,GME,MD,Maryland,Electric,Residential,BGE,Pollution Free Reliable Rate,'6612928135,,,,,'20783,HYATTSVILLE,761886 Justin Owens St.,Jenna,Oconnell,Jenna@testnrg.com,no_email,754ab6b,passed
+ts_6,EP,NY,New York,Electric,Residential,coned,Cash Back,'8369590483,,,,,'11249,BROOKLYN,550268 Christina Pitts St.,Daniel,Villegas,Daniel@testnrg.com,no_email,ef892ff,passed
+ts_7,EP,MD,Maryland,Gas,Residential,BGE,Retail,'6796173112,,,,,'21161,WHITE HALL,549275 Bobby Williams St.,Mallory,Carter,Mallory@testnrg.com,no_email,1a5cfdb,passed
+ts_8,GME,IL,Illinois,Electric,Residential,Comed, Pollution Free Reliable Rate,'5624619532,,,,,'60655,CHICAGO,916711 Sharon Sanchez St.,Mitchell,Dixon,Mitchell@testnrg.com,no_email,7858d8a,passed
+ts_9,GME,IL,Illinois,Gas,Residential,Nicor,Carbon Conscious plan,'8720417392,,,,,'60530,Lee,721408 Bridget Oliver St.,Gary,Cruz,Gary@testnrg.com,no_email,9431180,passed
+ts_10,NRG,MA,Massachusetts,Electric,Residential,WMECO,MA State Shopping Site Plan 12 month,'131848767,,,,,'01237,LANESBORO,159230 Larry Potts St.,Gina,Powers,Gina@testnrg.com,no_email,25e3b3f,passed
+ts_11,GME,PA,Pennsylvania,Electric,Residential,duq,Pollution Free Reliable Rate,'1524162897571,Gas,PECO-GAS,Carbon Conscious plan,5820558149,'15236,PITTSBURGH,547562 Robert Duncan St.,Debbie,Delgado,Debbie@testnrg.com,no_email,8a4b6ee,passed
+ts_13,NRG,IL,Illinois,Gas,Residential,Nicor,Carbon Offset Plan,'1304381644,,,,,'61941,Murdock,770048 Sarah Calhoun St.,Daisy,Jones,Daisy@testnrg.com,no_email,b2ac06b,passed
+ts_14,NRG,OH,Ohio,Electric,Residential,dpl,24M Price Lock Plan,'9410499806,,,,,'21803,SALISBURY,925725 Beth Mays St.,Janice,Owens,Janice@testnrg.com,no_email,0e777e5,passed
+ts_15,Cirro,PA,Pennsylvania,Electric,Residential,PPL,Smart Flex PS,'7047637010,,,,,'18425,GREELEY,296140 Jon Bradshaw St.,Anna,Smith,Anna@testnrg.com,no_email,6331cfb,passed
+ts_17,NRG,IL,Illinois,Gas,Residential,peopgas,Carbon Offset Plan,'6469719539976,,,,,'60402,BERWYN,951551 Jonathan Higgins St.,David,Cruz,David@testnrg.com,no_email,eb50f20,passed
+ts_15,GME,MA,Massachusetts,Electric,Residential,beco,Pollution Free Reliable Rate,'97775869506,,,,,'02107,Boston,412927 Heather Perez St.,Courtney,Perry,Courtney@testnrg.com,no_email,4304073,passed
+ts_16,NRG,IL,Illinois,Gas,Residential,peopgas,Carbon Offset Plan,'1577576775529,,,,,'60402,BERWYN,419587 Matthew Watson St.,Christopher,Peters,Christopher@testnrg.com,no_email,6cea432,passed
+ts_17,NRG,PA,Pennsylvania,Electric,Residential,PECO,The Cash Back Plan,'8647168957,Gas,PECO Gas,Carbon Offset Plan,1790771247,'18956,RUSHLAND,171149 Leon Perez St.,Lauren,Miller,Lauren@testnrg.com,no_email,6224057,passed
+ts_18,GME,MD,Maryland,Electric,Residential,BGE,Pollution Free Reliable Rate,'6090777763,,,,,'20850,ROCKVILLE,364392 Michael Rogers St.,Michael,Collier,Michael@testnrg.com,no_email,c1e7555,passed
+ts_19,GME,PA,Pennsylvania,Electric,Residential,MetEd,Pollution Free Reliable Rate,'08583426635306663731,,,,,'17361,SHREWSBURY,790994 Lori James St.,Becky,Heath,Becky@testnrg.com,no_email,e44bb59,passed

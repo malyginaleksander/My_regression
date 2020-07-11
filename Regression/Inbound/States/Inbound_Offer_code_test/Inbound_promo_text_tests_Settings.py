@@ -1,0 +1,9 @@
+chosen_driver = "chrome"  #choose "firefox" or "chrome"
+URL = "http://www.pt.energypluscompany.com/myinbound/login.php"
+start_page = 'http://www.pt.energypluscompany.com/myinbound/tab_brand.php'
+login_email_data = "aleksandr.malygin@nrg.com"
+login_password_data = "energy"
+tester = "Alex"
+workbook_name = "./InboundTest_promo_Data.xlsx"
+data_sheet_name = 'Inbound_Test_Data'
+start_string ="1"       #number of TS  in Data file to start tests

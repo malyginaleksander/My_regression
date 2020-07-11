@@ -1,0 +1,4 @@
+Status,tester,time,payload.tc,payload.sku1,str(url_1 + str(payload.sku1)),payload.state,payload.utility_name,account_generator_accountNo,email_given,InsertDate,confirm_gme_text.text,order_status
+Passed,Alex,_02_10_2020_09_27_56_AM,tc_1,36FDA55A-592B,http://gme.enroll.pt.nrgpl.us/?product_id=36FDA55A-592B,MA,Pollution Free Business Generation 12,'4362177693317098103955,Alex_02_10_2020_09_27_12_AM_@tester.com,2020-02-10,E1-JB9-LAW,"""epnet_file_sent"""
+Passed,Alex,_02_10_2020_09_28_50_AM,tc_2,3BE34C73-7652,http://gme.enroll.pt.nrgpl.us/?product_id=3BE34C73-7652,MA,Pollution Free Business Generation 12,'4052524193625220173877,Alex_02_10_2020_09_28_05_AM_@tester.com,2020-02-10,E1-GXW-ZME,"""epnet_file_sent"""
+Passed,Alex,_02_10_2020_09_29_46_AM,tc_3,30378C48-FDCE,http://gme.enroll.pt.nrgpl.us/?product_id=30378C48-FDCE,MA,Pollution Free Business Generation 12,'9693753220362987361577,Alex_02_10_2020_09_28_59_AM_@tester.com,2020-02-10,E1-GEP-DZM,"""epnet_file_sent"""

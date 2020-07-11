@@ -1,0 +1,171 @@
+ts,StateSlug,BrandSlug,PartnerCode,TermsOfServiceType,PremiseType,Commodity,ChannelSlug,SKU,Bonus,Ongoing_Earn,promo_compaign_code,PromoCode,UtilitySlug,Offer,ECF_NoECF,ProductName,Bundle_Description,ProductSlug,System,State_full_name,utility_inb,first_name,last_name,ServiceAddress1,city,zip_code,account_no,phone,emailmarketing,email,confcode,offer_1,offer_2,offer_3,offer_4,text_checking,date_for_report
+ts_30,IL,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,5EB1AD08-B79D,$75 Cash back,3% Cash Back Annually,7992,'533,Ameren,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - July 2020 DM,0720dm_winback_75_bonus,epnet,Illinois,Ameren,Diana,Murphy,445798 Diana Murphy St.,MOLINE,'61265,'9947575032,5167372331,no_email_mark,DianaMurphy@testnrg.com,420ec38,"Win Back Electric Variable Plan
+15.000¢ per kWh
+3 month Promotional Plan
+$75 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_31,IL,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,6C43CFD8-F3A6,$25 Cash back,3% Cash Back Annually,7992,'594,NICOR,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_winback_25_bonus_gas,epnet,Illinois,NICOR,Micheal,Lee,675818 Micheal Lee St.,Oak Park,'60301,'5764158766,6616282464,no_email_mark,MichealLee@testnrg.com,594cbcd,"Win Back Natural Gas Variable Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_32,IL,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,7473732F-04BA,$25 Cash back,3% Cash Back Annually,7992,'594,PEOPGAS,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_winback_25_bonus_gas,epnet,Illinois,PEOPGAS,Joshua,Reed,286672 Joshua Reed St.,WADSWORTH,'60083,'3352553067965,8827111750,no_email_mark,JoshuaReed@testnrg.com,7617115,"Win Back Natural Gas Variable Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_34,IL,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,55211C95-2443,$50 Cash back,3% Cash Back Annually,7993,'553,Ameren,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - July 2020 DM,0720dm_brand_50_bonus,epnet,Illinois,Ameren,Bridget,Harris,254320 Bridget Harris St.,DECATUR,'62522,'8742669504,1441867208,no_email_mark,BridgetHarris@testnrg.com,95a00b5,"Cash Back Electric Plan
+15.000¢ per kWh
+3 month Promotional Plan
+$50 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_35,IL,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,5740EEDB-A58F,$25 Cash back,3% Cash Back Annually,7993,'594,NICOR,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_brand_25_bonus_gas,epnet,Illinois,NICOR,Jerry,Wright,731277 Jerry Wright St.,Ottawa,'61350,'6549424327,8521529181,no_email_mark,JerryWright@testnrg.com,b599300,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_36,IL,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,5C5825EA-131E,$25 Cash back,3% Cash Back Annually,7993,'594,PEOPGAS,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_brand_25_bonus_gas,epnet,Illinois,PEOPGAS,Keith,Williams,331618 Keith Williams St.,WADSWORTH,'60083,'8488708796554,9295923641,no_email_mark,KeithWilliams@testnrg.com,d542510,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_175,MD,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,5F187831-B54A,$25 Cash back,3% Cash Back Annually,7992,'594,BGG,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_winback_25_bonus_gas,epnet,Maryland,BGG,Justin,Brown,404142 Justin Brown St.,ARNOLD,'21012,'4177009692,1643045006,no_email_mark,JustinBrown@testnrg.com,f9b56a8,"Win Back Natural Gas Variable Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_176,MD,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,6CB624C3-F5F6,$25 Cash back,3% Cash Back Annually,7992,'594,WGL,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_winback_25_bonus_gas,epnet,Maryland,WGL,Eric,Fletcher,66934 Eric Fletcher St.,CHASE,'21027,'7283225643264,2209648704,no_email_mark,EricFletcher@testnrg.com,1a5b69a,"Win Back Natural Gas Variable Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_181,MD,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,56CA4126-E151,$25 Cash back,3% Cash Back Annually,7993,'594,BGG,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_brand_25_bonus_gas,epnet,Maryland,BGG,Christopher,Ward,555650 Christopher Ward St.,DAVIDSONVILLE,'21035,'4247107428,5627469376,no_email_mark,ChristopherWard@testnrg.com,3ec80dd,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_182,MD,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,577BD92F-B020,$25 Cash back,3% Cash Back Annually,7993,'594,WGL,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_brand_25_bonus_gas,epnet,Maryland,WGL,Ashley,Jones,168574 Ashley Jones St.,MARYLAND LINE,'21105,'6436573237251,7806644303,no_email_mark,AshleyJones@testnrg.com,5dcbfd5,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_254,NJ,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,58B34945-6736,$25 Cash back,3% Cash Back Annually,7992,'594,SJersey,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_winback_25_bonus_gas,epnet,New Jersey,SJersey,Adrian,Roberts,238048 Adrian Roberts St.,MICKLETON,'08056,'9159095177,1319571279,no_email_mark,AdrianRoberts@testnrg.com,84ce424,"Win Back Natural Gas Variable Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_259,NJ,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,4BF02650-AD06,$50 Cash back,3% Cash Back Annually,7993,'594,PSEG Gas,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_brand_25_bonus_gas,epnet,New Jersey,PSEG Gas,Henry,Walsh,730099 Henry Walsh St.,ESSEX,'07706,'PG283238809286772715,3811165042,no_email_mark,HenryWalsh@testnrg.com,a315568,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_260,NJ,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,4CE16E93-F88F,$50 Cash back,3% Cash Back Annually,7993,'594,SJersey,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_brand_25_bonus_gas,epnet,New Jersey,SJersey,Alfred,Gonzales,410599 Alfred Gonzales St.,SWEDESBORO,'08085,'3104821953,2026968034,no_email_mark,AlfredGonzales@testnrg.com,c5442fa,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_360,OH,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,58D9ADC6-7F3E,$25 Cash back,3% Cash Back Annually,7992,'594,DUKEOHG,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_winback_25_bonus_gas,epnet,Ohio,DUKEOHG,Sean,Young,855785 Sean Young St.,RIPLEY,'45167,'63823470252,3191813307,no_email_mark,SeanYoung@testnrg.com,f699135,"Win Back Natural Gas Variable Plan
+32.900¢ per ccf
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_368,OH,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,4D08C2F5-E98B,$25 Cash back,3% Cash Back Annually,7993,'594,COLOHG,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_brand_25_bonus_gas,epnet,Ohio,COLOHG,Carolyn,Stuart,652516 Carolyn Stuart St.,WEST SALEM,'44287,'703574344113695,9114835994,no_email_mark,CarolynStuart@testnrg.com,b3f1167,"Cash Back Natural Gas Plan
+32.900¢ per ccf
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_369,OH,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,4D722CE1-9CFF,$25 Cash back,3% Cash Back Annually,7993,'594,DEOHG,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_brand_25_bonus_gas,epnet,Ohio,DEOHG,Mallory,Hughes,533599 Mallory Hughes St.,PETERSBURG,'44454,'4349504062789,8534848827,no_email_mark,MalloryHughes@testnrg.com,d11ccbc,"Cash Back Natural Gas Plan
+$2.89 per Mcf
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_370,OH,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,4D4E72C0-B0CD,$25 Cash back,3% Cash Back Annually,7993,'594,DUKEOHG,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_brand_25_bonus_gas,epnet,Ohio,DUKEOHG,John,Parker,771281 John Parker St.,DAYTON,'45459,'12726370731,2148702917,no_email_mark,JohnParker@testnrg.com,f034a40,"Cash Back Natural Gas Plan
+32.900¢ per ccf
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_532,PA,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,508FA3DA-3580,$25 Cash back,3% Cash Back Annually,7992,'594,COLPAG,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_winback_25_bonus_gas,epnet,Pennsylvania,COLPAG,Stephanie,Mcdonald,493857 Stephanie Mcdonald St.,UNIONTOWN,'15401,'239701894104446,7103346764,no_email_mark,StephanieMcdonald@testnrg.com,10b8754,"Win Back Natural Gas Variable Plan
+$2.99 per therm
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_failed,07.06.2020
+ts_533,PA,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,5513F226-089C,$25 Cash back,3% Cash Back Annually,7992,'594,NFGPA,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_winback_25_bonus_gas,epnet,Pennsylvania,NFGPA,Roberta,Tapia,109652 Roberta Tapia St.,JACKSON CENTER,'16133,'696487834,1475631339,no_email_mark,RobertaTapia@testnrg.com,3170316,"Win Back Natural Gas Variable Plan
+99.000¢ per ccf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_failed,07.06.2020
+ts_534,PA,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,5441A65F-8013,$25 Cash back,3% Cash Back Annually,7992,'594,PECO-GAS,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_winback_25_bonus_gas,epnet,Pennsylvania,PECO-GAS,Joshua,King,359935 Joshua King St.,MONTGOMERY,'19430,'4401810465,2654397272,no_email_mark,JoshuaKing@testnrg.com,549bd2a,"Win Back Natural Gas Variable Plan
+99.000¢ per ccf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_failed,07.06.2020
+ts_535,PA,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,54E9ABBC-AA8B,$25 Cash back,3% Cash Back Annually,7992,'594,PGW,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_winback_25_bonus_gas,epnet,Pennsylvania,PGW,Andrew,Smith,90442 Andrew Smith St.,PHILADELPHIA,'19122,'6615356161,3218016713,no_email_mark,AndrewSmith@testnrg.com,7765d44,"Win Back Natural Gas Variable Plan
+99.000¢ per ccf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_failed,07.06.2020
+ts_536,PA,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,50BD92D9-7878,$25 Cash back,3% Cash Back Annually,7992,'594,PNGPA,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_winback_25_bonus_gas,epnet,Pennsylvania,PNGPA,Danielle,Navarro,72754 Danielle Navarro St.,PITTSBURGH,'15277,'261092703147,5438432827,no_email_mark,DanielleNavarro@testnrg.com,9a49338,"Win Back Natural Gas Variable Plan
+$2.29 per mcf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_failed,07.06.2020
+ts_537,PA,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,5421E51A-97A7,$25 Cash back,3% Cash Back Annually,7992,'594,UGIG,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_winback_25_bonus_gas,epnet,Pennsylvania,UGIG,Jennifer,Garcia,870981 Jennifer Garcia St.,Middletown,'17057,'2615650759266,6707938219,no_email_mark,JenniferGarcia@testnrg.com,bdacb99,"Win Back Natural Gas Variable Plan
+99.000¢ per ccf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_failed,07.06.2020
+ts_545,PA,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,4D9860CC-4C59,$25 Cash back,3% Cash Back Annually,7993,'594,COLPAG,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_brand_25_bonus_gas,epnet,Pennsylvania,COLPAG,Carolyn,Ford,844470 Carolyn Ford St.,STATE COLLEGE,'16804,'347571063141902,2245028866,no_email_mark,CarolynFord@testnrg.com,d7230b5,"Cash Back Natural Gas Plan
+$2.99 per therm
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_546,PA,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,50423188-C959,$25 Cash back,3% Cash Back Annually,7993,'594,NFGPA,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_brand_25_bonus_gas,epnet,Pennsylvania,NFGPA,Drew,Bautista,950827 Drew Bautista St.,HERMITAGE,'16148,'386606641,1185918617,no_email_mark,DrewBautista@testnrg.com,f4e1795,"Cash Back Natural Gas Plan
+99.000¢ per ccf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_547,PA,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,4F09C990-5B1D,$25 Cash back,3% Cash Back Annually,7993,'594,PECO-GAS,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_brand_25_bonus_gas,epnet,Pennsylvania,PECO-GAS,Jeffery,Torres,262227 Jeffery Torres St.,MONTGOMERY,'19430,'4009549659,4605764677,no_email_mark,JefferyTorres@testnrg.com,1aed7b5,"Cash Back Natural Gas Plan
+99.000¢ per ccf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_548,PA,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,4F7CC823-CCF2,$25 Cash back,3% Cash Back Annually,7993,'594,PGW,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_brand_25_bonus_gas,epnet,Pennsylvania,PGW,Alicia,Palmer,254013 Alicia Palmer St.,PHILADELPHIA,'19255,'9690071961,8606308551,no_email_mark,AliciaPalmer@testnrg.com,3c8765c,"Cash Back Natural Gas Plan
+99.000¢ per ccf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_549,PA,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,4DEF62DE-108E,$25 Cash back,3% Cash Back Annually,7993,'594,PNGPA,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_brand_25_bonus_gas,epnet,Pennsylvania,PNGPA,Stuart,Franklin,855637 Stuart Franklin St.,PITCAIRN,'15140,'271695033434,7003559349,no_email_mark,StuartFranklin@testnrg.com,5f28cd4,"Cash Back Natural Gas Plan
+$2.29 per mcf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_550,PA,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,4E73BBE3-AB55,$25 Cash back,3% Cash Back Annually,7993,'594,UGIG,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_brand_25_bonus_gas,epnet,Pennsylvania,UGIG,Annette,Strong,388890 Annette Strong St.,Pottstown,'19464,'8538198372529,4307634636,no_email_mark,AnnetteStrong@testnrg.com,809fa39,"Cash Back Natural Gas Plan
+99.000¢ per ccf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_253,NJ,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,5856B6B4-1B8C,$25 Cash back,3% Cash Back Annually,7992,'594,PSEG Gas,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_winback_25_bonus_gas,epnet,New Jersey,PSEG Gas,Lisa,Colon,330377 Lisa Colon St.,MIDDLESEX,'08840,'PG966982645439240026,7834229107,no_email_mark,LisaColon@testnrg.com,a442391,"Win Back Natural Gas Variable Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_358,OH,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,58C3F562-D905,$25 Cash back,3% Cash Back Annually,7992,'594,COLOHG,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_winback_25_bonus_gas,epnet,Ohio,COLOHG,James,Wu,453103 James Wu St.,LOCKBOURNE,'43137,'482010806082448,9428905068,no_email_mark,JamesWu@testnrg.com,c55496c,"Win Back Natural Gas Variable Plan
+32.900¢ per ccf
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_359,OH,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,59A6DED4-F7CB,$25 Cash back,3% Cash Back Annually,7992,'594,DEOHG,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_winback_25_bonus_gas,epnet,Ohio,DEOHG,Yvonne,Jones,173734 Yvonne Jones St.,EAST CANTON,'44730,'6982504697750,8523726340,no_email_mark,YvonneJones@testnrg.com,e68a8f5,"Win Back Natural Gas Variable Plan
+$2.89 per Mcf
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_175,MD,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,5F187831-B54A,$25 Cash back,3% Cash Back Annually,7992,'594,BGG,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_winback_25_bonus_gas,epnet,Maryland,BGG,Justin,BGG,11  Justin Brown St.,DORCHESTER,'21613,4101009692,1643045006,no_email_mark,JustinBrown@testnrg.com,cf637f6,"Win Back Natural Gas Variable Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
+ts_181,MD,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,56CA4126-E151,$25 Cash back,3% Cash Back Annually,7993,'594,BGG,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_brand_25_bonus_gas,epnet,Maryland,BGG,Christopher,BGG,11 Christopher Ward St.,HOWARD,'21043,4201107428,5627469376,no_email_mark,ChristopherWard@testnrg.com,ed3d693,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.06.2020
