@@ -4,7 +4,6 @@ import csv
 from selenium import webdriver
 import time
 import xlrd
-import os
 from collections import namedtuple
 import pytest
 from selenium.webdriver.common.by import By
@@ -13,7 +12,9 @@ from selenium.webdriver.support.wait import WebDriverWait
 from Regression.helpers.common.create_data_for_test import create_data_for_test
 from Regression.helpers.GME.GmeEnroll import GmeEnroll
 
-test_list=[1,2,3,4]
+
+
+test_list=[1]
 start_test = 1
 
 test_name = "test_GME_WebEnroll"
@@ -22,6 +23,7 @@ env = 'pt'
 url_1 = "http://gme.enroll."+env+".nrgpl.us/?product_id="
 API_link = "http://nerf.api."+env+".nrgpl.us/api/v1/orders/?enrollment_number="
 workbook_name = "./inbox_data_files/TestData.xlsx"
+# workbook_name = "././GME_regression_new/inbox_data_files/TestData.xlsx"
 data_sheet_name = 'GME_regression' # FOR REGRESSION
 make_report = "1" # If you need to feel full report - enter "1", if no - enter "0"
 sap_list=[]

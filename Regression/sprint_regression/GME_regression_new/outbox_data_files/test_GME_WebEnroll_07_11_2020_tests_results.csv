@@ -1,0 +1,2 @@
+ts,sku,StateSlug,UtilitySlug,first_name,last_name,ServiceAddress1,zip_code,city,email,account_no,comments,date,conf_number,order_status,sap_enrollment_conf_,test_status
+ts_1,g7c632fbbf816d53,IL,comed,Melissa,Brown,260265 Carl Perkins St.,61349,OHIO,Melissa@testnrg.com,'4161129403,,07_11_2020,E1-JN5-KEX,error,',Passed
