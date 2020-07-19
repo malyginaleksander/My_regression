@@ -15,7 +15,7 @@ from Regression.helpers.NRG.VerificationPage import scroll_termsandconditions_an
 from Regression.helpers.common.accountNO_generator import account_generator_accountNo
 
 test_list = []# test_list = [4,11,16]
-start_test=51
+start_test=1
 env = 'prod'
 test_name = 'PICK_NRG_el_and_gas'
 workbook = xlrd.open_workbook("./inbox_files/database.xlsx")
