@@ -1,0 +1,5 @@
+ts,State,Vanity,Landing Page URL,Zip Code,Electric Utility,Gas Utility,Confirmation Number,Electric SKU,Gas SKU,Yes
+ts_1,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,ComEd,Nicor Gas,E1-65N-ZKV,g37e905cd6ff5e23,559BB9C3-904C,Validated
+ts_2,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,ComEd,Peoples Gas,E1-LPE-YW8,g37e905cd6ff5e23,531E18DF-9543,Validated
+ts_4,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60933.0,Ameren,Peoples Gas,E1-QKA-4W4,531E18DF-9543,56CC6700-3A67,Validated
+ts_5,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,Duquesne Light,Peoples Gas,E1-86Z-NAY,ge5baaacac55de91,987EE244-65BD,Validated
