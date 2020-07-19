@@ -9,38 +9,29 @@ from webdriver_manager.chrome import ChromeDriverManager
 from Regression.helpers.Inbound.Inbound_BrandPage import choose_brand
 from Regression.helpers.common.create_data_for_test import create_data_for_test
 from Regression.helpers.common.create_data_for_test_2 import create_data_for_test_2
-from Regression.helpers.Inbound.Inbound_CustomerInfoPage import \
-    fill_CustomerInfoPage
-from Regression.sprint_regression.Inbound_regression.Inbound_Enrollments_regression.Inbound_BillingInfoPage import \
-    fill_billing_info_page
-from Regression.sprint_regression.Inbound_regression.Inbound_Enrollments_regression.Inbound_GetStartedPage import \
-    fill_GetStartedPage
-from Regression.helpers.Inbound.Inbound_OfferPage import \
-    fill_offer_page
+from Regression.helpers.Inbound.Inbound_CustomerInfoPage import fill_CustomerInfoPage
+from Regression.helpers.Inbound.Inbound_BillingInfoPage import fill_billing_info_page
+from Regression.helpers.Inbound.Inbound_GetStartedPage import fill_GetStartedPage
+from Regression.helpers.Inbound.Inbound_OfferPage import fill_offer_page
 from Regression.helpers.Inbound.Inbound_loginPage import *
 from Regression.helpers.Inbound.Inbound_GrabCode import grab_code
-from Regression.sprint_regression.Inbound_regression.Inbound_Enrollments_regression.Inbound_UtilityNameGenarator import \
-    UtilityNameGenerator, UtilityNameGenerator_2
-from  Regression.sprint_regression.Inbound_regression.Inbound_Enrollments_regression.Inbound_pages_methods import *
-from  Regression.sprint_regression.Inbound_regression.Inbound_Enrollments_regression.Inbound_tags import *
+from Regression.helpers.Inbound.Inbound_UtilityNameGenarator import UtilityNameGenerator, UtilityNameGenerator_2
+from Regression.helpers.Inbound.Inbound_pages_methods import *
+from Regression.helpers.Inbound.Inbound_tags import *
 
-test_list=[5,11,15,18,19]
+test_list=[3]
 start_test =1
 env = "pt"
-# env = "GME_en"
 
-test_name = 'Regressin_Inbound'
+test_name = 'August_campaign'
 
-data_sheet_name = 'Inbound_Test_Data _regression19'
+data_sheet_name = 'Inbound_Test_Data _regression'
 chosen_driver = "chrome"
 # chosen_driver = "firefox"
 
-# URL = "http://www.gme-plus.energypluscompany.com/myinbound/login.php"
-# URL = "http://www.energypluscompany.com/myinbound/login.php"
 URL = "http://www.pt.energypluscompany.com/myinbound/login.php"
 
 start_page = 'http://www.pt.energypluscompany.com/myinbound/tab_brand.php'
-# start_page = 'http://www.gme-plus.energypluscompany.com/myinbound/login.php/tab_brand.php'
 
 login_email_data = "aleksandr.malygin@nrg.com"
 # login_email_data = "gurjeet.saini@nrg.com"
@@ -94,7 +85,7 @@ def test_state(test_setup, payload):
         Inbound_start_test(driver, payload)
     except Exception as ae:
 
-        filename = ("./failed/" + test_name + "_fail_{}_{}.png").format(payload.ts, time)
+        filename = ("./outbox_folder/failed/" + test_name + "_fail_{}_{}.png").format(payload.ts, time)
         driver.get_screenshot_as_file(filename)
         print("Saving screenshot of failed test -- ", payload.ts)
         print("filename:", filename)
@@ -166,9 +157,9 @@ def Inbound_start_test(test_setup, payload):
     if env == "GME_en":
         declouser_GreenME_GME_env(driver)
     elif env.upper() == 'PT':
-        if payload.brand == Green_ME:
+        if payload.Brand == Green_ME:
             declouser_GreenME(driver)
-        elif payload.brand == 'NRG':
+        elif payload.Brand == 'NRG':
             declouser_NRG(driver)
         else:
             declouser_EP(driver)

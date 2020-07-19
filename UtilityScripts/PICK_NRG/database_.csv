@@ -1,0 +1,103 @@
+ts,StateSlug,Vanity,LandingPageURL,ZipCode,ElectricUtility,GasUtility
+ts_1,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,ComEd,Nicor Gas
+ts_2,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,ComEd,Peoples Gas
+ts_3,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60933.0,Ameren,Nicor Gas
+ts_4,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60933.0,Ameren,Peoples Gas
+ts_5,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,Duquesne Light,Peoples Gas
+ts_6,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,West Penn Power,
+ts_7,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,19104.0,PECO,Philadelphia Gas Works
+ts_8,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,19104.0,PECO,UGI Gas
+ts_9,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,17344.0,Met-Ed,Columbia Gas of Pennsylvania
+ts_10,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,17344.0,Met-Ed,UGI Gas
+ts_11,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,16130.0,Penn Power,National Fuel Gas Company (PA)
+ts_12,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,16130.0,Penn Power,UGI Gas
+ts_13,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15765.0,Penelec,UGI Gas
+ts_14,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15765.0,Penelec,Peoples Gas
+ts_15,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,18073.0,Met-Ed,UGI Gas
+ts_16,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,18073.0,PECO,PECO Gas
+ts_17,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,18073.0,PPL Electric Utilities,
+ts_18,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,Duquesne Light,Peoples Gas
+ts_19,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,West Penn Power,
+ts_20,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,02126,EVERSOURCE (EASTERN MASSACHUSETTS)
+ts_21,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,Eversource Energy (Western Massachusetts),
+ts_22,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,NatGrid Mass Electric,
+ts_23,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,Eversource Energy (Western Massachusetts),
+ts_24,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,NatGrid Mass Electric,
+ts_25,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,20815.0,Pepco,Washington Gas Light
+ts_26,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,20815.0,Pepco,BG&E Gas
+ts_27,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21071.0,BGE,BG&E Gas
+ts_28,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21071.0,Potomac Edison,
+ts_29,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21071.0,BGE,BG&E Gas
+ts_30,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21071.0,Potomac Edison,
+ts_31,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21620.0,DELMARVA POWER
+ts_32,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08550,JCP&L,PSE&G Gas
+ts_33,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08550,PSE&G,
+ts_34,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08540,PSE&G,South Jersey Gas
+ts_35,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08540,PSE&G,PSE&G Gas
+ts_36,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08201,ATLANTIC CITY ELECTRIC
+ts_37,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,07495,ROCKLAND ELECTRIC COMPANY
+ts_38,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,43016.0,Ohio Power Company (AEP),Columbia Gas Ohio
+ts_39,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,43016.0,Ohio Edison,
+ts_40,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Ohio Edison,Dominion East Ohio
+ts_41,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Dayton Power & Light,
+ts_42,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,The Cleveland Illuminating Company,
+ts_43,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Ohio Edison,Dominion East Ohio
+ts_44,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Dayton Power & Light,
+ts_45,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,The Cleveland Illuminating Company,
+ts_46,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Ohio Edison,Dominion East Ohio
+ts_47,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Dayton Power & Light,
+ts_48,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,The Cleveland Illuminating Company,
+ts_49,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,43605.0,Toledo Edison,Columbia Gas Ohio
+ts_50,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,43605.0,Dayton Power & Light,
+ts_51,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,45034.0,DUKE ENERGY OHIO
+ts_1,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,ComEd,Nicor Gas
+ts_2,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,ComEd,Peoples Gas
+ts_3,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60933.0,Ameren,Nicor Gas
+ts_4,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60933.0,Ameren,Peoples Gas
+ts_5,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,Duquesne Light,Peoples Gas
+ts_6,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,West Penn Power,
+ts_7,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,19104.0,PECO,Philadelphia Gas Works
+ts_8,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,19104.0,PECO,UGI Gas
+ts_9,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,17344.0,Met-Ed,Columbia Gas of Pennsylvania
+ts_10,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,17344.0,Met-Ed,UGI Gas
+ts_11,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,16130.0,Penn Power,National Fuel Gas Company (PA)
+ts_12,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,16130.0,Penn Power,UGI Gas
+ts_13,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15765.0,Penelec,UGI Gas
+ts_14,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15765.0,Penelec,Peoples Gas
+ts_15,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,18073.0,Met-Ed,UGI Gas
+ts_16,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,18073.0,PECO,PECO Gas
+ts_17,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,18073.0,PPL Electric Utilities,
+ts_18,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,Duquesne Light,Peoples Gas
+ts_19,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,West Penn Power,
+ts_20,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,02126,EVERSOURCE (EASTERN MASSACHUSETTS)
+ts_21,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,Eversource Energy (Western Massachusetts),
+ts_22,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,NatGrid Mass Electric,
+ts_23,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,Eversource Energy (Western Massachusetts),
+ts_24,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,NatGrid Mass Electric,
+ts_25,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,20815.0,Pepco,Washington Gas Light
+ts_26,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,20815.0,Pepco,BG&E Gas
+ts_27,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21071.0,BGE,BG&E Gas
+ts_28,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21071.0,Potomac Edison,
+ts_29,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21071.0,BGE,BG&E Gas
+ts_30,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21071.0,Potomac Edison,
+ts_31,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21620.0,DELMARVA POWER
+ts_32,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08550,JCP&L,PSE&G Gas
+ts_33,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08550,PSE&G,
+ts_34,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08540,PSE&G,South Jersey Gas
+ts_35,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08540,PSE&G,PSE&G Gas
+ts_36,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08201,ATLANTIC CITY ELECTRIC
+ts_37,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,07495,ROCKLAND ELECTRIC COMPANY
+ts_38,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,43016.0,Ohio Power Company (AEP),Columbia Gas Ohio
+ts_39,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,43016.0,Ohio Edison,
+ts_40,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Ohio Edison,Dominion East Ohio
+ts_41,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Dayton Power & Light,
+ts_42,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,The Cleveland Illuminating Company,
+ts_43,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Ohio Edison,Dominion East Ohio
+ts_44,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Dayton Power & Light,
+ts_45,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,The Cleveland Illuminating Company,
+ts_46,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Ohio Edison,Dominion East Ohio
+ts_47,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Dayton Power & Light,
+ts_48,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,The Cleveland Illuminating Company,
+ts_49,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,43605.0,Toledo Edison,Columbia Gas Ohio
+ts_50,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,43605.0,Dayton Power & Light,
+ts_51,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,45034.0,DUKE ENERGY OHIO

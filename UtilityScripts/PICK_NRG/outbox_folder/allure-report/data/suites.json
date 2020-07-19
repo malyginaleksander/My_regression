@@ -1,0 +1,26 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "UtilityScripts.PICK_NRG",
+    "children" : [ {
+      "name" : "test_PICK_NRG_el_and_gas",
+      "children" : [ {
+        "name" : "test_state[ts_1]",
+        "uid" : "dfc49e9fdcb6e9c4",
+        "parentUid" : "41306a3508d521abd6b133f961780020",
+        "status" : "passed",
+        "time" : {
+          "start" : 1594776829524,
+          "stop" : 1594776883272,
+          "duration" : 53748
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "payload(ts='ts_1', StateSlug='IL', Vanity='picknrg.com/nrril7959', LandingPageURL='https://www.picknrg.com/en/us/lp/dm/brand_7959', ZipCode=60602.0, ElectricUtility='Comed', GasUtility='Nicor')" ]
+      } ],
+      "uid" : "41306a3508d521abd6b133f961780020"
+    } ],
+    "uid" : "94b9ee9a97a882717021c8456b3c4858"
+  } ]
+}

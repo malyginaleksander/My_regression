@@ -1,0 +1,28 @@
+ts,State,Vanity,Landing Page URL,Zip Code,Electric Utility,Gas Utility,Confirmation Number,Electric SKU,Gas SKU,Yes
+ts_1,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,Comed,Nicor,E1-Z6E-E8Q,g37e905cd6ff5e23,559BB9C3-904C,Validated
+ts_2,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60933.0,Ameren,Peoples,E1-MA4-4W4,531E18DF-9543,56CC6700-3A67,Validated
+ts_3,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,Duquesne Light,,E1-Y5N-N88,ge5baaacac55de91,,Validated
+ts_4,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,19104.0,PECO,Phila Gas Works,E1-VZY-YWL,gec3cf16f794fcdd,AA98E47E-E137,Validated
+ts_5,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,17344.0,Met-Ed,Columbia Gas,E1-BXP-P4Q,g136c0f9102d2081,966C0EA3-6037,Validated
+ts_6,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,16130.0,Penn Power,National Fuel Gas,E1-XEB-B8M,g054fad321bb30a7,AF62B8BA-A854,Validated
+ts_7,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15765.0,Penelec,UGI Gas,E1-EB9-9WX,g2dbaf13094f14cb,9A72BDF3-29AE,Validated
+ts_8,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,18073.0,PPL,PECO Gas,E1-46P-PQ7,g34c620ef21a87b2,A028A01A-2C02,Validated
+ts_9,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,West Penn Power,Peoples,E1-RP7-7W8,gf4e890b4fad275b,987EE244-65BD,Validated
+ts_10,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,02126,Eversource (EMA),,E1-65N-NL4,g2c9bd35bac12112,,Validated
+ts_11,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,Eversource (WMA),,E1-LPE-ENR,ge6aec407beaf5b9,,Validated
+ts_12,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,Nat Grid,,E1-QKA-AXN,g3b75f573695261e,,Validated
+ts_13,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,20815.0,Pepco,Wash Gas,E1-86Z-ZPE,g3dbdc2dc576b2e5,5D3B0E47-2A89,Validated
+ts_14,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21071.0,BGE,BG&E Gas,E1-DV7-7R8,g663fb933b0ad13a,5AE5E663-7C6A,Validated
+ts_15,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21071.0,Potomac Ed,BG&E Gas,E1-5LA-A68,g453642847a394cd,5AE5E663-7C6A,Validated
+ts_16,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21620.0,Delmarva,,E1-WEV-VKE,g49ce8320fe212c1,,Validated
+ts_17,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08550,JCP&L,PSE&G Gas,E1-KKX-X9D,g67f1756eb4e6f89,64A45CCA-73D1,Validated
+ts_18,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08540,PSE&G,South Jersey Gas,E1-PZP-PB4,ga4d426de39f0a5b,6BC7EC29-7472,Validated
+ts_19,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08201,Atlantic City Elec,,E1-769-9K5,g40e5f74c781b892,,Validated
+ts_20,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,07495,Rockland,,E1-Z6E-E7Q,ga3e8950df4a6423,,Validated
+ts_21,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,43016.0,Ohio Power (AE),Columbia Gas,E1-MA4-4M4,g9229a6992272f5d,6CFD04AD-6F06,Validated
+ts_22,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Ohio Edison,Dominion ,E1-Y5N-NA8,g9229a6992272f5d,7B06E4E3-7A4C,Validated
+ts_23,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Dayton Power,,E1-VZY-YLL,gd2b344939c39bdc,,Validated
+ts_24,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,The Cleveland Illuminating Company,,E1-XEB-BPM,g1ea66f0081f6f24,,Validated
+ts_25,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,43605.0,Toledo Edison,,E1-EB9-96X,g3ccde36a6d0f3e3,,Validated
+ts_26,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,45034.0,Duke Energy,Duke Gas,E1-46P-PR7,gb8c01092b462da4,76AE29C3-7715,Validated
+ts_1,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,Comed,Nicor,E1-86Z-ZME,559BB9C3-904C,g37e905cd6ff5e23,Validated

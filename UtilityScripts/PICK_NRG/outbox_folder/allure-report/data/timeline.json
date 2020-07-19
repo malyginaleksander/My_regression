@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "NJHQAMALYGIN-L1",
+    "children" : [ {
+      "name" : "20376-MainThread",
+      "children" : [ {
+        "name" : "test_state[ts_1]",
+        "uid" : "dfc49e9fdcb6e9c4",
+        "parentUid" : "cd2c6efe3a94a2812412a7f99939dca3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1594776829524,
+          "stop" : 1594776883272,
+          "duration" : 53748
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "payload(ts='ts_1', StateSlug='IL', Vanity='picknrg.com/nrril7959', LandingPageURL='https://www.picknrg.com/en/us/lp/dm/brand_7959', ZipCode=60602.0, ElectricUtility='Comed', GasUtility='Nicor')" ]
+      } ],
+      "uid" : "cd2c6efe3a94a2812412a7f99939dca3"
+    } ],
+    "uid" : "098f140553effd3ab3bf69eb1c518bbd"
+  } ]
+}

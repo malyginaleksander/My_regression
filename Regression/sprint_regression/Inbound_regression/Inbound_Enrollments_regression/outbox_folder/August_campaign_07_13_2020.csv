@@ -1,0 +1,3 @@
+payload.ts,payload.brand,payload.StateSlug,payload.state,payload.account_type_1,payload.type,	payload.UtilitySlug,payload.categorie_1,accountNo,payload.account_type_2,payload.UtilitySlug_2,payload.categorie_2,accountNo_2,zipcode_,city,address,firstname,lastname,email,payload.emailmarketing,confcode,Status
+ts_1,EP,IL,Illinois,Electric,Residential,Comed,Cash Back,'4950840234,,,,,'60104,Bellwood,812687 Amy Obrien St.,Michael,Rose,Michael@testnrg.com,no_email,41dda07,passed
+ts_3,EP,NJ,New Jersey,Electric,Residential,PSEG,Cash Back,'PE257962441988053208,Gas,PSEG Gas,Cash Back,PG973270040855940352,'07114,NEWARK,180972 Jacob Edwards St.,Crystal,Gates,Crystal@testnrg.com,no_email,c7bf4b6,passed

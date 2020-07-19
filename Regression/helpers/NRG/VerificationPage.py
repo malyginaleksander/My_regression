@@ -7,7 +7,7 @@ from selenium.webdriver.support import  expected_conditions as EC
 
 def scroll_termsandconditions_and_agree(driver):
    global end_tos, end_tos_ex
-   WebDriverWait(driver, 60).until(EC.presence_of_element_located((By.XPATH, "//div[contains(text(),'About You')]")))
+   WebDriverWait(driver, 90).until(EC.presence_of_element_located((By.XPATH, "//div[contains(text(),'About You')]")))
 
    try:
        end_tos_ex = driver.find_element_by_class_name('tos-section')

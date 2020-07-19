@@ -1,0 +1,70 @@
+ts,Brand,StateSlug,State_full_name,BrandSlug,PartnerCode,TermsOfServiceType,PremiseType,Commodity,ChannelSlug,SKU,Bonus,Ongoing_Earn,promo_compaign_code,PromoCode,UtilitySlug,Offer,ECF_NoECF,ProductName,Bundle_Description,ProductSlug,System,utility_inb,first_name,last_name,ServiceAddress1,zip_code,city,account_no,phone,email,emailmarketing,confcode,offer_1,offer_2,offer_3,offer_4,offer_5,offer_6,text_checking,date_for_report
+ts_10,NRG,NJ,New Jersey,nrg_residential,AMA,variable,residential,electric,inbound_telemarketing,g30eaad2ef4f182d,$75 Cash back,3% Cash Back Annually,7990.0,'078,pseg,3 Month Variable,No ECF,3 Month Electric Plan for AAA Mid-Atlantic members,$75 Check/ 3% Cash Back - July 2020 DM,ama_2mon_75_cash_3pcnt_earn,sap,pseg,Paul,Carey,143172 Joshua Stark St.,08501,ALLENTOWN,'PE113254508911120220,3187706031,Paul@testnrg.com,no_email_mark,0fd3850,"3 Month Electric Plan for AAA Mid-Atlantic members
+5.500¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.13.2020
+ts_11,NRG,NJ,New Jersey,nrg_residential,AMA,variable,residential,electric,inbound_telemarketing,g47b91139bac6c53,$75 Cash back,3% Cash Back Annually,7990.0,'078,reco,3 Month Variable,No ECF,3 Month Electric Plan for AAA Mid-Atlantic members,$75 Check/ 3% Cash Back - July 2020 DM,ama_2mon_75_cash_3pcnt_earn,sap,reco,Stacey,Peters,308159 Matthew Clay St.,07641,HAWORTH,'4987281553,7907788970,Stacey@testnrg.com,no_email_mark,3278d2d,"3 Month Electric Plan for AAA Mid-Atlantic members
+5.500¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.13.2020
+ts_9,NRG,NJ,New Jersey,nrg_residential,AMA,variable,residential,electric,inbound_telemarketing,g62863350e8494d3,$75 Cash back,3% Cash Back Annually,7990.0,'078,ace,3 Month Variable,No ECF,3 Month Electric Plan for AAA Mid-Atlantic members,$75 Check/ 3% Cash Back - July 2020 DM,ama_2mon_75_cash_3pcnt_earn,sap,ace,Thomas,Wilson,330610 Nathan Cervantes St.,08243,SEA ISLE CITY,'05556630513466665734289,1194986871,Thomas@testnrg.com,no_email_mark,6a43454,"3 Month Electric Plan for AAA Mid-Atlantic members
+5.500¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.13.2020
+ts_10,NRG,NJ,New Jersey,nrg_residential,AMA,variable,residential,electric,inbound_telemarketing,g30eaad2ef4f182d,$75 Cash back,3% Cash Back Annually,7990.0,'078,pseg,3 Month Variable,No ECF,3 Month Electric Plan for AAA Mid-Atlantic members,$75 Check/ 3% Cash Back - July 2020 DM,ama_2mon_75_cash_3pcnt_earn,sap,pseg,Jennifer,Sanchez,412662 Tiffany Cole St.,08645,TRENTON,'PE972094100654403109,7949201885,Jennifer@testnrg.com,no_email_mark,8d75e45,"3 Month Electric Plan for AAA Mid-Atlantic members
+5.500¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.13.2020
+ts_11,NRG,NJ,New Jersey,nrg_residential,AMA,variable,residential,electric,inbound_telemarketing,g47b91139bac6c53,$75 Cash back,3% Cash Back Annually,7990.0,'078,reco,3 Month Variable,No ECF,3 Month Electric Plan for AAA Mid-Atlantic members,$75 Check/ 3% Cash Back - July 2020 DM,ama_2mon_75_cash_3pcnt_earn,sap,reco,William,Gray,894753 Shannon Becker St.,07446,RAMSEY,'2746995117,8293778798,William@testnrg.com,no_email_mark,b12f167,"3 Month Electric Plan for AAA Mid-Atlantic members
+5.500¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.13.2020
+ts_14,NRG,OH,Ohio,nrg_residential,UAL,variable,residential,electric,inbound_telemarketing,g596fb9e964b0917,"10,000 MileagePlus miles",2 points/ $1,7990.0,'047,cei,3 Month Variable,No ECF,Power Trip Electric Plan with MileagePlus miles,"10,000 bonus/ 2 miles per $1 - July 2020 DM",ual_2mon_10000_bonus_2pcnt_earn,sap,cei,Paula,Walker,445147 Daniel Ho St.,44010,AUSTINBURG,'38489130346883955012,8933099264,Paula@testnrg.com,no_email_mark,ae08680,"Power Trip Electric Plan with MileagePlus miles
+5.500¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Miles after 2 Months
+2* every 1 Month",,,,,,text_passed,07.13.2020
+ts_12,NRG,OH,Ohio,nrg_residential,SPW,variable,residential,gas,inbound_telemarketing,796DE7D7-752A,"30,000 Speedy Rewards points",15 points/$1,7990.0,'409,DUKEOHG,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Speedy Rewards points,"30,000 bonus/ 15 points per $1 - July 2020 DM",spw_2mon_30000_bonus_15pt_earn_gas,epnet,DUKEOHG,James,Martinez,636016 Warren Garcia St.,45459,DAYTON,'31413465824,5657699077,James@testnrg.com,no_email_mark,e91059c,"Power Trip Natural Gas Plan with Speedy Rewards points
+32.900¢ per ccf
+3 month Promotional Plan
+30,000 points after 2 Months
+15 Points per $1 every 1 Month","Power Trip Natural Gas Plan with Speedy Rewards points
+32.900¢ per ccf
+3 month Promotional Plan
+30,000 points after 2 Months
+15 Points per $1 every 1 Month",,,,,text_passed,07.13.2020
+ts_13,NRG,OH,Ohio,nrg_residential,UAL,variable,residential,electric,inbound_telemarketing,gd597eefa1b6ba8f,"10,000 MileagePlus miles",2 points/ $1,7990.0,'047,aeps,3 Month Variable,No ECF,Power Trip Electric Plan with MileagePlus miles,"10,000 bonus/ 2 miles per $1 - July 2020 DM",ual_2mon_10000_bonus_2pcnt_earn,sap,aeps,Martha,Young,275364 Patricia Hansen St.,43138,LOGAN,'00044820550825650,9854188152,Martha@testnrg.com,no_email_mark,0c91188,"Power Trip Electric Plan with MileagePlus miles
+5.500¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Miles after 2 Months
+2* every 1 Month",,,,,,text_passed,07.13.2020
+ts_14,NRG,OH,Ohio,nrg_residential,UAL,variable,residential,electric,inbound_telemarketing,g596fb9e964b0917,"10,000 MileagePlus miles",2 points/ $1,7990.0,'047,cei,3 Month Variable,No ECF,Power Trip Electric Plan with MileagePlus miles,"10,000 bonus/ 2 miles per $1 - July 2020 DM",ual_2mon_10000_bonus_2pcnt_earn,sap,cei,Paul,Robinson,496201 Jessica Bell St.,44147,BROADVIEW HEIGHTS,'84708858791936600286,1897618073,Paul@testnrg.com,no_email_mark,2fbaeb9,"Power Trip Electric Plan with MileagePlus miles
+5.500¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Miles after 2 Months
+2* every 1 Month",,,,,,text_passed,07.13.2020
+ts_15,NRG,OH,Ohio,nrg_residential,UAL,variable,residential,electric,inbound_telemarketing,gacffb64cb34a6fc,"10,000 MileagePlus miles",2 points/ $1,7990.0,'047,dpl,3 Month Variable,No ECF,Power Trip Electric Plan with MileagePlus miles,"10,000 bonus/ 2 miles per $1 - July 2020 DM",ual_2mon_10000_bonus_2pcnt_earn,sap,dpl,Gary,Shields,453540 Tanya Jackson St.,21154,STREET,'8288594632,1493968392,Gary@testnrg.com,no_email_mark,5223091,"Power Trip Electric Plan with MileagePlus miles
+5.500¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Miles after 2 Months
+2* every 1 Month",,,,,,text_passed,07.13.2020
+ts_16,NRG,OH,Ohio,nrg_residential,UAL,variable,residential,electric,inbound_telemarketing,g7f8955113d78c8f,"10,000 MileagePlus miles",2 points/ $1,7990.0,'047,dukeoh,3 Month Variable,No ECF,Power Trip Electric Plan with MileagePlus miles,"10,000 bonus/ 2 miles per $1 - July 2020 DM",ual_2mon_10000_bonus_2pcnt_earn,sap,dukeoh,Sherry,Rich,297035 Chloe Brown St.,44147,Broadview Heights,'53493973414,1605499385,Sherry@testnrg.com,no_email_mark,748249a,"Power Trip Electric Plan with MileagePlus miles
+5.500¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Miles after 2 Months
+2* every 1 Month",,,,,,text_passed,07.13.2020

@@ -1,0 +1,33 @@
+ts,sku,StateSlug,UtilitySlug,first_name,last_name,ServiceAddress1,zip_code,city,email,account_no,comments,date,conf_number,order_status,sap_enrollment_conf_,test_status
+ts_12,AC391416-1CC5,PA,meted,Christopher,Bond,966090 Robin Jacobson St.,18371,Pike,Christopher@testnrg.com,'08172228379962958555,,07_18_2020,E1-J88-BYK,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Kenneth,Conley,347335 Michele Mcgrath St.,17372,YORK SPRINGS,Kenneth@testnrg.com,'08155667809219136460,,07_18_2020,E1-GD8-DX4,error,',Passed
+ts_13,99501BE9-A910,PA,wpp,Donna,Miller,351274 Daniel Walls St.,15033,DONORA,Donna@testnrg.com,'08406811966459690076,,07_18_2020,E1-G5M-5PN,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Alejandro,Walsh,956122 Eddie Becker St.,18070,PALM,Alejandro@testnrg.com,'08219504695784653496,,07_18_2020,E1-JWN-4M6,error,',Passed
+ts_13,99501BE9-A910,PA,wpp,Ronald,Tanner,279344 Kathy Taylor St.,17257,SHIPPENSBURG,Ronald@testnrg.com,'08136247580385771262,,07_18_2020,E1-JNZ-QBA,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Diana,Hobbs,996152 Crystal Blackwell St.,17547,MARIETTA,Diana@testnrg.com,'08220585977123230367,,07_18_2020,E1-JKY-A7Z,error,',Passed
+ts_13,99501BE9-A910,PA,wpp,Bernard,Holt,525484 Derek Mitchell St.,15076,RUSSELLTON,Bernard@testnrg.com,'08750889558428421069,,07_18_2020,E1-JPD-LRM,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Greg,Gould,63630 David Vaughan St.,18341,MINISINK HILLS,Greg@testnrg.com,'08864577747938839356,,07_18_2020,E1-JAW-79K,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Tracy,Hall,552197 Alicia Spencer St.,19470,SAINT PETERS,Tracy@testnrg.com,'08961381529023388384,,07_18_2020,E1-G78-VZP,error,',Passed
+ts_13,99501BE9-A910,PA,wpp,Dakota,Wilson,260996 Donald Morales St.,15352,NEW FREEPORT,Dakota@testnrg.com,'08215198819814265840,,07_18_2020,E1-J9R-XBA,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Andrew,Ramirez,792865 Kelly Brown St.,17313,DALLASTOWN,Andrew@testnrg.com,'08244215573909476767,,07_18_2020,E1-JZY-X4M,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Kurt,Odom,79317 Jeffrey Howard St.,19516,CENTERPORT,Kurt@testnrg.com,'08553751338464472255,,07_18_2020,E1-JMZ-5YR,error,',Passed
+ts_13,99501BE9-A910,PA,wpp,Robert,Curry,575169 Michael Macdonald St.,15647,LARIMER,Robert@testnrg.com,'08998079115686438378,,07_18_2020,E1-GYM-7XE,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Jason,Smith,655744 Emily Hall St.,19534,LENHARTSVILLE,Jason@testnrg.com,'08631615199610572762,,07_18_2020,E1-GV7-M98,error,',Passed
+ts_13,99501BE9-A910,PA,wpp,Dylan,Miller,783400 Michael Ayala St.,16212,CADOGAN,Dylan@testnrg.com,'08411994203735266293,,07_18_2020,E1-JBN-LMM,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Jerry,Simmons,525842 Jennifer Matthews St.,17307,BIGLERVILLE,Jerry@testnrg.com,'08964443606948827959,,07_18_2020,E1-GX4-AZZ,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Mary,Smith,117547 Peter Wang St.,17302,AIRVILLE,Mary@testnrg.com,'08762715462546193038,,07_18_2020,E1-GE8-7D7,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Yolanda,Thompson,790046 Gregory Simmons St.,19547,OLEY,Yolanda@testnrg.com,'08720192203915767252,,07_18_2020,E1-G45-ZVE,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Greg,Barnes,776769 William Patton St.,19559,STRAUSSTOWN,Greg@testnrg.com,'08872982161959711332,,07_18_2020,E1-JRB-Y5Q,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Jon,Gonzalez,299673 Sara Wheeler St.,19564,VIRGINVILLE,Jon@testnrg.com,'08657320441234139377,,07_18_2020,E1-G6R-B4R,error,',Passed
+ts_13,99501BE9-A910,PA,wpp,Pamela,Brown,500116 Joel Sherman St.,15443,Hibbs,Pamela@testnrg.com,'08800989948615857746,,07_18_2020,E1-JLQ-R7V,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Joseph,Robinson,548219 Sherri Smith St.,17331,HANOVER,Joseph@testnrg.com,'08328507682530435267,,07_18_2020,E1-JQB-5RK,error,',Passed
+ts_13,99501BE9-A910,PA,wpp,Theodore,Gonzalez,776162 David Brown St.,15068,NEW KENSINGTON,Theodore@testnrg.com,'08605578389519832259,,07_18_2020,E1-J88-RBK,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Samuel,Wilson,176392 Donald Peterson St.,17363,STEWARTSTOWN,Samuel@testnrg.com,'08777842755105281572,,07_18_2020,E1-GD8-MD4,error,',Passed
+ts_13,99501BE9-A910,PA,wpp,Latoya,Krueger,45574 Travis Padilla St.,15821,BENEZETT,Latoya@testnrg.com,'08999042669292578535,,07_18_2020,E1-G5M-V5N,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Julie,Gillespie,897060 Emily Downs St.,17318,EMIGSVILLE,Julie@testnrg.com,'08297520171174347480,,07_18_2020,E1-JWN-Y46,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Michelle,Chambers,408878 William Carroll St.,18458,SHOHOLA,Michelle@testnrg.com,'08608669199151160031,,07_18_2020,E1-JNZ-8QA,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Rebecca,Gutierrez,982407 Susan Smith St.,18341,MINISINK HILLS,Rebecca@testnrg.com,'08120671488346874331,,07_18_2020,E1-JKY-NAZ,error,',Passed
+ts_13,99501BE9-A910,PA,wpp,Alexandra,Austin,634128 Brian Mccall St.,15063,MONONGAHELA,Alexandra@testnrg.com,'08447251362673199574,,07_18_2020,E1-JPD-YLM,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Michelle,Harrison,474218 Mr. Shawn Sanchez St.,18077,RIEGELSVILLE,Michelle@testnrg.com,'08854552312494576735,,07_18_2020,E1-JAW-Z7K,error,',Passed
+ts_13,99501BE9-A910,PA,wpp,Jacqueline,Rasmussen,741920 Wesley Wilson St.,15717,BLAIRSVILLE,Jacqueline@testnrg.com,'08213129461040460482,,07_18_2020,E1-G78-RVP,error,',Passed
+ts_12,AC391416-1CC5,PA,meted,Peggy,Burke,878886 Stanley Hall St.,17313,DALLASTOWN,Peggy@testnrg.com,'08279673754542480949,,07_18_2020,E1-J9R-4XA,error,',Passed

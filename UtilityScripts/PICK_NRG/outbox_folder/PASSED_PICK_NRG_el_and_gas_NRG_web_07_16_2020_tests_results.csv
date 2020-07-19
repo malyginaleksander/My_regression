@@ -1,0 +1,8 @@
+ts,State,Vanity,Landing Page URL,Zip Code,Electric Utility,Gas Utility,Confirmation Number,Electric SKU,Gas SKU,Yes
+ts_1,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,Comed,Nicor,E1-Z6E-MR8,g37e905cd6ff5e23,559BB9C3-904C,Validated
+ts_1,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,Comed,Nicor,E1-MA4-XPM,g37e905cd6ff5e23,559BB9C3-904C,Validated
+ts_2,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60933.0,Ameren,Peoples,E1-Y5N-ZRZ,531E18DF-9543,56CC6700-3A67,Validated
+ts_1,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,Comed,Nicor,E1-BXP-Q6Y,g37e905cd6ff5e23,559BB9C3-904C,Validated
+ts_2,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60933.0,Ameren,Peoples,E1-XEB-9R5,56CC6700-3A67,531E18DF-9543,Validated
+ts_4,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,19104.0,PECO,Phila Gas Works,E1-PZP-NXY,gec3cf16f794fcdd,AA98E47E-E137,Validated
+ts_5,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,17344.0,Met-Ed,Columbia Gas,E1-769-NDE,966C0EA3-6037,g136c0f9102d2081,Validated

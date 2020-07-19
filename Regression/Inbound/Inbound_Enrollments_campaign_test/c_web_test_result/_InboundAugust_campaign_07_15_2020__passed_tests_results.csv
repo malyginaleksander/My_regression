@@ -1,0 +1,1394 @@
+ts,Brand,StateSlug,State_full_name,BrandSlug,PartnerCode,TermsOfServiceType,PremiseType,Commodity,ChannelSlug,SKU,Bonus,Ongoing_Earn,promo_compaign_code,PromoCode,UtilitySlug,Offer,ECF_NoECF,ProductName,Bundle_Description,ProductSlug,System,utility_inb,first_name,last_name,ServiceAddress1,zip_code,city,account_no,phone,email,emailmarketing,confcode,offer_1,offer_2,offer_3,offer_4,offer_5,offer_6,text_checking,date_for_report,,,,,,
+ts_2,NRG,IL,Illinois,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,Ameren,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,Ameren,Valerie,Pena,646320 Daniel Velez St.,62522,DECATUR,'7516640802,1234109358,Valerie@testnrg.com,no_email_mark,48ce9ce,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JW9-MAP,',epnet_file_sent,2,epenet_passed,
+ts_3,NRG,IL,Illinois,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8000,594,Nicor,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_winback_25_bonus_gas,,Nicor,Stacy,Nash,727216 David Garcia St.,60445,Crestwood,'7186661822,5584053825,Stacy@testnrg.com,no_email_mark,6d98ca4,"Win Back Natural Gas Variable Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JN5-BP5,',epnet_file_sent,3,epenet_passed,
+ts_4,NRG,IL,Illinois,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8000,594,PeopGas,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_winback_25_bonus_gas,,PeopGas,William,Hodge,424437 Elizabeth Williams St.,60083,WADSWORTH,'2067750937909,5419442713,William@testnrg.com,no_email_mark,9231992,"Win Back Natural Gas Variable Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JK5-7DY,',epnet_file_sent,4,epenet_passed,
+ts_6,NRG,IL,Illinois,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,Ameren,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Ameren,Vanessa,Harrison,713814 Meredith Lopez St.,61822,CHAMPAIGN,'8296316483,2192508276,Vanessa@testnrg.com,no_email_mark,d8424b5,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JAV-9B4,',epnet_file_sent,6,epenet_passed,
+ts_7,NRG,IL,Illinois,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8001,594,Nicor,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,Nicor,Tara,Kerr,594962 Shannon Gray St.,60558,Western Springs,'2550779703,2353137208,Tara@testnrg.com,no_email_mark,fb2dc96,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G7E-ZAX,',epnet_file_sent,7,epenet_passed,
+ts_8,NRG,IL,Illinois,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8001,594,PeopGas,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,PeopGas,William,Green,406215 Joseph Smith St.,60402,BERWYN,'5342569804064,6816749753,William@testnrg.com,no_email_mark,1d80caf,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-J96-B99,',epnet_file_sent,8,epenet_passed,
+ts_10,NRG,IL,Illinois,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,Ameren,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Ameren,Jill,Robinson,661011 David Davenport St.,62522,DECATUR,'6678460742,5022561150,Jill@testnrg.com,no_email_mark,5b9b296,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JM9-YKL,',epnet_file_sent,10,epenet_passed,
+ts_11,NRG,IL,Illinois,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8002,594,Nicor,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,Nicor,Lisa,Mendoza,526047 Troy Morgan St.,62465,Strasburg,'6902001421,3721389571,Lisa@testnrg.com,no_email_mark,801a94d,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GY4-X9R,',epnet_file_sent,11,epenet_passed,
+ts_12,NRG,IL,Illinois,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8002,594,PeopGas,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,PeopGas,Amber,Fox,116869 Sean Jacobs St.,60083,WADSWORTH,'1677794677064,6964655067,Amber@testnrg.com,no_email_mark,a3356f1,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GVB-9PD,',epnet_file_sent,12,epenet_passed,
+ts_14,NRG,IL,Illinois,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,Ameren,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,Ameren,Chelsey,Sanchez,28148 Patrick Conner St.,61281,SHERRARD,'1984990233,2169344801,Chelsey@testnrg.com,no_email_mark,d0741a5,"Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+10,000 points after 2 Months
+2 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-GXY-V7B,',epnet_file_sent,14,epenet_passed,
+ts_15,NRG,IL,Illinois,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",2 points/ $1,7998,788,Nicor,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_2500_bonus_2pcnt_earn_gas,,Nicor,Randall,Carlson,932495 William Cohen St.,62969,Olive Branch,'3262289896,5829441237,Randall@testnrg.com,no_email_mark,f33e842,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per therm
+3 month Promotional Plan
+2,500 points after 2 Months
+2 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-GEY-45W,',epnet_file_sent,15,epenet_passed,
+ts_16,NRG,IL,Illinois,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",2 points/ $1,7998,788,PeopGas,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_2500_bonus_2pcnt_earn_gas,,PeopGas,Stephanie,Rowland,759941 Mr. Terry Becker MD St.,60083,WADSWORTH,'8633765795133,7199399766,Stephanie@testnrg.com,no_email_mark,171b259,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per therm
+3 month Promotional Plan
+2,500 points after 2 Months
+2 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-JK5-7D9,',epnet_file_sent,16,epenet_passed,
+ts_18,NRG,IL,Illinois,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,Ameren,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,Ameren,John,Thomas,262952 Nathan Compton St.,61761,NORMAL,'2785644992,9618687351,John@testnrg.com,no_email_mark,a374425,"Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+12,500 points after 2 Months
+3 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-JAV-9BP,',epnet_file_sent,18,epenet_passed,
+ts_19,NRG,IL,Illinois,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",3 points/ $1,7999,781,Nicor,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_2500_bonus_3pcnt_earn_gas,,Nicor,Joanna,Santos,253228 Brian Robinson St.,60973,Wellington,'8829406449,2701015199,Joanna@testnrg.com,no_email_mark,c87a31a,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per therm
+3 month Promotional Plan
+2,500 points after 2 Months
+3 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-G7E-ZAL,',epnet_file_sent,19,epenet_passed,
+ts_20,NRG,IL,Illinois,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",3 points/ $1,7999,781,PeopGas,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_2500_bonus_3pcnt_earn_gas,,PeopGas,Craig,Jenkins,763819 Stephanie Johnson St.,60402,BERWYN,'3294762555777,6421797597,Craig@testnrg.com,no_email_mark,f65baf8,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per therm
+3 month Promotional Plan
+2,500 points after 2 Months
+3 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-J96-B9V,',epnet_file_sent,20,epenet_passed,
+ts_23,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8001,594,PGW,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,PGW,Christina,Arnold,53364 William Turner St.,19118,PHILADELPHIA,'2457470682,9448466553,Christina@testnrg.com,no_email_mark,454d091,"Cash Back Natural Gas Plan
+99.000¢ per ccf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GY4-XP6,',epnet_file_sent,23,epenet_passed,
+ts_24,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8001,594,COLPAG,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,COLPAG,Logan,Henry,970595 Nicholas Brooks St.,16373,EMLENTON,'105484597603485,6617504474,Logan@testnrg.com,no_email_mark,6691659,"Cash Back Natural Gas Plan
+46.660¢ per therm
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GVB-9EK,',epnet_file_sent,24,epenet_passed,
+ts_25,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8001,594,PNGPA,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,PNGPA,Dawn,Spears,103861 Jessica Burns St.,15235,PITTSBURGH,'279838146590,3271234945,Dawn@testnrg.com,no_email_mark,88c42d6,"Cash Back Natural Gas Plan
+$3.69 per mcf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JBK-MRK,',epnet_file_sent,25,epenet_passed,
+ts_26,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8001,594,NFGPA,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,NFGPA,Theresa,Brewer,279742 Jessica Johnson St.,16061,WEST SUNBURY,'754417433,8825042272,Theresa@testnrg.com,no_email_mark,aa39e38,"Cash Back Natural Gas Plan
+99.000¢ per ccf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GXY-VK4,',epnet_file_sent,26,epenet_passed,
+ts_27,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8001,594,PECO-GAS,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,PECO - Gas,Scott,Graham,981958 Lisa Green St.,19430,MONTGOMERY,'6135187856,8431877006,Scott@testnrg.com,no_email_mark,ca341d9,"Cash Back Natural Gas Plan
+99.000¢ per ccf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GEY-4RN,',epnet_file_sent,27,epenet_passed,
+ts_28,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8001,594,UGIG,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,"UGI Utilities, Inc",Terri,Jimenez,219606 Benjamin Perry St.,17015,Carlisle,'9183791768622,1137447651,Terri@testnrg.com,no_email_mark,ecca47e,"Cash Back Natural Gas Plan
+99.000¢ per ccf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G4L-WK6,',epnet_file_sent,28,epenet_passed,
+ts_36,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8002,594,PGW,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,PGW,Linda,White,794739 Brittany Mitchell St.,19151,PHILADELPHIA,'1866042665,1098726923,Linda@testnrg.com,no_email_mark,f76b4f5,"Cash Back Natural Gas Plan
+99.000¢ per ccf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JW9-MXV,',epnet_file_sent,36,epenet_passed,
+ts_37,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8002,594,COLPAG,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,COLPAG,Alan,Perez,141530 Shannon Strickland St.,15673,NORTH APOLLO,'871156129865507,4048616734,Alan@testnrg.com,no_email_mark,179b64f,"Cash Back Natural Gas Plan
+46.660¢ per therm
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JN5-B4W,',epnet_file_sent,37,epenet_passed,
+ts_38,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8002,594,PNGPA,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,PNGPA,Joshua,Rodriguez,818369 Lori Maldonado St.,16234,LIMESTONE,'219317816267,3574468513,Joshua@testnrg.com,no_email_mark,300912f,"Cash Back Natural Gas Plan
+$3.69 per mcf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JK5-749,',epnet_file_sent,38,epenet_passed,
+ts_39,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8002,594,NFGPA,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,NFGPA,Tonya,Torres,821646 Larry Ward St.,16502,ERIE,'399016321,8601637343,Tonya@testnrg.com,no_email_mark,508f715,"Cash Back Natural Gas Plan
+99.000¢ per ccf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JP5-R4N,',epnet_file_sent,39,epenet_passed,
+ts_40,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8002,594,PECO-GAS,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,PECO - Gas,Terry,Ruiz,936416 Nancy Ayala St.,19430,MONTGOMERY,'5536704842,7367312434,Terry@testnrg.com,no_email_mark,7294532,"Cash Back Natural Gas Plan
+99.000¢ per ccf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JAV-9RP,',epnet_file_sent,40,epenet_passed,
+ts_41,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8002,594,UGIG,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,"UGI Utilities, Inc",Donald,Williams,414456 Jamie Hobbs St.,19601,Reading,'4936518876631,8991251207,Donald@testnrg.com,no_email_mark,943769e,"Cash Back Natural Gas Plan
+99.000¢ per ccf
+3 month Introductory Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G7E-Z7L,',epnet_file_sent,41,epenet_passed,
+ts_49,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",2 points/ $1,7998,788,PGW,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_2500_bonus_2pcnt_earn_gas,,PGW,Julie,Sanchez,767250 Kathleen Rodriguez St.,19160,PHILADELPHIA,'5224204487,2714983854,Julie@testnrg.com,no_email_mark,92d7e94,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per ccf
+3 month Introductory Plan
+2,500 points after 2 Months
+2 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-GEY-4LN,',epnet_file_sent,49,epenet_passed,
+ts_50,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",2 points/ $1,7998,788,COLPAG,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_2500_bonus_2pcnt_earn_gas,,COLPAG,Rebecca,Cummings,661578 Laura Burnett St.,15331,ELLSWORTH,'168342682968133,2283666858,Rebecca@testnrg.com,no_email_mark,b47a669,"Power Trip Natural Gas Plan with Rapid Rewards points
+46.660¢ per therm
+3 month Introductory Plan
+2,500 points after 2 Months
+2 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-G4L-WN6,',epnet_file_sent,50,epenet_passed,
+ts_51,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",2 points/ $1,7998,788,PNGPA,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_2500_bonus_2pcnt_earn_gas,,PNGPA,Andrew,Jones,546461 Heather Martin St.,15145,TURTLE CREEK,'210202719741,2295826288,Andrew@testnrg.com,no_email_mark,d5a4d2a,"Power Trip Natural Gas Plan with Rapid Rewards points
+$3.69 per mcf
+3 month Introductory Plan
+2,500 points after 2 Months
+2 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-JRQ-86N,',epnet_file_sent,51,epenet_passed,
+ts_52,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",2 points/ $1,7998,788,NFGPA,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_2500_bonus_2pcnt_earn_gas,,NFGPA,Ryan,Logan,437042 Cindy Johnson St.,16342,POLK,'762912101,1634413949,Ryan@testnrg.com,no_email_mark,f70444a,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per ccf
+3 month Introductory Plan
+2,500 points after 2 Months
+2 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-G6E-7WP,',epnet_file_sent,52,epenet_passed,
+ts_53,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",2 points/ $1,7998,788,PECO-GAS,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_2500_bonus_2pcnt_earn_gas,,PECO - Gas,James,Austin,586792 Albert Mckee St.,19430,MONTGOMERY,'2447059312,3158457299,James@testnrg.com,no_email_mark,1b0630e,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per ccf
+3 month Introductory Plan
+2,500 points after 2 Months
+2 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-JL9-ZLD,',epnet_file_sent,53,epenet_passed,
+ts_54,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",2 points/ $1,7998,788,UGIG,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_2500_bonus_2pcnt_earn_gas,,"UGI Utilities, Inc",Yvette,Howard,612212 Eric Cox St.,18510,Scranton,'6369916480959,7526093209,Yvette@testnrg.com,no_email_mark,3b880f6,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per ccf
+3 month Introductory Plan
+2,500 points after 2 Months
+2 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-JQM-LDD,',epnet_file_sent,54,epenet_passed,
+ts_62,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",3 points/ $1,7999,781,PGW,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_2500_bonus_3pcnt_earn_gas,,PGW,Steve,Bell,59993 Cody Stout St.,19116,PHILADELPHIA,'9893984662,6438776531,Steve@testnrg.com,no_email_mark,3fef0b5,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per ccf
+3 month Introductory Plan
+2,500 points after 2 Months
+3 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-JAV-95P,',epnet_file_sent,62,epenet_passed,
+ts_63,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",3 points/ $1,7999,781,COLPAG,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_2500_bonus_3pcnt_earn_gas,,COLPAG,Tyler,Simpson,789007 Joseph Turner St.,17335,HANOVER,'587923142828160,4682748596,Tyler@testnrg.com,no_email_mark,676f373,"Power Trip Natural Gas Plan with Rapid Rewards points
+46.660¢ per therm
+3 month Introductory Plan
+2,500 points after 2 Months
+3 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-G7E-ZWL,',epnet_file_sent,63,epenet_passed,
+ts_64,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",3 points/ $1,7999,781,PNGPA,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_2500_bonus_3pcnt_earn_gas,,PNGPA,Tommy,Jimenez,628377 Alexis Wright St.,15009,BEAVER,'298345467011,9068652421,Tommy@testnrg.com,no_email_mark,8aa3742,"Power Trip Natural Gas Plan with Rapid Rewards points
+$3.69 per mcf
+3 month Introductory Plan
+2,500 points after 2 Months
+3 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-J96-BWV,',epnet_file_sent,64,epenet_passed,
+ts_65,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",3 points/ $1,7999,781,NFGPA,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_2500_bonus_3pcnt_earn_gas,,NFGPA,Pamela,Wong,522988 Kevin Hall St.,16726,CYCLONE,'704784970,4916197953,Pamela@testnrg.com,no_email_mark,abad8bb,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per ccf
+3 month Introductory Plan
+2,500 points after 2 Months
+3 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-JZ5-4W4,',epnet_file_sent,65,epenet_passed,
+ts_66,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",3 points/ $1,7999,781,PECO-GAS,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_2500_bonus_3pcnt_earn_gas,,PECO - Gas,Carlos,Davis,273298 Chad Howard St.,19430,MONTGOMERY,'8646247878,2003501577,Carlos@testnrg.com,no_email_mark,f850682,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per ccf
+3 month Introductory Plan
+2,500 points after 2 Months
+3 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-JM9-YP5,',epnet_file_sent,66,epenet_passed,
+ts_67,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",3 points/ $1,7999,781,UGIG,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_2500_bonus_3pcnt_earn_gas,,"UGI Utilities, Inc",Olivia,Cruz,638732 Stephanie Stewart St.,17572,RONKS,'6190048762378,9403047640,Olivia@testnrg.com,no_email_mark,19a59ae,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per ccf
+3 month Introductory Plan
+2,500 points after 2 Months
+3 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-GY4-XR6,',epnet_file_sent,67,epenet_passed,
+ts_86,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,RECO,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,Rockland Electric Co.,Brooke,Foster,145192 Amy Cannon St.,7465,WANAQUE,'9562807718,1505878467,Brooke@testnrg.com,no_email_mark,9f0fb76,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JZ5-4R4,',epnet_file_sent,86,epenet_passed,
+ts_86,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,RECO,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,Rockland Electric Co.,Jennifer,Sherman,987954 Maria Green St.,7641,HAWORTH,'1699900411,8944283520,Jennifer@testnrg.com,no_email_mark,429c235,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JM9-YN5,',epnet_file_sent,87,epenet_passed,
+ts_87,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8000,594,PSEG Gas,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_winback_25_bonus_gas,,NJNG,Michael,Acevedo,430374 Autumn Bates St.,7706,ESSEX,'PG807575043167407842,2385682765,Michael@testnrg.com,no_email_mark,0b94446,"Win Back Natural Gas Variable Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GY4-XD6,',epnet_file_sent,88,epenet_passed,
+ts_88,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8000,594,PSEG GAS,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_winback_25_bonus_gas,,PSEG GAS,Joshua,Hernandez,179013 Tamara Ramirez St.,7706,ESSEX,'PG580695353394672146,2918186253,Joshua@testnrg.com,no_email_mark,2a4175e,"Win Back Natural Gas Variable Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GVB-9DK,',epnet_file_sent,89,epenet_passed,
+ts_89,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8000,594,SJERSEY,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_winback_25_bonus_gas,,SJERSEY,Oscar,Young,987088 Andrew Freeman St.,8213,COLOGNE,'6092760136,9127677627,Oscar@testnrg.com,no_email_mark,4e3a2e1,"Win Back Natural Gas Variable Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JBK-MVK,',epnet_file_sent,90,epenet_passed,
+ts_93,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,RECO,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Rockland Electric Co.,Sherry,Powell,749300 Krystal Jones St.,7675,WESTWOOD,'1906319296,1238711279,Sherry@testnrg.com,no_email_mark,e782bf6,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JRQ-8DN,',epnet_file_sent,94,epenet_passed,
+ts_94,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8001,594,PSEG Gas,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,NJNG,Mary,Cox,863938 Nicole Cisneros St.,7001,MIDDLESEX ,'PG893632633247638758,6409414007,Mary@testnrg.com,no_email_mark,16b2cdb,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G6E-7DP,',epnet_file_sent,95,epenet_passed,
+ts_95,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8001,594,PSEG GAS,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,PSEG GAS,Johnny,Hill,920408 Ashley Harvey St.,7706,ESSEX,'PG593382330835435933,7778167170,Johnny@testnrg.com,no_email_mark,4064796,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JL9-ZMD,',epnet_file_sent,96,epenet_passed,
+ts_96,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8001,594,SJERSEY,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,SJERSEY,Tonya,Cooper,239870 Charles Petersen St.,8220,LEEDS POINT,'3377974093,4393889968,Tonya@testnrg.com,no_email_mark,75e6c9d,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JQM-LED,',epnet_file_sent,97,epenet_passed,
+ts_100,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,RECO,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Rockland Electric Co.,William,Hodge,347399 Mary Green St.,7480,WEST MILFORD,'5748359990,8737872187,William@testnrg.com,no_email_mark,498ad53,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JW9-MWV,',epnet_file_sent,101,epenet_passed,
+ts_101,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8002,594,PSEG Gas,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,NJNG,Steve,Holmes,515061 Wendy Simpson St.,7706,ESSEX,'PG843766238051646974,6355087957,Steve@testnrg.com,no_email_mark,775b81c,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JN5-BVW,',epnet_file_sent,102,epenet_passed,
+ts_102,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8002,594,PSEG GAS,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,PSEG GAS,Kirsten,Gallagher,154507 Kaitlin Miller St.,8840,MIDDLESEX,'PG686065545923750441,9649342654,Kirsten@testnrg.com,no_email_mark,a59e9f7,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JK5-7Z9,',epnet_file_sent,103,epenet_passed,
+ts_103,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8002,594,SJERSEY,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,SJERSEY,William,Robinson,479546 Linda Shaw St.,8027,GIBBSTOWN,'8623453663,5563613113,William@testnrg.com,no_email_mark,c6695c0,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JP5-RXN,',epnet_file_sent,104,epenet_passed,
+ts_107,NRG,NJ,New Jersey,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,RECO,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,Rockland Electric Co.,Walter,Hart,360263 Bryan Young St.,7465,WANAQUE,'2569814512,7351148340,Walter@testnrg.com,no_email_mark,523e638,"Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 points after 2 Months
+2* every 1 Month",,,,,,text_passed,07.15.2020,E1-JZ5-4D4,',epnet_file_sent,108,epenet_passed,
+ts_108,NRG,NJ,New Jersey,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",2 points/ $1,7998,788,PSEG Gas,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_2500_bonus_2pcnt_earn_gas,,NJNG,Vanessa,Mckinney,755060 Elizabeth Kelley St.,7001,MIDDLESEX ,'PG394092644046099974,7025311975,Vanessa@testnrg.com,no_email_mark,764f608,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per therm
+3 month Promotional Plan
+2,500 points after 2 Months
+2 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-JM9-Y75,',epnet_file_sent,109,epenet_passed,
+ts_109,NRG,NJ,New Jersey,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",2 points/ $1,7998,788,PSEG GAS,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_2500_bonus_2pcnt_earn_gas,,PSEG GAS,Robert,Watts,718705 Samuel Jackson St.,7540,BERGEN,'PG149905063201276623,8281997571,Robert@testnrg.com,no_email_mark,8e65f77,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per therm
+3 month Promotional Plan
+2,500 points after 2 Months
+2 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-GY4-XQ6,',epnet_file_sent,110,epenet_passed,
+ts_110,NRG,NJ,New Jersey,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",2 points/ $1,7998,788,SJERSEY,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_2500_bonus_2pcnt_earn_gas,,SJERSEY,Rodney,Stone,936534 Diana Brandt St.,8879,SOUTH AMBOY,'3742168370,5595091016,Rodney@testnrg.com,no_email_mark,aadaa4a,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per therm
+3 month Promotional Plan
+2,500 points after 2 Months
+2 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-GVB-94K,',epnet_file_sent,111,epenet_passed,
+ts_114,NRG,NJ,New Jersey,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,RECO,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,Rockland Electric Co.,Lisa,Brown,209475 Tina Ray St.,8360,VINELAND,'8741246348,3767115451,Lisa@testnrg.com,no_email_mark,d1ca096,"Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 points after 2 Months
+3* every 1 Month",,,,,,text_passed,07.15.2020,E1-JK5-7PK,',epnet_file_sent,115,epenet_passed,
+ts_115,NRG,NJ,New Jersey,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",3 points/ $1,7999,781,PSEG Gas,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_2500_bonus_3pcnt_earn_gas,,NJNG,Brenda,Ryan,186688 Scott Cox St.,7095,MIDDLESEX,'PG290547052768426122,1959005260,Brenda@testnrg.com,no_email_mark,fb20d4c,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per therm
+3 month Promotional Plan
+2,500 points after 2 Months
+3 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-JP5-RMV,',epnet_file_sent,116,epenet_passed,
+ts_116,NRG,NJ,New Jersey,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",3 points/ $1,7999,781,PSEG GAS,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_2500_bonus_3pcnt_earn_gas,,PSEG GAS,Rebecca,Williams,943099 Christopher Fischer St.,7706,ESSEX,'PG791892022796438535,8826314872,Rebecca@testnrg.com,no_email_mark,25ccf78,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per therm
+3 month Promotional Plan
+2,500 points after 2 Months
+3 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-JAV-9NB,',epnet_file_sent,117,epenet_passed,
+ts_117,NRG,NJ,New Jersey,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",3 points/ $1,7999,781,SJERSEY,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_2500_bonus_3pcnt_earn_gas,,SJERSEY,Jennifer,Brock,154557 Kevin Casey St.,8072,QUINTON,'7379850983,5527264831,Jennifer@testnrg.com,no_email_mark,4a6478f,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per therm
+3 month Promotional Plan
+2,500 points after 2 Months
+3 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-G7E-ZY7,',epnet_file_sent,118,epenet_passed,
+ts_123,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8000,594,WGL,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_winback_25_bonus_gas,,WGL,Mark,Jackson,612155 Ashley Morgan St.,20774,UPPER MARLBORO,'3384575091427,7834322542,Mark@testnrg.com,no_email_mark,d9b99b1,"Win Back Natural Gas Variable Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JBK-MZ4,',epnet_file_sent,124,epenet_passed,
+ts_122,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8000,594,BGE,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_winback_25_bonus_gas,,BGG,Lisa,Clayton,970902 Rachael Evans St.,20720,BOWIE,'2100900917,8358737863,Lisa@testnrg.com,no_email_mark,af3c6f0,"Win Back Natural Gas Variable Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JRQ-8V9,',error,128,not found,
+ts_123,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8000,594,WGL,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_winback_25_bonus_gas,,WGL,Oscar,Carrillo,771414 Wendy Cruz St.,21146,SEVERNA PARK,'8434254463952,3802214446,Oscar@testnrg.com,no_email_mark,d33e3e6,"Win Back Natural Gas Variable Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G6E-7MZ,',epnet_file_sent,129,epenet_passed,
+ts_128,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8001,594,BGE,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,BGG,Michael,Ochoa,465656 Jose Adams St.,21406,COLUMBIA,'1647726969,2694311288,Michael@testnrg.com,no_email_mark,7ae272f,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G54-PA4,',error,134,not found,
+ts_129,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8001,594,WGL,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,WGL,Kathy,Ward,551365 Karen Roberts St.,20689,SUNDERLAND,'2314149086544,4527737897,Kathy@testnrg.com,no_email_mark,9be8733,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JW9-MVN,',epnet_file_sent,135,epenet_passed,
+ts_134,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8002,594,BGE,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,BGG,John,Mcintosh,241343 Terry Frye St.,20613,BRANDYWINE,'5315403175,8417626212,John@testnrg.com,no_email_mark,4614654,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G7E-Z97,',error,140,not found,
+ts_135,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8002,594,WGL,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,WGL,Hannah,Gray,2998 Antonio Bradley St.,21405,ANNAPOLIS,'7647213093001,4199726467,Hannah@testnrg.com,no_email_mark,6293923,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-J96-BMW,',epnet_file_sent,141,epenet_passed,
+ts_141,NRG,MD,Maryland,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",2 points/ $1,7998,788,WGL,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_2500_bonus_2pcnt_earn_gas,,WGL,Jeffrey,Hicks,436979 Sara Carlson St.,20862,BRINKLOW,'1226993359479,7462505862,Jeffrey@testnrg.com,no_email_mark,2a908c8,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per therm
+3 month Promotional Plan
+2,500 points after 2 Months
+2 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-GXY-VBP,',epnet_file_sent,147,epenet_passed,
+ts_147,NRG,MD,Maryland,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",3 points/ $1,7999,781,WGL,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_2500_bonus_3pcnt_earn_gas,,WGL,Amber,Donovan,187818 James Walker St.,20772,UPPER MARLBORO,'6339990603604,1167686705,Amber@testnrg.com,no_email_mark,f25d82f,"Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per therm
+3 month Promotional Plan
+2,500 points after 2 Months
+3 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-JQM-LWR,',epnet_file_sent,153,epenet_passed,
+ts_151,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,CEI,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,Cleveland Illuminating,Taylor,Holt,545429 Tracy Gonzalez St.,44072,NOVELTY,'90886653546878384358,6563496580,Taylor@testnrg.com,no_email_mark,769d039,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JW9-M8N,',epnet_file_sent,157,epenet_passed,
+ts_154,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8000,594,DEOHG,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_winback_25_bonus_gas,,Dominion (DEOHG),Michelle,Howard,780741 Robert Li St.,44454,PETERSBURG,'7857983033394,5564522208,Michelle@testnrg.com,no_email_mark,c952615,"Win Back Natural Gas Variable Plan
+$3.69 per Mcf
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JK5-7WK,',epnet_file_sent,159,epenet_passed,
+ts_155,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8000,594,COLOHG,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_winback_25_bonus_gas,,Columbia (COLOHG),Sandra,Williams,930179 Matthew Flores St.,43046,MILLERSPORT,'954239078915066,2061683881,Sandra@testnrg.com,no_email_mark,eb7ce32,"Win Back Natural Gas Variable Plan
+89.000¢ per ccf
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JP5-RWV,',epnet_file_sent,160,epenet_passed,
+ts_156,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8000,594,DUKEOHG,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_winback_25_bonus_gas,,Duke (DUKEOHG),Robert,Larsen,652821 Taylor Frazier St.,45174,TERRACE PARK,'18334663922,3085138101,Robert@testnrg.com,no_email_mark,111f237,"Win Back Natural Gas Variable Plan
+41.900¢ per ccf
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JAV-9EB,',epnet_file_sent,161,epenet_passed,
+ts_160,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,CEI,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Cleveland Illuminating,Christopher,Clark,368252 Adam Rubio St.,44123,EUCLID,'93202028290851454365,8239425018,Christopher@testnrg.com,no_email_mark,9a731f6,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JM9-YWN,',epnet_file_sent,165,epenet_passed,
+ts_163,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8001,594,DEOHG,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,Dominion (DEOHG),Kelly,Hamilton,729904 Dana Mora St.,44039,NORTH RIDGEVILLE,'7339050823183,2301164224,Kelly@testnrg.com,no_email_mark,eab061d,"Cash Back Natural Gas Plan
+$3.69 per Mcf
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GVB-9WY,',epnet_file_sent,167,epenet_passed,
+ts_164,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8001,594,COLOHG,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,Columbia (COLOHG),Ashley,Brown,985984 Tracy Brown St.,44608,BEACH CITY,'558719978075369,1624295972,Ashley@testnrg.com,no_email_mark,085c58a,"Cash Back Natural Gas Plan
+89.000¢ per ccf
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JBK-M44,',epnet_file_sent,168,epenet_passed,
+ts_165,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8001,594,DUKEOHG,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,Duke (DUKEOHG),Caitlin,Barron,755985 Ashley Green St.,45065,SOUTH LEBANON,'66899596760,2759391204,Caitlin@testnrg.com,no_email_mark,29e8205,"Cash Back Natural Gas Plan
+41.900¢ per ccf
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GXY-V8P,',epnet_file_sent,169,epenet_passed,
+ts_169,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,CEI,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Cleveland Illuminating,Vincent,Cook,792101 Christina Davidson St.,44113,CLEVELAND,'46423124339352903307,6752844807,Vincent@testnrg.com,no_email_mark,b087573,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G6E-7KZ,',epnet_file_sent,173,epenet_passed,
+ts_172,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8002,594,DEOHG,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,Dominion (DEOHG),Jean,Franklin,432636 Kenneth Henderson St.,43804,BALTIC,'1964191773183,9646485244,Jean@testnrg.com,no_email_mark,9.02E+08,"Cash Back Natural Gas Plan
+$3.69 per Mcf
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JQM-LXR,',epnet_file_sent,175,epenet_passed,
+ts_173,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8002,594,COLOHG,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,Columbia (COLOHG),Tyler,Wright,996845 Laura Gonzales St.,43046,MILLERSPORT,'962554539313295,2586974159,Tyler@testnrg.com,no_email_mark,21d29ea,"Cash Back Natural Gas Plan
+89.000¢ per ccf
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-J8E-YPR,',epnet_file_sent,176,epenet_passed,
+ts_174,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8002,594,DUKEOHG,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,Duke (DUKEOHG),Jacob,Stone,244458 Amy Lowe DVM St.,45459,DAYTON,'32182594124,2217746874,Jacob@testnrg.com,no_email_mark,4175878,"Cash Back Natural Gas Plan
+41.900¢ per ccf
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GDA-XRK,',epnet_file_sent,177,epenet_passed,
+ts_178,NRG,OH,Ohio,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,CEI,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,Cleveland Illuminating,Rose,Fuentes,811519 John Hopkins St.,44097,Eastlake,'52360426445492341573,3259306962,Rose@testnrg.com,no_email_mark,ca33596,"Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 points after 2 Months
+2* every 1 Month",,,,,,text_passed,07.15.2020,E1-JK5-79K,',epnet_file_sent,181,epenet_passed,
+ts_181,NRG,OH,Ohio,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",2 points/ $1,7998,788,DEOHG,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_2500_bonus_2pcnt_earn_gas,,Dominion (DEOHG),Dana,Sanchez,368565 Catherine Mays St.,44201,ATWATER,'5887918006747,1989478934,Dana@testnrg.com,no_email_mark,247ce5d,"Power Trip Natural Gas Plan with Rapid Rewards points
+$3.69 per Mcf
+3 month Promotional Plan
+2,500 points after 2 Months
+2 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-JAV-9XB,',epnet_file_sent,183,epenet_passed,
+ts_182,NRG,OH,Ohio,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",2 points/ $1,7998,788,COLOHG,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_2500_bonus_2pcnt_earn_gas,,Columbia (COLOHG),Christina,Bell,115870 Margaret Powers St.,45506,SPRINGFIELD,'372575611966642,8591619656,Christina@testnrg.com,no_email_mark,4000932,"Power Trip Natural Gas Plan with Rapid Rewards points
+89.000¢ per ccf
+3 month Promotional Plan
+2,500 points after 2 Months
+2 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-G7E-ZK7,',epnet_file_sent,184,epenet_passed,
+ts_183,NRG,OH,Ohio,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",2 points/ $1,7998,788,DUKEOHG,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_2500_bonus_2pcnt_earn_gas,,Duke (DUKEOHG),Sydney,Rodgers,95842 Alicia Ramirez St.,45217,SAINT BERNARD,'80895504078,3133299424,Sydney@testnrg.com,no_email_mark,5bab22f,"Power Trip Natural Gas Plan with Rapid Rewards points
+41.900¢ per ccf
+3 month Promotional Plan
+2,500 points after 2 Months
+2 Miles per $1 every 1 Month",,,,,,text_passed,07.15.2020,E1-J96-BAW,',epnet_file_sent,185,epenet_passed,
+ts_187,NRG,OH,Ohio,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,CEI,3 Month Variable,No ECF,SWA Premier Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,Cleveland Illuminating,Christopher,Anderson,32339 James Berry St.,44086,Thompson,'96333332193412820428,9817946966,Christopher@testnrg.com,no_email_mark,e1731f7,"SWA Premier Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 points after 2 Months
+3* every 1 Month",,,,,,text_passed,07.15.2020,E1-GVB-9LY,',epnet_file_sent,189,epenet_passed,
+ts_190,NRG,OH,Ohio,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",3 points/ $1,7999,781,DEOHG,3 Month Variable,No ECF,SWA Premier Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_2500_bonus_3pcnt_earn_gas,,Dominion (DEOHG),Peter,Williams,607097 Elizabeth Mueller St.,44039,NORTH RIDGEVILLE,'6826691160874,7818329152,Peter@testnrg.com,no_email_mark,3bc7531,"SWA Premier Power Trip Natural Gas Plan w/ Rapid Rewards points
+$3.69 per Mcf
+3 month Promotional Plan
+2,500 points after 2 Months
+3 Miles per $1 every 1 Month",,,,,,text_failed,07.15.2020,E1-GXY-VPP,',epnet_file_sent,191,epenet_passed,
+ts_191,NRG,OH,Ohio,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",3 points/ $1,7999,781,COLOHG,3 Month Variable,No ECF,SWA Premier Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_2500_bonus_3pcnt_earn_gas,,Columbia (COLOHG),Travis,Pearson,6539 Jordan Contreras St.,44634,HOMEWORTH,'473012982875763,1542415538,Travis@testnrg.com,no_email_mark,5b7cc6c,"SWA Premier Power Trip Natural Gas Plan w/ Rapid Rewards points
+89.000¢ per ccf
+3 month Promotional Plan
+2,500 points after 2 Months
+3 Miles per $1 every 1 Month",,,,,,text_failed,07.15.2020,E1-GEY-46A,',epnet_file_sent,192,epenet_passed,
+ts_192,NRG,OH,Ohio,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",3 points/ $1,7999,781,DUKEOHG,3 Month Variable,No ECF,SWA Premier Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_2500_bonus_3pcnt_earn_gas,,Duke (DUKEOHG),Peter,Holloway,91838 Heather Ruiz St.,45015,FAIRFIELD TWP,'66237998004,3092174898,Peter@testnrg.com,no_email_mark,72954d3,"SWA Premier Power Trip Natural Gas Plan w/ Rapid Rewards points
+41.900¢ per ccf
+3 month Promotional Plan
+2,500 points after 2 Months
+3 Miles per $1 every 1 Month",,,,,,text_failed,07.15.2020,E1-G4L-WRM,',epnet_file_sent,193,epenet_passed,
+ts_152,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,OE,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,AEP - Ohio Edison,Rachel,Sanchez,316895 Christopher Campbell St.,44847,Monroeville,'08405583186012953751,8126707960,Rachel@testnrg.com,no_email_mark,f087a18,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JRQ-8E9,',epnet_file_sent,194,epenet_passed,
+ts_161,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,OE,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,AEP - Ohio Edison,Nicole,Jones,203461 Vincent Bond St.,44320,AKRON,'08910220578179338146,3072566344,Nicole@testnrg.com,no_email_mark,1226f39,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G6E-7LZ,',epnet_file_sent,195,epenet_passed,
+ts_170,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,OE,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,AEP - Ohio Edison,Justin,Escobar,203262 Jonathan Powers St.,44839,HURON,'08597990759382439911,4096796606,Justin@testnrg.com,no_email_mark,3333fdd,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JL9-ZNZ,',epnet_file_sent,196,epenet_passed,
+ts_179,NRG,OH,Ohio,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,OE,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,AEP - Ohio Edison,Anthony,Garcia,998135 William Schmidt St.,44826,Collins,'08706212542819345454,2565104582,Anthony@testnrg.com,no_email_mark,53dc8dc,"Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 points after 2 Months
+2* every 1 Month",,,,,,text_passed,07.15.2020,E1-JQM-L6R,',epnet_file_sent,197,epenet_passed,
+ts_188,NRG,OH,Ohio,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,OE,3 Month Variable,No ECF,SWA Premier Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,AEP - Ohio Edison,Susan,Hamilton,433899 Tammy Ochoa St.,44883,TIFFIN,'08234384661583105059,6586502178,Susan@testnrg.com,no_email_mark,75b298d,"SWA Premier Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 points after 2 Months
+3* every 1 Month",,,,,,text_passed,07.15.2020,E1-J8E-YMR,',epnet_file_sent,198,epenet_passed,
+ts_1,NRG,IL,Illinois,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,ComEd,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,ComEd,Jillian,Reed,127291 Jaime Woodard St.,60471,RICHTON PARK,'9396737240,9993377511,Jillian@testnrg.com,no_email_mark,d6a1f64,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G54-PKV,5E+15,completed,1,,IDOC Processed Sucessfully.
+ts_5,NRG,IL,Illinois,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,ComEd,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,ComEd,Stephen,Oconnell,893560 Paul Buckley St.,60944,HOPKINS PARK,'8674515808,3425297143,Stephen@testnrg.com,no_email_mark,b5a7db6,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JP5-R7K,'5000003779227717,completed,5,,IDOC Processed Sucessfully.
+ts_9,NRG,IL,Illinois,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,ComEd,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,ComEd,Bradley,Aguilar,275080 Christopher Ramirez St.,60510,BATAVIA,'8574810561,1485314015,Bradley@testnrg.com,no_email_mark,3d31987,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JZ5-4ZA,'5000003779227718,completed,9,,IDOC Processed Sucessfully.
+ts_13,NRG,IL,Illinois,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,ComEd,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,ComEd,Melissa,Lindsey,639938 Scott Noble St.,60468,PEOTONE,'5052297994,7907719321,Melissa@testnrg.com,no_email_mark,c69ec5c,"Power Trip Electric Plan with Rapid Rewards points
+5.300¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-JBK-MBZ,'5000003779227719,completed,13,,IDOC Processed Sucessfully.
+ts_17,NRG,IL,Illinois,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,ComEd,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,ComEd,Brittany,Cantu,837940 Francisco Jackson St.,60108,BLOOMINGDALE,'9123992355,2712609543,Brittany@testnrg.com,no_email_mark,880619b,"Power Trip Electric Plan with Rapid Rewards points
+5.300¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.15.2020,E1-JP5-R7N,'5000003779227720,completed,17,,IDOC Processed Sucessfully.
+ts_21,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,PPL,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,PPL Electric Utilities,Antonio,Norris,613288 Frank Bray St.,19365,PARKESBURG,'5974310329,7833204141,Antonio@testnrg.com,no_email_mark,3b626ca,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JZ5-4Z4,'5000003779227721,completed,21,,IDOC Processed Sucessfully.
+ts_22,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,WPP,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,West Penn Power,Charles,Hamilton,325045 Amy Morris St.,15674,NORVELT,'08679812188769901747,9545347528,Charles@testnrg.com,no_email_mark,624b197,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JM9-Y65,'5000003779227722,completed,22,,IDOC Processed Sucessfully.
+ts_29,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,DUQ,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Duquesne Light,Aaron,Steele,988492 Kevin Cook St.,15203,PITTSBURGH,'3327435216213,8637954695,Aaron@testnrg.com,no_email_mark,832098,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JRQ-8XN,'5000003779227723,completed,29,,IDOC Processed Sucessfully.
+ts_30,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,METED,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Met-Ed,Fernando,Hill,840519 Morgan Rodriguez St.,17361,SHREWSBURY,'08625579698258922565,2148933588,Fernando@testnrg.com,no_email_mark,2b07d15,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G6E-7AP,'5000003779227724,completed,30,,IDOC Processed Sucessfully.
+ts_31,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,Peco,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Peco,Cheryl,Burton,504689 Robert Fleming St.,19014,ASTON,'3327438218,4214701633,Cheryl@testnrg.com,no_email_mark,4cb19f6,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JL9-ZDD,'5000003779227725,completed,31,,IDOC Processed Sucessfully.
+ts_32,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,Penelec,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Penelec,Ronnie,Solis,492089 Nicole Roberson St.,16443,WEST SPRINGFIELD,'08782595482524453935,4789209119,Ronnie@testnrg.com,no_email_mark,6f607a9,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JQM-LQD,'5000003779227726,completed,32,,IDOC Processed Sucessfully.
+ts_33,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,PENN,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Penn Power,George,Gray,93158 Hunter Trevino St.,16314,COCHRANTON,'08558778331279082076,8273965891,George@testnrg.com,no_email_mark,90a1053,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-J8E-Y9L,'5000003779227727,completed,33,,IDOC Processed Sucessfully.
+ts_34,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,PPL,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,PPL Electric Utilities,Thomas,Moran,595398 Joseph Thomas St.,17550,MAYTOWN,'7173898444,1626658428,Thomas@testnrg.com,no_email_mark,b1e6818,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GDA-XQN,'5000003779227728,completed,34,,IDOC Processed Sucessfully.
+ts_35,NRG,PA,Pennsylvania,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,WPP,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,West Penn Power,Christine,Bailey,164908 Hailey Davis St.,15361,SOUTHVIEW,'08698241777832186088,8104657315,Christine@testnrg.com,no_email_mark,d402660,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G54-PNZ,'5000003779227729,completed,35,,IDOC Processed Sucessfully.
+ts_42,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,DUQ,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,Duquesne Light,Angela,Gonzalez,204291 Samuel Douglas St.,15668,MURRYSVILLE,'6593727495334,2111704730,Angela@testnrg.com,no_email_mark,b542334,"Power Trip Electric Plan with Rapid Rewards points
+4.890¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-J96-BZV,'5000003779227730,completed,42,,IDOC Processed Sucessfully.
+ts_43,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,METED,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,Met-Ed,Troy,Barker,48164 Megan Ramsey St.,17502,BAINBRIDGE,'08155594038985604679,9416129453,Troy@testnrg.com,no_email_mark,d7136b2,"Power Trip Electric Plan with Rapid Rewards points
+15.000¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-JZ5-4A4,'5000003779227731,completed,43,,IDOC Processed Sucessfully.
+ts_44,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,Peco,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,Peco,Eric,Osborne,3952 Elizabeth Turner MD St.,19122,PHILADELPHIA,'9216224980,6092347527,Eric@testnrg.com,no_email_mark,f9638fc,"Power Trip Electric Plan with Rapid Rewards points
+4.600¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-JM9-YL5,'5000003779227732,completed,44,,IDOC Processed Sucessfully.
+ts_45,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,Penelec,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,Penelec,Scott,Smith,660623 Meredith Mayer St.,18453,PLEASANT MOUNT,'08225344399650402077,6306104888,Scott@testnrg.com,no_email_mark,1aee44b,"Power Trip Electric Plan with Rapid Rewards points
+15.000¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-GY4-XW6,'5000003779227733,completed,45,,IDOC Processed Sucessfully.
+ts_46,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,PENN,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,Penn Power,Ricky,Rodriguez,226490 Eric Jackson St.,15086,WARRENDALE,'08289578545278115381,9406694104,Ricky@testnrg.com,no_email_mark,3aabf34,"Power Trip Electric Plan with Rapid Rewards points
+15.000¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-GVB-96K,'5000003779227734,completed,46,,IDOC Processed Sucessfully.
+ts_47,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,PPL,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,PPL Electric Utilities,Bonnie,Bell,894017 Scott Cox St.,17844,MIFFLINBURG,'3035379384,4823534523,Bonnie@testnrg.com,no_email_mark,53d7dbe,"Power Trip Electric Plan with Rapid Rewards points
+5.300¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-JBK-M5K,'5000003779227735,completed,47,,IDOC Processed Sucessfully.
+ts_48,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,WPP,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,West Penn Power,Adriana,Pugh,848244 Brooke Sanchez St.,17272,ZULLINGER,'08500544667691117549,2283443041,Adriana@testnrg.com,no_email_mark,71347b6,"Power Trip Electric Plan with Rapid Rewards points
+3.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-GXY-V64,'5000003779227736,completed,48,,IDOC Processed Sucessfully.
+ts_55,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,DUQ,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,Duquesne Light,Anthony,Brown,660124 Christopher Kirk St.,15101,ALLISON PARK,'7128044601607,6251025131,Anthony@testnrg.com,no_email_mark,5dc527a,"Power Trip Electric Plan with Rapid Rewards points
+4.890¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.15.2020,E1-J8E-YWL,'5000003779227737,completed,55,,IDOC Processed Sucessfully.
+ts_56,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,METED,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,Met-Ed,Justin,White,601310 April Rich St.,19602,READING,'08197390298990240331,4791582862,Justin@testnrg.com,no_email_mark,77b8a75,"Power Trip Electric Plan with Rapid Rewards points
+15.000¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.15.2020,E1-GDA-XWN,'5000003779227738,completed,56,,IDOC Processed Sucessfully.
+ts_57,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,Peco,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,Peco,Troy,Lopez,643803 Sandra Kelly St.,19354,LYNDELL,'1346676343,5607062886,Troy@testnrg.com,no_email_mark,9701602,"Power Trip Electric Plan with Rapid Rewards points
+4.600¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.15.2020,E1-G54-PWZ,'5000003779227739,completed,57,,IDOC Processed Sucessfully.
+ts_58,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,Penelec,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,Penelec,Veronica,Farley,686361 Zachary Gonzalez St.,15956,SOUTH FORK,'08670434979172607185,8672848707,Veronica@testnrg.com,no_email_mark,b8153c0,"Power Trip Electric Plan with Rapid Rewards points
+15.000¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.15.2020,E1-JW9-M6V,'5000003779227740,completed,58,,IDOC Processed Sucessfully.
+ts_59,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,PENN,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,Penn Power,Elizabeth,Ray,538917 Russell Mueller St.,16153,STONEBORO,'08381570234562003137,4397879925,Elizabeth@testnrg.com,no_email_mark,da3507b,"Power Trip Electric Plan with Rapid Rewards points
+15.000¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.15.2020,E1-JN5-BLW,'5000003779227741,completed,59,,IDOC Processed Sucessfully.
+ts_60,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,PPL,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,PPL Electric Utilities,Brent,Smith,833873 Traci Coffey St.,17011,CAMP HILL,'7712359259,4019219605,Brent@testnrg.com,no_email_mark,fb21e4c,"Power Trip Electric Plan with Rapid Rewards points
+5.300¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.15.2020,E1-JK5-7L9,'5000003779227742,completed,60,,IDOC Processed Sucessfully.
+ts_61,NRG,PA,Pennsylvania,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,WPP,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,West Penn Power,Samuel,Morris,807058 Jeffrey Nunez St.,15656,LEECHBURG,'08128925893947431242,1799234439,Samuel@testnrg.com,no_email_mark,1dd6d32,"Power Trip Electric Plan with Rapid Rewards points
+3.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Introductory Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.15.2020,E1-JP5-R6N,'5000003779227743,completed,61,,IDOC Processed Sucessfully.
+ts_68,NRG,MA,Massachusetts,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,MECO,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,National Grid,Justin,Mcbride,922715 Heather Hawkins St.,1068,OAKHAM,'8533025218,7806596404,Justin@testnrg.com,no_email_mark,3a859c8,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GVB-9XK,'5000003779227744,completed,68,,IDOC Processed Sucessfully.
+ts_69,NRG,MA,Massachusetts,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,camb,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,Eversource (Eastern Massachusetts),Cynthia,Romero,235309 Bradley Bonilla St.,2238,Cambridge,'83713782836,7717121243,Cynthia@testnrg.com,no_email_mark,11e5bd1,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JBK-M6K,'5000003779227745,completed,69,,IDOC Processed Sucessfully.
+ts_70,NRG,MA,Massachusetts,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,WMECo,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,WMECo,Jeremy,Richmond,283019 Maureen York St.,1108,SPRINGFIELD,'153720841,1239228301,Jeremy@testnrg.com,no_email_mark,2d966bb,"Win Back Electric Variable Plan
+9.900¢ per
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GXY-VR4,'5000003779227746,completed,70,,IDOC Processed Sucessfully.
+ts_71,NRG,MA,Massachusetts,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,MECO,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,National Grid,Kimberly,Allen,202933 Stephen Mora St.,1827,DUNSTABLE,'6980095712,5324522950,Kimberly@testnrg.com,no_email_mark,4becbec,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GEY-4QN,'5000003779227747,completed,71,,IDOC Processed Sucessfully.
+ts_72,NRG,MA,Massachusetts,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,camb,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Eversource (Eastern Massachusetts),Donna,Collins,281713 Thomas Wells St.,2139,Cambridge,'83305130960,7142948702,Donna@testnrg.com,no_email_mark,6d0aa12,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G4L-WB6,'5000003779227748,completed,72,,IDOC Processed Sucessfully.
+ts_73,NRG,MA,Massachusetts,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,WMECo,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,WMECo,Yvonne,Martinez,34686 John Kim St.,1108,SPRINGFIELD,'172221427,1281962824,Yvonne@testnrg.com,no_email_mark,f269562,"Cash Back Electric Plan
+9.900¢ per
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JRQ-8MN,'5000003779227749,completed,73,,IDOC Processed Sucessfully.
+ts_74,NRG,MA,Massachusetts,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,MECO,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,National Grid,Jamie,Holmes,529273 Norma Page St.,1508,CHARLTON CITY,'4095158262,7397034875,Jamie@testnrg.com,no_email_mark,1f2667d,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G6E-7QP,'5000003779227750,completed,74,,IDOC Processed Sucessfully.
+ts_75,NRG,MA,Massachusetts,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,camb,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Eversource (Eastern Massachusetts),Madison,Morrison,948134 Laura Garcia St.,2138,Cambridge,'56099709916,9732625830,Madison@testnrg.com,no_email_mark,42a2ecd,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JL9-ZKD,'5000003779227751,completed,75,,IDOC Processed Sucessfully.
+ts_76,NRG,MA,Massachusetts,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,WMECo,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,WMECo,Duane,Cunningham,112510 Cassandra Steele St.,1096,WILLIAMSBBURG,'142607043,2204792172,Duane@testnrg.com,no_email_mark,608096a,"Cash Back Electric Plan
+9.900¢ per
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JQM-LZD,'5000003779227752,completed,76,,IDOC Processed Sucessfully.
+ts_77,NRG,MA,Massachusetts,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,MECO,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,National Grid,Maria,Dudley,620105 Darrell Houston St.,1529,MILLVILLE,'6443227061,8804266643,Maria@testnrg.com,no_email_mark,83b6604,"Power Trip Electric Plan with Rapid Rewards points
+7.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-J8E-YLL,'5000003779227753,completed,77,,IDOC Processed Sucessfully.
+ts_78,NRG,MA,Massachusetts,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,camb,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,Eversource (Eastern Massachusetts),Jennifer,Robertson,315000 Jennifer Mccullough St.,2139,Cambridge,'41631399245,8031395783,Jennifer@testnrg.com,no_email_mark,a90dc40,"Power Trip Electric Plan with Rapid Rewards points
+10.000¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-GDA-XLN,'5000003779227754,completed,78,,IDOC Processed Sucessfully.
+ts_79,NRG,MA,Massachusetts,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,WMECo,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,WMECo,Brett,Mahoney,291468 Jamie Herrera St.,1226,DALTON,'373151949,1416584709,Brett@testnrg.com,no_email_mark,cc2a13c,"Power Trip Electric Plan with Rapid Rewards points
+9.300¢ per
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-G54-PXZ,'5000003779227755,completed,79,,IDOC Processed Sucessfully.
+ts_80,NRG,MA,Massachusetts,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,MECO,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,National Grid,Elizabeth,Duncan,476001 Jason Johnson St.,2121,Dorchester,'5771649866,7331879347,Elizabeth@testnrg.com,no_email_mark,ee6b501,"Power Trip Electric Plan with Rapid Rewards points
+7.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.15.2020,E1-JW9-MRV,'5000003779227756,completed,80,,IDOC Processed Sucessfully.
+ts_81,NRG,MA,Massachusetts,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,camb,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,Eversource (Eastern Massachusetts),Michael,Russell,179626 Aaron Davidson St.,2139,Cambridge,'40915273965,1534083517,Michael@testnrg.com,no_email_mark,113b795,"Power Trip Electric Plan with Rapid Rewards points
+10.000¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.15.2020,E1-JN5-BAW,'5000003779227757,completed,81,,IDOC Processed Sucessfully.
+ts_82,NRG,MA,Massachusetts,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,WMECo,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,WMECo,Mark,Wells,98229 Alexis Harrington St.,1002,AMHERST,'305148681,9712859402,Mark@testnrg.com,no_email_mark,36453a0,"Power Trip Electric Plan with Rapid Rewards points
+9.300¢ per
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.15.2020,E1-JK5-769,'5000003779227758,completed,82,,IDOC Processed Sucessfully.
+ts_83,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,ACE,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,Atlantic City Electric,Dean,Smith,645871 Jesse Davidson St.,8021,CLEMENTON,'05368469190806462289247,1615717296,Dean@testnrg.com,no_email_mark,58a201f,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JP5-R9N,'5000003779227759,completed,83,,IDOC Processed Sucessfully.
+ts_84,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,JCPL,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,JCP&L,Stacy,Winters,406516 Steven Hall St.,8822,FLEMINGTON,'08242791376556945112,8734534703,Stacy@testnrg.com,no_email_mark,7ab2506,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JAV-96P,'5000003779227760,completed,84,,IDOC Processed Sucessfully.
+ts_85,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,PSEG,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,PSE&G,Charles,Meyer,952829 Vanessa Lopez St.,7047,NORTH BERGEN,'PE814822773334756717,9022086473,Charles@testnrg.com,no_email_mark,7deb3d4,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-J96-BLV,'5000003779227761,completed,85,,IDOC Processed Sucessfully.
+ts_90,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,ACE,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Atlantic City Electric,Sherri,Byrd,321043 Anita Clark St.,8069,PENNS GROVE,'05573290163469831261415,4723836989,Sherri@testnrg.com,no_email_mark,7267672,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GXY-VD4,'5000003779227762,completed,91,,IDOC Processed Sucessfully.
+ts_91,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,JCPL,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,JCP&L,Stephen,Malone,615443 Steven Whitney St.,8535,MILLSTONE TOWNSHIP,'08797617047303556513,5035631416,Stephen@testnrg.com,no_email_mark,96484c3,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GEY-4EN,'5000003779227763,completed,92,,IDOC Processed Sucessfully.
+ts_92,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,PSEG,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,PSE&G,Charles,Andrews,550110 Patrick Harris St.,7092,MOUNTAINSIDE,'PE648407104100114845,8487091071,Charles@testnrg.com,no_email_mark,b9de376,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G4L-WD6,'5000003779227764,completed,93,,IDOC Processed Sucessfully.
+ts_97,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,ACE,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Atlantic City Electric,Larry,Hampton,96498 Jeff Duffy St.,8091,WEST BERLIN,'05296587776302296192814,6264998438,Larry@testnrg.com,no_email_mark,b193592,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-J8E-YDL,'5000003779227765,completed,98,,IDOC Processed Sucessfully.
+ts_98,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,JCPL,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,JCP&L,Gilbert,Richards,166908 John Lewis St.,8720,ALLENWOOD,'08674890461046491077,1083955020,Gilbert@testnrg.com,no_email_mark,db2404f,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GDA-XNN,'5000003779227766,completed,99,,IDOC Processed Sucessfully.
+ts_99,NRG,NJ,New Jersey,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,PSEG,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,PSE&G,Donald,Smith,55021 Hannah Chavez St.,8525,HOPEWELL,'PE306346660419529623,9826283758,Donald@testnrg.com,no_email_mark,1130778,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G54-PDZ,'5000003779227767,completed,100,,IDOC Processed Sucessfully.
+ts_104,NRG,NJ,New Jersey,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,ACE,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,Atlantic City Electric,Andrew,Mitchell,897042 Jessica Daugherty St.,8212,CAPE MAY POINT,'05216129189365342425622,4111146036,Andrew@testnrg.com,no_email_mark,e8bfab8,"Power Trip Electric Plan with Rapid Rewards points
+7.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-JAV-9YP,'5000003779227768,completed,105,,IDOC Processed Sucessfully.
+ts_105,NRG,NJ,New Jersey,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,JCPL,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,JCP&L,Elaine,Walton,968965 Austin Harris St.,7058,PINE BROOK,'08868934895570446691,7268554247,Elaine@testnrg.com,no_email_mark,0a6f822,"Power Trip Electric Plan with Rapid Rewards points
+7.300¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-G7E-ZDL,'5000003779227769,completed,106,,IDOC Processed Sucessfully.
+ts_106,NRG,NJ,New Jersey,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,PSEG,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,PSE&G,Christine,Moreno,921140 Monica Smith St.,7023,FANWOOD,'PE961555548412331082,7006518714,Christine@testnrg.com,no_email_mark,2cd4a14,"Power Trip Electric Plan with Rapid Rewards points
+9.700¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-J96-BDV,'5000003779227770,completed,107,,IDOC Processed Sucessfully.
+ts_111,NRG,NJ,New Jersey,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,ACE,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,Atlantic City Electric,Charles,Riggs,963578 Julie Gregory DDS St.,8857,OLD BRIDGE,'05343415506041464267649,2212654419,Charles@testnrg.com,no_email_mark,cc05abc,"Power Trip Electric Plan with Rapid Rewards points
+7.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.15.2020,E1-JBK-MZK,'5000003779227771,completed,112,,Error in creating CA
+ts_112,NRG,NJ,New Jersey,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,JCPL,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,JCP&L,Allison,Allen,423717 Jacqueline Hayden St.,8527,JACKSON,'08681801335578716270,6979399893,Allison@testnrg.com,no_email_mark,9324712,"Power Trip Electric Plan with Rapid Rewards points
+7.300¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.15.2020,E1-GXY-VQ4,'5000003779227772,completed,113,,IDOC Processed Sucessfully.
+ts_113,NRG,NJ,New Jersey,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,PSEG,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,PSE&G,Laurie,Brooks,959173 Bradley Horn St.,8880,SOUTH BOUND BROOK,'PE976476358593443721,9202863224,Laurie@testnrg.com,no_email_mark,b328e88,"Power Trip Electric Plan with Rapid Rewards points
+9.700¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.15.2020,E1-GEY-4VN,'5000003779227773,completed,114,,Error in creating CA
+ts_118,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,BGE,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,BGE,Ryan,Lindsey,380091 Alexander Ramirez St.,21274,BALTIMORE,'5805521831,1605609697,Ryan@testnrg.com,no_email_mark,7526f68,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-J96-BNW,'5000003779227774,completed,119,,BP Replication Issue
+ts_119,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,Delmarva,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,Delmarva Power,Alvin,Combs,822797 James Schwartz St.,21662,ROYAL OAK,'05892302275710828021107,8018754781,Alvin@testnrg.com,no_email_mark,9e637f8,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JZ5-4QR,'5000003779227775,completed,120,,IDOC Processed Sucessfully.
+ts_121,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,APMD,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,Potomac Edison - APMD,Stacy,Anderson,89230 Makayla Collins St.,21769,MIDDLETOWN,'08838252348293467566,5037197644,Stacy@testnrg.com,no_email_mark,5.86E+03,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JM9-Y7N,'5000003779227776,completed,121,,IDOC Processed Sucessfully.
+ts_120,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,Pepco,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,Pepco,Nicholas,Mccarty,125249 Hannah Wright St.,20857,ROCKVILLE,'0547989354595656682369,1512741506,Nicholas@testnrg.com,no_email_mark,50992ce,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GY4-XQQ,'5000003779227777,completed,122,,IDOC Processed Sucessfully.
+ts_121,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,APMD,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,Potomac Edison - APMD,Marcia,Blake,281623 Brenda Mays St.,21791,UNION BRIDGE,'08456780814945767791,1814351003,Marcia@testnrg.com,no_email_mark,72e84f6,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GVB-94Y,'5000003779227778,completed,123,,IDOC Processed Sucessfully.
+ts_124,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,BGE,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,BGE,Juan,Blanchard,919363 Mark Ramirez St.,20622,CHARLOTTE HALL,'1534840100,1341982131,Juan@testnrg.com,no_email_mark,012e6f4,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GXY-VQP,'5000003779227779,completed,125,,IDOC Processed Sucessfully.
+ts_125,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,Delmarva,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Delmarva Power,Charles,Sanders,521810 Steven Morrow St.,21914,CHARLESTOWN,'05896939729076495366803,8381437052,Charles@testnrg.com,no_email_mark,227bdce,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GEY-4VA,'5000003779227780,completed,126,,IDOC Processed Sucessfully.
+ts_126,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,Pepco,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Pepco,Ana,Rios,696299 Stacey Cook St.,20797,SOUTHERN MD FACILITY,'05577860985460057614544,7158048967,Ana@testnrg.com,no_email_mark,5213c18,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G4L-W9M,'5000003779227781,completed,127,,IDOC Processed Sucessfully.
+ts_124,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,BGE,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,BGE,Michael,Garcia,778763 Heather Smith St.,21076,HANOVER,'6737283583,9247337936,Michael@testnrg.com,no_email_mark,f8aa627,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JL9-ZAZ,'5000003779227782,completed,130,,IDOC Processed Sucessfully.
+ts_125,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,Delmarva,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Delmarva Power,Lucas,Washington,664343 Blake Ferguson St.,21843,OCEAN CITY,'0532220761670584503961,3883914723,Lucas@testnrg.com,no_email_mark,1f49f47,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JQM-LAR,'5000003779227783,completed,131,,IDOC Processed Sucessfully.
+ts_126,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,Pepco,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Pepco,Bryan,Martinez,46658 Zachary Williams St.,20717,BOWIE,'05379886343472950459548,2176646367,Bryan@testnrg.com,no_email_mark,3a05d9a,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-J8E-YZR,'5000003779227784,completed,132,,IDOC Processed Sucessfully.
+ts_127,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,APMD,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Potomac Edison - APMD,Erika,Garcia,130281 Rickey Rodgers St.,21720,Cavetown,'08564036642840931503,5547618726,Erika@testnrg.com,no_email_mark,558dcbe,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GDA-X7K,'5000003779227785,completed,133,,IDOC Processed Sucessfully.
+ts_130,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,BGE,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,BGE,Joshua,Watkins,213004 Derrick White St.,21130,PERRYMAN,'8750749733,4888361349,Joshua@testnrg.com,no_email_mark,bcc810f,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JN5-BRM,'5000003779227786,completed,136,,IDOC Processed Sucessfully.
+ts_131,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,Delmarva,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Delmarva Power,Norman,Robinson,265585 Rhonda Ingram St.,21624,CLAIBORNE,'05447958330208277715835,6423824989,Norman@testnrg.com,no_email_mark,de31b6f,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JK5-7XK,'5000003779227787,completed,137,,IDOC Processed Sucessfully.
+ts_132,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,Pepco,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Pepco,Sara,West,640749 Angela Griffith St.,20871,CLARKSBURG,'05636075173650675776495,1572536180,Sara@testnrg.com,no_email_mark,fff407c,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JP5-RPV,'5000003779227788,completed,138,,IDOC Processed Sucessfully.
+ts_133,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,APMD,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Potomac Edison - APMD,John,Hull,24954 Michelle Brennan St.,21720,Cavetown,'08413973389263559785,9407591977,John@testnrg.com,no_email_mark,2172256,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JAV-9KB,'5000003779227789,completed,139,,IDOC Processed Sucessfully.
+ts_136,NRG,MD,Maryland,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,BGE,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,BGE,Johnny,Roberson,582354 David Nguyen St.,21797,WOODBINE,'9972383363,5606492289,Johnny@testnrg.com,no_email_mark,7def255,"Power Trip Electric Plan with Rapid Rewards points
+5.100¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-JZ5-4ER,'5000003779227790,completed,142,,IDOC Processed Sucessfully.
+ts_137,NRG,MD,Maryland,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,Delmarva,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1  - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,Delmarva Power,Jerry,Tucker,128046 Samantha Brown St.,21903,PERRYVILLE,'05344436407271399054840,4358279792,Jerry@testnrg.com,no_email_mark,a1a7c65,"Power Trip Electric Plan with Rapid Rewards points
+5.000¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-JM9-Y4N,'5000003779227791,completed,143,,IDOC Processed Sucessfully.
+ts_138,NRG,MD,Maryland,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,Pepco,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1  - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,Pepco,Amy,Turner,383546 Patricia Wilkinson St.,20852,ROCKVILLE,'05325227753697386211950,9141042220,Amy@testnrg.com,no_email_mark,c35ee70,"Power Trip Electric Plan with Rapid Rewards points
+5.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-GY4-XNQ,'5000003779227792,completed,144,,IDOC Processed Sucessfully.
+ts_139,NRG,MD,Maryland,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,APMD,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1  - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,Potomac Edison - APMD,Philip,Adams,475684 Stacie Flynn St.,21757,KEYMAR,'08516137847920458307,1024378181,Philip@testnrg.com,no_email_mark,e49ba5b,"Power Trip Electric Plan with Rapid Rewards points
+4.600¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-GVB-9YY,'5000003779227793,completed,145,,IDOC Processed Sucessfully.
+ts_140,NRG,MD,Maryland,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",2 points/ $1,7998,788,BGE,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_2500_bonus_2pcnt_earn_gas,,BGG,Tim,Bonilla,645267 Brett Wilkins St.,20794,JESSUP,'5015587689,4187274716,Tim@testnrg.com,no_email_mark,09c2396,"Power Trip Natural Gas Plan with Rapid Rewards points
+33.000¢ per therm
+3 month Promotional Plan
+MMC 0% Green Green
+2,500 points after 2 Months
+2* every 1 Month","Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per therm
+3 month Promotional Plan
+2,500 points after 2 Months
+2 Miles per $1 every 1 Month",,,,,text_passed,07.15.2020,E1-JBK-MP4,5000003779227794,completed,146,,IDOC Processed Sucessfully.
+ts_142,NRG,MD,Maryland,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,BGE,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,BGE,Brian,Bailey,32832 Brian Price St.,20783,HYATTSVILLE,'4273991134,2822479824,Brian@testnrg.com,no_email_mark,4d64533,"Power Trip Electric Plan with Rapid Rewards points
+5.100¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.15.2020,E1-GEY-49A,'5000003779227795,completed,148,,IDOC Processed Sucessfully.
+ts_143,NRG,MD,Maryland,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,Delmarva,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,Delmarva Power,Ian,Warner,114187 Mason Riggs St.,20871,CLARKSBURG,'0596711717486443583245,9658277640,Ian@testnrg.com,no_email_mark,707cbed,"Power Trip Electric Plan with Rapid Rewards points
+5.000¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.15.2020,E1-G4L-WPM,'5000003779227796,completed,149,,IDOC Processed Sucessfully.
+ts_144,NRG,MD,Maryland,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,Pepco,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,Pepco,Andrea,Lowe,607570 Paul Russo St.,20884,GAITHERSBURG,'05607707794535918280648,1973372775,Andrea@testnrg.com,no_email_mark,8d31a67,"Power Trip Electric Plan with Rapid Rewards points
+5.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.15.2020,E1-JRQ-879,'5000003779227797,completed,150,,IDOC Processed Sucessfully.
+ts_145,NRG,MD,Maryland,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,APMD,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,Potomac Edison - APMD,Howard,Middleton,364406 Kristin Taylor St.,21541,MCHENRY,'08116906730764544012,7639458673,Howard@testnrg.com,no_email_mark,a9898dd,"Power Trip Electric Plan with Rapid Rewards points
+4.600¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.15.2020,E1-G6E-7NZ,'5000003779227798,completed,151,,IDOC Processed Sucessfully.
+ts_146,NRG,MD,Maryland,nrg_residential,SWA,variable,residential,gas,inbound_telemarketing,,"2,500 Rapid Rewards Points",3 points/ $1,7999,781,BGE,3 Month Variable,No ECF,Power Trip Natural Gas Plan with Rapid Rewards points,"2,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_2500_bonus_3pcnt_earn_gas,,BGG,Jessica,Wood,670681 Leslie Anderson St.,21075,ELKRIDGE,'6532999384,3325277380,Jessica@testnrg.com,no_email_mark,d01d6f2,"Power Trip Natural Gas Plan with Rapid Rewards points
+33.000¢ per therm
+3 month Promotional Plan
+MMC 0% Green Green
+2,500 points after 2 Months
+3* every 1 Month","Power Trip Natural Gas Plan with Rapid Rewards points
+99.000¢ per therm
+3 month Promotional Plan
+2,500 points after 2 Months
+3 Miles per $1 every 1 Month",,,,,text_passed,07.15.2020,E1-JL9-ZEZ,5000003779227799,completed,152,,IDOC Processed Sucessfully.
+ts_148,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,dukeoh,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,Duke Energy,Richard,Banks,664736 Mrs. Yvette Krause St.,43213,COLUMBUS,'46752602580,8693535930,Richard@testnrg.com,no_email_mark,14c6224,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-J8E-YAR,'5000003779227800,completed,154,,IDOC Processed Sucessfully.
+ts_149,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,DPL,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,DPL,Barbara,Jordan,892633 Ashley Gomez St.,8865,PHILLIPSBURG,'5921962951,6075126827,Barbara@testnrg.com,no_email_mark,3519ce8,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GDA-X6K,'5000003779227801,completed,155,,IDOC Processed Sucessfully.
+ts_150,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,TE,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,TE,Eileen,Fuller,430022 Michael Foster St.,43462,RUDOLPH,'08642477820036306606,9414291897,Eileen@testnrg.com,no_email_mark,5543f6a,"Win Back Electric Variable Plan
+9.900¢ per
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G54-PQ4,'5000003779227802,completed,156,,IDOC Processed Sucessfully.
+ts_153,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,AEPS,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,AEP - Columbus Southern,Angelica,Thomas,802171 Kristine Farrell St.,45628,FRANKFORT,'00046673399823749,6816584704,Angelica@testnrg.com,no_email_mark,af454d3,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JN5-BWM,'5000003779227803,completed,158,,IDOC Processed Sucessfully.
+ts_157,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,dukeoh,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Duke Energy,Seth,Peters,514625 Eric Jones St.,44904,MANSFIELD,'40882282619,2829719871,Seth@testnrg.com,no_email_mark,3380cbb,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G7E-ZP7,'5000003779227804,completed,162,,IDOC Processed Sucessfully.
+ts_158,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,DPL,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,DPL,Misty,Good,635378 Daniel Wolfe St.,45310,Burkettsville,'3928708619,2513743451,Misty@testnrg.com,no_email_mark,5417533,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-J96-B7W,'5000003779227805,completed,163,,IDOC Processed Sucessfully.
+ts_159,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,TE,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,TE,Brian,Townsend,237992 Brian Rodriguez St.,43410,Clyde,'08908745998924356408,5887469562,Brian@testnrg.com,no_email_mark,772ceac,"Cash Back Electric Plan
+9.900¢ per
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JZ5-48R,'5000003779227806,completed,164,,IDOC Processed Sucessfully.
+ts_162,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,AEPS,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,AEP - Columbus Southern,Douglas,Harris,34823 Angela Martinez St.,43110,CANAL WINCHESTER,'00048829829919825,4903578589,Douglas@testnrg.com,no_email_mark,d36ebdb,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GY4-X8Q,'5000003779227807,completed,166,,Error in creating CA
+ts_166,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,dukeoh,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,Duke Energy,Amanda,Waters,872023 Brett King St.,44256,MEDINA,'44432942250,3405102971,Amanda@testnrg.com,no_email_mark,4b50e32,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-GEY-4WA,'5000003779227808,completed,170,,IDOC Processed Sucessfully.
+ts_167,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,DPL,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,DPL,Melissa,Miller,298570 Rebecca Wagner St.,19707,HOCKESSIN,'1024503297,4249677676,Melissa@testnrg.com,no_email_mark,6bd967d,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-G4L-WQM,'5000003779227809,completed,171,,Incorrect utility enrolled
+ts_168,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,TE,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,TE,Meghan,Hernandez,754348 Samantha Gallagher St.,43614,Toledo,'08415724841751221909,8844237445,Meghan@testnrg.com,no_email_mark,8d09142,"Cash Back Electric Plan
+9.900¢ per
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JRQ-8W9,'5000003779227810,completed,172,,IDOC Processed Sucessfully.
+ts_171,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,AEPS,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,AEP - Columbus Southern,William,Jackson,911982 Jessica Hendricks St.,44060,MENTOR,'00044338637462707,9911544929,William@testnrg.com,no_email_mark,e9e07f1,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.15.2020,E1-JL9-ZWZ,'5000003779227811,completed,174,,IDOC Processed Sucessfully.
+ts_175,NRG,OH,Ohio,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,dukeoh,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,Duke Energy,Susan,Wheeler,994819 Amy Abbott St.,43004,BLACKLICK,'32241186578,1551375706,Susan@testnrg.com,no_email_mark,649f690,"Power Trip Electric Plan with Rapid Rewards points
+14.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-G54-P64,'5000003779227812,completed,178,,IDOC Processed Sucessfully.
+ts_176,NRG,OH,Ohio,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,DPL,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,DPL,Christine,Schneider,549173 Makayla Gross St.,43047,Mingo,'4002785091,4473446782,Christine@testnrg.com,no_email_mark,86a5e73,"Power Trip Electric Plan with Rapid Rewards points
+3.600¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-JW9-MKN,'5000003779227813,completed,179,,IDOC Processed Sucessfully.
+ts_177,NRG,OH,Ohio,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,TE,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,TE,Megan,Garcia,847672 Katelyn Mccall St.,43462,RUDOLPH,'08618417093920448661,5937887346,Megan@testnrg.com,no_email_mark,a7b6c13,"Power Trip Electric Plan with Rapid Rewards points
+3.600¢ per
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-JN5-BYM,'5000003779227814,completed,180,,IDOC Processed Sucessfully.
+ts_180,NRG,OH,Ohio,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"10,000 Rapid Rewards Points",2 points/ $1,7998,47,AEPS,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"10,000 bonus/ 2 points per $1 - August 2020 DM",swa_2mon_10000_bonus_2pcnt_earn,,AEP - Columbus Southern,Jerome,Mcdaniel,627793 Adam Gregory St.,44705,CANTON,'00047634925248588,9867886455,Jerome@testnrg.com,no_email_mark,031b0a7,"Power Trip Electric Plan with Rapid Rewards points
+3.600¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+10,000 Points after 2 Months
+2* every 1 Month",,,,,text_passed,07.15.2020,E1-JP5-RBV,'5000003779227815,completed,182,,IDOC Processed Sucessfully.
+ts_184,NRG,OH,Ohio,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,dukeoh,3 Month Variable,No ECF,SWA Premier Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,Duke Energy,Joseph,Randall,863473 Melissa Jones St.,45324,FAIRBORN,'45360363630,1538882288,Joseph@testnrg.com,no_email_mark,7cee3ab,"Premier Power Trip Electric Plan with Rapid Rewards points
+14.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","SWA Premier Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_failed,07.15.2020,E1-JZ5-47R,'5000003779227960,completed,186,,IDOC Processed Sucessfully.
+ts_185,NRG,OH,Ohio,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,DPL,3 Month Variable,No ECF,SWA Premier Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,DPL,Molly,Newman,147542 Terry Huff St.,45166,Reesville,'7600615482,7501479335,Molly@testnrg.com,no_email_mark,9eaa23d,"Premier Power Trip Electric Plan with Rapid Rewards points
+3.600¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","SWA Premier Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_failed,07.15.2020,E1-JM9-YMN,'5000003779227961,completed,187,,IDOC Processed Sucessfully.
+ts_186,NRG,OH,Ohio,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,TE,3 Month Variable,No ECF,SWA Premier Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,TE,Diane,Trujillo,570678 Tyler Smith St.,43614,Toledo,'08965517754303502353,3566754420,Diane@testnrg.com,no_email_mark,c00112d,"Premier Power Trip Electric Plan with Rapid Rewards points
+3.600¢ per
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","SWA Premier Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_failed,07.15.2020,E1-GY4-XAQ,'5000003779227962,completed,188,,IDOC Processed Sucessfully.
+ts_189,NRG,OH,Ohio,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,AEPS,3 Month Variable,No ECF,SWA Premier Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,AEP - Columbus Southern,Erica,Durham,682514 Shawn Simmons St.,43023,GRANVILLE,'00041007395876129,8821945007,Erica@testnrg.com,no_email_mark,1b230b6,"Premier Power Trip Electric Plan with Rapid Rewards points
+3.600¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","SWA Premier Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_failed,07.15.2020,E1-JBK-ME4,5E+15,completed,190,,IDOC Processed Sucessfully.
+ts_122,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8000,594,BGE,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_winback_25_bonus_gas,,BGG,Adam,Reese,95323 Travis Edwards St.,21206,BALTIMORE,'3185546287,3618661055,Adam@testnrg.com,no_email_mark,273e636,"Win Back Natural Gas Variable Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.16.2020,E1-JW9-M7N,',error,,,
+ts_128,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8001,594,BGE,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,BGG,Peter,Davis,597697 Carmen Norman St.,21241,BALTIMORE,'6325762612,9899047072,Peter@testnrg.com,no_email_mark,482c76f,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.16.2020,E1-JN5-BEM,',error,,,
+ts_134,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,,$25 Cash back,3% Cash Back Annually,8002,594,BGE,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - August 2020 DM,0820dm_brand_25_bonus_gas,,BGG,Ashley,Hill,528449 Karen Gaines St.,21104,MARRIOTTSVILLE,'6231988237,9366215414,Ashley@testnrg.com,no_email_mark,603aad4,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.16.2020,E1-JK5-7VK,',error,,,
+ts_111,NRG,NJ,New Jersey,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,ACE,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,Atlantic City Electric,Tiffany,Lopez,321720 Mr. Michael Singleton St.,7501,PATERSON,'05237517727874946714367,7221607367,Tiffany@testnrg.com,no_email_mark,7a1f232,"Power Trip Electric Plan with Rapid Rewards points
+7.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.16.2020,E1-JP5-RNV,'5000003779233345,completed,,,IDOC Processed Sucessfully.
+ts_113,NRG,NJ,New Jersey,nrg_residential,SWA,variable,residential,electric,inbound_telemarketing,,"12,500 Rapid Rewards Points",3 points/ $1,7999,98,PSEG,3 Month Variable,No ECF,Power Trip Electric Plan with Rapid Rewards points,"12,500 bonus/ 3 points per $1  (Premier) - August 2020 DM",swa_2mon_12500_bonus_3pcnt_earn,,PSE&G,Patrick,Salazar,482651 Peter Hill St.,7643,LITTLE FERRY,'PE261070509039671339,4351953917,Patrick@testnrg.com,no_email_mark,9d00df1,"Power Trip Electric Plan with Rapid Rewards points
+9.700¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month","Power Trip Electric Plan with Rapid Rewards points
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+12,500 Points after 2 Months
+3* every 1 Month",,,,,text_passed,07.16.2020,E1-JAV-9LB,'5000003779233346,completed,,,Error in creating CA
+ts_118,NRG,MD,Maryland,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$75 Cash back,3% Cash Back Annually,8000,533,BGE,3 Month Variable,No ECF,Win Back Electric Variable Plan ,$75 Check/3% Cash Back - August 2020 DM,0820dm_winback_75_bonus,,BGE,Alison,Price,17067 Debbie Henry St.,20770,GREENBELT,'7730409646,3988145949,Alison@testnrg.com,no_email_mark,4a5f973,"Win Back Electric Variable Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$75 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.16.2020,E1-G7E-ZN7,'5000003779233347,completed,,,IDOC Processed Sucessfully.
+ts_162,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8001,553,AEPS,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,AEP - Columbus Southern,Yolanda,Oconnor,167210 Sharon Smith St.,43137,LOCKBOURNE,'00047466521920608,6221369846,Yolanda@testnrg.com,no_email_mark,6cc50ac,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.16.2020,E1-J96-BYW,'5000003779233348,completed,,,IDOC Processed Sucessfully.
+ts_167,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,electric,inbound_telemarketing,,$50 Cash back,3% Cash Back Annually,8002,553,DPL,3 Month Variable,No ECF,Cash Back Electric Plan ,$50 Check/3% Cash Back - August 2020 DM,0820dm_brand_50_bonus,,DPL,Christopher,Obrien,683955 Travis Lewis St.,43067,Raymond,'4070257216,8505528607,Christopher@testnrg.com,no_email_mark,85a2e8e,"Cash Back Electric Plan
+9.900¢ per kWh
+3 month Promotional Plan
+MMC 0% Green Green
+$50 after 2 Months
+3% every 12 Months",,,,,,text_passed,07.16.2020,E1-JZ5-4MR,'5000003779233349,completed,,,IDOC Processed Sucessfully.

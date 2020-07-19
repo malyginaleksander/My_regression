@@ -1,0 +1,61 @@
+ts,State,Vanity,Landing Page URL,Zip Code,Electric Utility,Gas Utility,Confirmation Number,Electric SKU,Gas SKU,Yes
+ts_1,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,ComEd,Nicor Gas,E1-VZY-N9Y,g37e905cd6ff5e23,559BB9C3-904C,Validated
+ts_2,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,ComEd,Peoples Gas,E1-XEB-MVP,g37e905cd6ff5e23,531E18DF-9543,Validated
+ts_5,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,Duquesne Light,Peoples Gas,E1-EB9-Z4A,ge5baaacac55de91,987EE244-65BD,Validated
+ts_8,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,19104.0,PECO,UGI Gas,E1-PZP-QRA,gec3cf16f794fcdd,9A72BDF3-29AE,Validated
+ts_1,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,ComEd,Nicor Gas,E1-EB9-XDM,g37e905cd6ff5e23,559BB9C3-904C,Validated
+ts_1,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,ComEd,Nicor Gas,E1-RP7-95X,g37e905cd6ff5e23,559BB9C3-904C,Validated
+ts_2,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,ComEd,Peoples Gas,E1-65N-64W,g37e905cd6ff5e23,531E18DF-9543,Validated
+ts_5,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,Duquesne Light,Peoples Gas,E1-LPE-87K,ge5baaacac55de91,987EE244-65BD,Validated
+ts_6,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,West Penn Power,,E1-86Z-QBV,gf4e890b4fad275b,n/a,Validated
+ts_7,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,19104.0,PECO,Philadelphia Gas Works,E1-DV7-BD7,gec3cf16f794fcdd,AA98E47E-E137,Validated
+ts_8,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,19104.0,PECO,UGI Gas,E1-5LA-R5Q,gec3cf16f794fcdd,9A72BDF3-29AE,Validated
+ts_10,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,17344.0,Met-Ed,UGI Gas,E1-WEV-B4K,9A72BDF3-29AE,g136c0f9102d2081,Validated
+ts_12,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,16130.0,Penn Power,UGI Gas,E1-N7R-KQE,g054fad321bb30a7,9A72BDF3-29AE,Validated
+ts_13,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15765.0,Penelec,UGI Gas,E1-KKX-QAE,g2dbaf13094f14cb,9A72BDF3-29AE,Validated
+ts_14,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15765.0,Penelec,Peoples Gas,E1-PZP-ALA,g2dbaf13094f14cb,987EE244-65BD,Validated
+ts_15,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,18073.0,Met-Ed,UGI Gas,E1-769-LVZ,g136c0f9102d2081,9A72BDF3-29AE,Validated
+ts_18,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,Duquesne Light,Peoples Gas,E1-MA4-DBE,ge5baaacac55de91,987EE244-65BD,Validated
+ts_19,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,West Penn Power,,E1-Y5N-E64,gf4e890b4fad275b,n/a,Validated
+ts_1,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,ComEd,Nicor Gas,E1-86Z-Q4V,g37e905cd6ff5e23,559BB9C3-904C,Validated
+ts_2,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,ComEd,Peoples Gas,E1-DV7-BK7,g37e905cd6ff5e23,531E18DF-9543,Validated
+ts_3,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60933.0,Ameren,Nicor Gas,E1-5LA-RBQ,559BB9C3-904C,56CC6700-3A67,Validated
+ts_4,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60933.0,Ameren,Peoples Gas,E1-WEV-BPK,531E18DF-9543,56CC6700-3A67,Validated
+ts_5,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,Duquesne Light,Peoples Gas,E1-N7R-KDE,ge5baaacac55de91,987EE244-65BD,Validated
+ts_6,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,West Penn Power,,E1-PZP-A8A,gf4e890b4fad275b,n/a,Validated
+ts_7,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,19104.0,PECO,Philadelphia Gas Works,E1-A4K-MDQ,gec3cf16f794fcdd,AA98E47E-E137,Validated
+ts_8,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,19104.0,PECO,UGI Gas,E1-769-L4Z,gec3cf16f794fcdd,9A72BDF3-29AE,Validated
+ts_10,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,17344.0,Met-Ed,UGI Gas,E1-9KM-86X,g136c0f9102d2081,9A72BDF3-29AE,Validated
+ts_12,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,16130.0,Penn Power,UGI Gas,E1-Z6E-N5B,g054fad321bb30a7,9A72BDF3-29AE,Validated
+ts_13,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15765.0,Penelec,UGI Gas,E1-MA4-D9E,g2dbaf13094f14cb,9A72BDF3-29AE,Validated
+ts_14,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15765.0,Penelec,Peoples Gas,E1-Y5N-E44,g2dbaf13094f14cb,987EE244-65BD,Validated
+ts_15,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,18073.0,Met-Ed,UGI Gas,E1-VZY-VB7,g136c0f9102d2081,9A72BDF3-29AE,Validated
+ts_9,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,17344.0,Met-Ed,Columbia Gas of Pennsylvania,E1-XEB-XYE,g136c0f9102d2081,966C0EA3-6037,Validated
+ts_2,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,ComEd,Peoples Gas,E1-46P-4LY,g37e905cd6ff5e23,531E18DF-9543,Validated
+ts_1,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,ComEd,Nicor Gas,E1-RP7-9QX,g37e905cd6ff5e23,559BB9C3-904C,Validated
+ts_2,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,ComEd,Peoples Gas,E1-65N-6EW,g37e905cd6ff5e23,531E18DF-9543,Validated
+ts_3,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60933.0,Ameren,Nicor Gas,E1-LPE-89K,559BB9C3-904C,56CC6700-3A67,Validated
+ts_4,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60933.0,Ameren,Peoples Gas,E1-QKA-7ME,531E18DF-9543,56CC6700-3A67,Validated
+ts_5,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,Duquesne Light,Peoples Gas,E1-86Z-QEV,ge5baaacac55de91,987EE244-65BD,Validated
+ts_6,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,West Penn Power,,E1-DV7-BA7,gf4e890b4fad275b,n/a,Validated
+ts_7,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,19104.0,PECO,Philadelphia Gas Works,E1-5LA-R4Q,gec3cf16f794fcdd,AA98E47E-E137,Validated
+ts_8,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,19104.0,PECO,UGI Gas,E1-WEV-B9K,gec3cf16f794fcdd,9A72BDF3-29AE,Validated
+ts_9,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,17344.0,Met-Ed,Columbia Gas of Pennsylvania,E1-N7R-K5E,g136c0f9102d2081,966C0EA3-6037,Validated
+ts_10,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,17344.0,Met-Ed,UGI Gas,E1-KKX-Q5E,g136c0f9102d2081,9A72BDF3-29AE,Validated
+ts_11,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,16130.0,Penn Power,National Fuel Gas Company (PA),E1-769-LEZ,g054fad321bb30a7,AF62B8BA-A854,Validated
+ts_12,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,16130.0,Penn Power,UGI Gas,E1-9KM-8RX,g054fad321bb30a7,9A72BDF3-29AE,Validated
+ts_13,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15765.0,Penelec,UGI Gas,E1-Z6E-NYB,g2dbaf13094f14cb,9A72BDF3-29AE,Validated
+ts_14,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15765.0,Penelec,Peoples Gas,E1-MA4-DZE,g2dbaf13094f14cb,987EE244-65BD,Validated
+ts_15,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,18073.0,Met-Ed,UGI Gas,E1-Y5N-EM4,g136c0f9102d2081,9A72BDF3-29AE,Validated
+ts_16,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,18073.0,PECO,PECO Gas,E1-VZY-V77,gec3cf16f794fcdd,A028A01A-2C02,Validated
+ts_18,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,Duquesne Light,Peoples Gas,E1-DV7-BE8,ge5baaacac55de91,987EE244-65BD,Validated
+ts_18,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,Duquesne Light,Peoples Gas,E1-86Z-Q6E,ge5baaacac55de91,987EE244-65BD,Validated
+ts_19,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,West Penn Power,,E1-DV7-BV8,gf4e890b4fad275b,n/a,Validated
+ts_20,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,02126,EVERSOURCE (EASTERN MASSACHUSETTS),,E1-N7R-KLK,g2c9bd35bac12112,n/a,Validated
+ts_21,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,Eversource Energy (Western Massachusetts),,E1-N7R-KE4,ge6aec407beaf5b9,n/a,Validated
+ts_21,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,Eversource Energy (Western Massachusetts),,E1-MA4-DVA,ge6aec407beaf5b9,n/a,Validated
+ts_22,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,NatGrid Mass Electric,,E1-9KM-8BR,g3b75f573695261e,n/a,Validated
+ts_23,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,Eversource Energy (Western Massachusetts),,E1-Z6E-PXK,ge6aec407beaf5b9,n/a,Validated
+ts_24,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,NatGrid Mass Electric,,E1-Y5N-K7E,g3b75f573695261e,n/a,Validated
+ts_21,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,Eversource Energy (Western Massachusetts),,E1-PZP-E8M,ge6aec407beaf5b9,n/a,Validated
+ts_22,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,NatGrid Mass Electric,,E1-PZP-E5M,g3b75f573695261e,n/a,Validated

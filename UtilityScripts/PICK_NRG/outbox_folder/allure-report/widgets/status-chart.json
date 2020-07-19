@@ -1,0 +1,11 @@
+[ {
+  "uid" : "dfc49e9fdcb6e9c4",
+  "name" : "test_state[ts_1]",
+  "time" : {
+    "start" : 1594776829524,
+    "stop" : 1594776883272,
+    "duration" : 53748
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

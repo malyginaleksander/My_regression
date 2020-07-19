@@ -1,0 +1,21 @@
+ts,StateSlug,BrandSlug,PartnerCode,TermsOfServiceType,PremiseType,Commodity,ChannelSlug,SKU,Bonus,Ongoing_Earn,promo_compaign_code,PromoCode,UtilitySlug,Offer,ECF_NoECF,ProductName,Bundle_Description,ProductSlug,System,State_full_name,utility_inb,first_name,last_name,ServiceAddress1,city,zip_code,account_no,phone,emailmarketing,email,confcode,offer_1,offer_2,offer_3,offer_4,text_checking,date_for_report
+ts_145,MD,nrg_residential,AAL,variable,residential,gas,inbound_telemarketing,014BD647-5B36,"2,500 AAdvantage miles",2 miles/ $1 ,7991.0,'788,BGG,3 Month Variable,No ECF,Power Trip Natural Gas Plan with AAdvantage miles,"2,500 bonus/ 2 miles per $1 - July 2020 DM",aal_2mon_2500_bonus_2pcnt_earn_gas,epnet,Maryland,BGG,Tim1,Miller,1 Timothy Miller St.,CECIL,'21904,2261912381,7654905127.0,no_email_mark,Tim@testnrg.com,a39b39d,"Power Trip Natural Gas Plan with AAdvantage miles
+35.000¢ per therm
+3 month Promotional Plan
+2,500 Miles after 2 Months
+2 Miles per $1 every 1 Month",,,,text_passed,06.28.2020
+ts_151,MD,nrg_residential,AAL,variable,residential,gas,inbound_telemarketing,014BD647-5B36,"2,500 AAdvantage miles",2 miles/ $1 ,7994.0,'788,BGG,3 Month Variable,No ECF,Power Trip Natural Gas Plan with AAdvantage miles,"2,500 bonus/ 2 miles per $1 - July 2020 DM",aal_2mon_2500_bonus_2pcnt_earn_gas,epnet,Maryland,BGG,Calvin1,Williams,1 Calvin Williams St.,HOWARD,'21029,6079269072,4705455531.0,no_email_mark,Calviims@testnrg.com,04a55c9,"Power Trip Natural Gas Plan with AAdvantage miles
+35.000¢ per therm
+3 month Promotional Plan
+2,500 Miles after 2 Months
+2 Miles per $1 every 1 Month",,,,text_passed,06.28.2020
+ts_199,MD,nrg_residential,UAL,variable,residential,gas,inbound_telemarketing,9D6D8437-27B4,"2,500 MileagePlus miles",3 points/ $1,7990.0,'781,BGG,3 Month Variable,No ECF,CH Power Trip Natural Gas Plan with MileagePlus miles,"2,500 bonus/ 3 miles per $1 (Cardholders) - July 2020 DM",ual_2mon_2500_bonus_3pcnt_earn_gas,epnet,Maryland,BGG,Abigail2,Burgess,1 Jennifer Burgess St.,BALTIMORE,'21219,9902503183,3773866090.0,no_email_mark,Jenrgess@testnrg.com,97c99b8,"CH Power Trip Natural Gas Plan with MileagePlus miles
+35.000¢ per therm
+3 month Promotional Plan
+2,500 miles after 2 Months
+3 Miles per $1 every 1 Month",,,,text_passed,06.28.2020
+ts_211,MD,nrg_residential,UAL,variable,residential,gas,inbound_telemarketing,9D6D8437-27B4,"2,500 MileagePlus miles",3 points/ $1,7991.0,'781,BGG,3 Month Variable,No ECF,CH Power Trip Natural Gas Plan with MileagePlus miles,"2,500 bonus/ 3 miles per $1 (Cardholders) - July 2020 DM",ual_2mon_2500_bonus_3pcnt_earn_gas,epnet,Maryland,BGG,Abigail3,Lee,1 Michael Lee St.,BALTIMORE,'21030,9095110349,7412878769.0,no_email_mark,Micha@testnrg.com,f911960,"CH Power Trip Natural Gas Plan with MileagePlus miles
+35.000¢ per therm
+3 month Promotional Plan
+2,500 miles after 2 Months
+3 Miles per $1 every 1 Month",,,,text_passed,06.28.2020

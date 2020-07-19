@@ -1,7 +1,7 @@
 import time
 
 
-from Regression.sprint_regression.Inbound_regression.Inbound_Enrollments_regression.Inbound_pages_methods import \
+from Regression.helpers.Inbound.Inbound_pages_methods import \
     wait_offer_page
 
 def fill_offer_page(payload, driver):
@@ -30,7 +30,7 @@ def fill_offer_page(payload, driver):
     offer_promo_second_xpath = "//h4[@class='account-header']/span[contains(text(),'2')]/parent::h4/following-sibling::div[2]/div[2]/p[2]/select"
     costumer_CheckButtons_xpath = '//button[contains(text(), "Check")]'
 
-    if payload.brand == "GME":
+    if payload.Brand == "GME":
         try:
             driver.find_element_by_xpath('//input[@placeholder="Search"]').send_keys(payload.categorie_1)
             driver.find_element_by_xpath("//ul[@class = 'offer-product-bundle-attributes ng-scope'][1]").click()
@@ -41,7 +41,7 @@ def fill_offer_page(payload, driver):
             driver.find_element_by_id(payload.categorie_1).click()
         # except:
         #     pass
-    elif payload.brand == 'NRG':
+    elif payload.Brand == 'NRG':
         wait_offer_page(driver)
         try:
             driver.find_element_by_xpath(offer_search_xpath).send_keys(payload.categorie_1)
@@ -75,7 +75,7 @@ def fill_offer_page(payload, driver):
     # if multichoise:
     if payload.account_type_2.lower() == "gas" or payload.account_type_2.lower() == "electric":
 
-        if payload.brand == 'EP':
+        if payload.Brand == 'EP':
             # fill first offer
             try:
                 elem = driver.find_element_by_xpath(offer_first_search_xpath)
@@ -137,10 +137,10 @@ def fill_offer_page(payload, driver):
 
             except:
                 pass
-        elif payload.brand == 'GME':
+        elif payload.Brand == 'GME':
             driver.find_element_by_xpath(offer_greenME_second_search_xpath).send_keys(payload.categorie_2)
             driver.find_element_by_id(payload.categorie_2).click()
-    if payload.brand == 'Cirro':
+    if payload.Brand == 'Cirro':
         try:
             driver.find_element_by_id(payload.categorie_1).click()
         except:
@@ -169,12 +169,12 @@ def fill_offer_page(payload, driver):
             pass
     time.sleep(2)
     # Green option
-    if payload.brand == "EP" :
-        if payload.account_type_1 == 'Electric' or payload.account_type_2 == 'Electric':
-            if payload.green_opt == "yes":
-                elem = driver.find_element_by_id(offer_green_opt_yes).click()
-            elif payload.green_opt == "no":
-                elem = driver.find_element_by_id(offer_green_opt_no).click()
+    if payload.Brand == "EP" :
+            if payload.Commodity == 'Electric' or payload.Commodity_2 == 'Electric':
+                if payload.green_opt == "yes":
+                    elem = driver.find_element_by_id(offer_green_opt_yes).click()
+                elif payload.green_opt == "no":
+                    elem = driver.find_element_by_id(offer_green_opt_no).click()
     try:
         Check_buttons = driver.find_elements_by_xpath(costumer_CheckButtons_xpath)
         for x in range(0, len(Check_buttons)):
@@ -187,8 +187,9 @@ def fill_offer_page(payload, driver):
         driver.find_element_by_id(continue_button_id).click()
     except:
         pass
-    if payload.brand == "GME" or payload.brand == 'NRG' or payload.brand == 'Cirro':
+    if payload.Brand == "GME" or payload.Brand == 'NRG' or payload.Brand == 'Cirro':
         try:
             driver.find_element_by_name(continue_button_name).click()
         except:
             pass
+

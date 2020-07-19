@@ -12,7 +12,7 @@ from my.create_test_scenarios_for_campaign.helpers.utility_dict import find_zip_
 test_name = "July"
 environment = "pt"
 make_inbound = 1
-make_web = 0
+make_web = 1
 ts_web_numb = 0
 ts_inb_numb = 0
 address2 = ''

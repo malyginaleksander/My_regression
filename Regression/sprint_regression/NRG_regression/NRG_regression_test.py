@@ -6,23 +6,24 @@ from selenium import webdriver
 import xlrd
 import os
 from collections import namedtuple
-from Regression.helpers.NRG.NrgEnroll import fill_personalinformation
+from Regression.helpers.NRG.NrgEnroll import fill_personalinformation_pickNRG, fill_personalinformation
 from Regression.helpers.NRG.VerificationPage import scroll_termsandconditions_and_agree
 from Regression.helpers.NRG.ConfirmationPage import get_confirmation_number
 from Regression.helpers.common.create_data_for_test import create_data_for_test
 
-test_list = [2,2,2,2]# test_list = [4,11,16]
-start_test=1
+# test_list = []# test_list = [4,11,16]
+test_list = [122,128,134    ]
+start_test=101
 
 env = 'pt'
 # env = 'gme-plus'
 # test_name = 'Regressin_NRG_WEB'
-test_name = 'Apple_July'
+test_name = 'August_campaign'
 local_path = "./inbox_files/Regression_test_scenarios.xlsx"
 full_path = os.path.abspath(local_path)
 workbook = xlrd.open_workbook(full_path)
 # worksheet = workbook.sheet_by_name('Regression')
-worksheet = workbook.sheet_by_name('Apple_July')
+worksheet = workbook.sheet_by_name('August')
 electric_enrollment = []
 headers = [cell.value for cell in worksheet.row(0)]
 Payload = namedtuple('payload', headers)
@@ -132,7 +133,7 @@ def _state_test_internals(driver, payload, test_name):
 
     ## Personal Information
     fill_personalinformation(driver, payload, firstname, lastname, address, zipcode_, city, accountNo, email, account_number,
-                              phonenumber)
+                                     phonenumber)
 
     # Verification
     scroll_termsandconditions_and_agree(driver)

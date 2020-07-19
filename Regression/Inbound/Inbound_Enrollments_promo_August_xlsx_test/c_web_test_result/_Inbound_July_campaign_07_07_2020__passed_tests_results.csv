@@ -1,0 +1,21 @@
+ts,StateSlug,BrandSlug,PartnerCode,TermsOfServiceType,PremiseType,Commodity,ChannelSlug,SKU,Bonus,Ongoing_Earn,promo_compaign_code,PromoCode,UtilitySlug,Offer,ECF_NoECF,ProductName,Bundle_Description,ProductSlug,System,State_full_name,utility_inb,first_name,last_name,ServiceAddress1,city,zip_code,account_no,phone,emailmarketing,email,confcode,offer_1,offer_2,offer_3,offer_4,text_checking,date_for_report
+ts_175,MD,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,5F187831-B54A,$25 Cash back,3% Cash Back Annually,7992.0,'594,BGG,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_winback_25_bonus_gas,epnet,Maryland,BGG1,Justin,BGG,12  Justin Brown St.,DORCHESTER,'21613,4102009692,1643045006.0,no_email_mark,JustinBrown@testnrg.com,ffaac91,"Win Back Natural Gas Variable Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.07.2020
+ts_181,MD,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,56CA4126-E151,$25 Cash back,3% Cash Back Annually,7993.0,'594,BGG,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_brand_25_bonus_gas,epnet,Maryland,BGG1,Christopher,BGG,12 Christopher Ward St.,HOWARD,'21043,4202107428,5627469376.0,no_email_mark,ChristopherWard@testnrg.com,229db3d,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.07.2020
+ts_175,MD,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,5F187831-B54A,$25 Cash back,3% Cash Back Annually,7992.0,'594,BGG,3 Month Variable,No ECF,Win Back Natural Gas Variable Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_winback_25_bonus_gas,epnet,Maryland,BGG1,Justin,BGG2,13  Justin Brown St.,DORCHESTER,'21613,4103009692,1643045006.0,no_email_mark,JustinBrown@testnrg.com,575aacf,"Win Back Natural Gas Variable Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.07.2020
+ts_181,MD,nrg_residential,NRR,variable,residential,gas,inbound_telemarketing,56CA4126-E151,$25 Cash back,3% Cash Back Annually,7993.0,'594,BGG,3 Month Variable,No ECF,Cash Back Natural Gas Plan ,$25 Check/3% Cash Back - July 2020 DM,0720dm_brand_25_bonus_gas,epnet,Maryland,BGG1,Christopher,BGG2,13 Christopher Ward St.,HOWARD,'21043,4203107428,5627469376.0,no_email_mark,ChristopherWard@testnrg.com,7bac318,"Cash Back Natural Gas Plan
+99.000¢ per therm
+3 month Promotional Plan
+$25 after 2 Months
+3% every 12 Months",,,,text_passed,07.07.2020

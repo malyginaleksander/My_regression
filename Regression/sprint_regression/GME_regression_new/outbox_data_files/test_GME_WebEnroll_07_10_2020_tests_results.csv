@@ -1,8 +1,0 @@
-ts,sku,StateSlug,UtilitySlug,first_name,last_name,ServiceAddress1,zip_code,city,email,account_no,comments,date,conf_number,order_status,sap_enrollment_conf_,test_status
-ts_1,g7c632fbbf816d53,IL,comed,Jeffrey,Roberson,33165 Katrina Osborn St.,60079,WAUKEGAN,Jeffrey@testnrg.com,'5971079793,,07_10_2020,E1-G6E-6KW,completed,'5000003779149013,Passed
-ts_1,g7c632fbbf816d53,IL,comed,Mark,Kelly,486126 Jennifer Lopez St.,60919,CABERY,Mark@testnrg.com,'5468691521,,07_10_2020,E1-JL9-8WK,completed,'5000003779147327,Passed
-ts_9,01C12D65-BDC1,MA,BECO,Matthew,Cox,268379 James Goodman St.,02129,Charlestown,Matthew@testnrg.com,'89281267108,,07_10_2020,E1-JQM-7WE,error,',Passed
-ts_1,g7c632fbbf816d53,IL,comed,Diana,Watson,605657 John Gomez St.,60302,OAK PARK,Diana@testnrg.com,'5456201264,,07_10_2020,E1-J8E-QAV,completed,'5000003779147332,Passed
-ts_9,01C12D65-BDC1,MA,BECO,Alexander,Davis,978895 George Hamilton St.,01812,ANDOVER,Alexander@testnrg.com,'98392242359,,07_10_2020,E1-GDA-B67,error,',Passed
-ts_2,g8557d0b669a214c,NY,coned,Walter,Moore,889870 Jonathan Peters St.,10024,NEW YORK,Walter@testnrg.com,'333875579482180,,07_10_2020,E1-G54-RQQ,completed,'5000003779147334,Passed
-ts_3,gfae0276e00fefe4,PA,ppl,Sharon,Barrett,173150 Courtney Lewis St.,17034,HIGHSPIRE,Sharon@testnrg.com,'3392205417,,07_10_2020,E1-JW9-B8K,completed,'5000003779147335,Passed

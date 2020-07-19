@@ -1,10 +1,10 @@
 import time
 
 from Regression.helpers.common.accountNO_generator import servicereference_generator
-from Regression.sprint_regression.Inbound_regression.Inbound_Enrollments_regression.Inbound_pages_methods import \
+from Regression.helpers.Inbound.Inbound_pages_methods import \
     wait_costumer_info_page
-from Regression.sprint_regression.Inbound_regression.Inbound_Enrollments_regression.Inbound_tags import Energy_plus, \
-    SameAsFirst_button_name, Green_ME, NRG, options_tag_name, continue_button_id
+from Regression.helpers.Inbound.Inbound_tags import \
+    SameAsFirst_button_name, options_tag_name, continue_button_id
 
 
 def fill_CustomerInfoPage(driver, payload, accountNo, accountNo_2,  address, city, firstname, lastname,
@@ -56,9 +56,10 @@ def fill_CustomerInfoPage(driver, payload, accountNo, accountNo_2,  address, cit
     driver.find_element_by_name(customer_service_address_1_name).send_keys(address)
     driver.find_element_by_name(customer_city_name).send_keys(city)
     driver.find_element_by_name(customer_zip_name).send_keys(zip)
-    driver.find_element_by_name(customer_phone_area_code_name).send_keys(phonenumber[:3])
-    driver.find_element_by_name(customer_prefix_name).send_keys(phonenumber[3:6])
-    driver.find_element_by_name(customer_last_digit_name).send_keys(phonenumber[6:])
+    a = phonenumber
+    driver.find_element_by_name(customer_phone_area_code_name).send_keys(str(phonenumber)[:3])
+    driver.find_element_by_name(customer_prefix_name).send_keys(str(phonenumber)[3:6])
+    driver.find_element_by_name(customer_last_digit_name).send_keys(str(phonenumber)[6:])
     try:
         if payload.brand == 'EP':
             if payload.account_type_2.lower() == "gas":
@@ -89,10 +90,10 @@ def fill_CustomerInfoPage(driver, payload, accountNo, accountNo_2,  address, cit
                 int(payload.accountNo_el_2))
             driver.find_element_by_xpath(costumer_PPL_EU_AcNum_checkButton_xpath).click()
 
-        elif payload.brand == 'GME':
+        elif payload.Brand == 'GME':
             if payload.UtilitySlug == 'Met-Ed' or payload.UtilitySlug == 'PECO':
                 driver.find_element_by_class_name(costumer_UAN_class_name).send_keys(account_number)
-            elif payload.UtilitySlug == 'Philadelphia Gas Works':
+            elif payload.UtilitySlug == 'Philadelphia Gas Works'or payload.UtilitySlug == 'PGW':
                 driver.find_element_by_xpath(costumer_ServicePointID_input_Xpath).send_keys(int(account_number))
                 driver.find_element_by_xpath(costumer_PGW_Account_input_xpath).send_keys(int(account_number))
                 driver.find_element_by_xpath(costumer_PGW_BillingAccount_input_xpath).send_keys(int(account_number))
@@ -105,21 +106,24 @@ def fill_CustomerInfoPage(driver, payload, accountNo, accountNo_2,  address, cit
                 except:
                     pass
 
-        elif payload.brand == 'NRG':
+        elif payload.Brand == 'NRG':
             # servicereference = servicereference_generator(payload)
-            if payload.UtilitySlug == 'Philadelphia Gas Works':
+            if payload.UtilitySlug == 'Philadelphia Gas Works' or payload.UtilitySlug == 'PGW':
                 driver.find_element_by_xpath(costumer_ServicePointID_input_Xpath).send_keys(int(account_number))
                 driver.find_element_by_xpath(costumer_PGW_Account_input_xpath).send_keys(int(account_number))
                 driver.find_element_by_xpath(costumer_PGW_BillingAccount_NRG_input_xpath).send_keys(
                     int(accountNo))
 
-        if payload.account_type_2.lower() == "gas":
-            driver.find_element_by_class_name(costumer_UAN_class_name).send_keys(account_number)
-            time.sleep(2)
-            driver.find_element_by_class_name(SameAsFirst_button_name).click()
-            driver.find_element_by_xpath(costumer_billing_the_samecervice_address_xpath).click()
-            driver.find_element_by_xpath(costumer_AcNO_input_xpath).send_keys(int(account_number))
-        else:
+        try:
+            if payload.account_type_2.lower() == "gas":
+                driver.find_element_by_class_name(costumer_UAN_class_name).send_keys(account_number)
+                time.sleep(2)
+                driver.find_element_by_class_name(SameAsFirst_button_name).click()
+                driver.find_element_by_xpath(costumer_billing_the_samecervice_address_xpath).click()
+                driver.find_element_by_xpath(costumer_AcNO_input_xpath).send_keys(int(account_number))
+            else:
+                pass
+        except:
             pass
 
 
@@ -140,7 +144,7 @@ def fill_CustomerInfoPage(driver, payload, accountNo, accountNo_2,  address, cit
             time.sleep(2)
         except:
             pass
-    if payload.type == 'Business':
+    if payload.PremiseType.lower() == 'business':
         # Can you please tell me your average monthly usage in kWH
         try:
             elem = driver.find_element_by_xpath(costumer_AverageUsage_xpath)
@@ -150,6 +154,14 @@ def fill_CustomerInfoPage(driver, payload, accountNo, accountNo_2,  address, cit
         except:
             pass
     time.sleep(1)
+
+    if payload.UtilitySlug == 'PGW':
+        driver.find_element_by_xpath(costumer_ServicePointID_input_Xpath).send_keys(int(account_number))
+        driver.find_element_by_xpath(costumer_PGW_Account_input_xpath).send_keys(int(account_number))
+        driver.find_element_by_xpath(costumer_PGW_BillingAccount_NRG_input_xpath).send_keys(int(account_number))
+
+
+
     try:
         Check_buttons = driver.find_elements_by_xpath(costumer_CheckButtons_xpath)
         for x in range(0, len(Check_buttons)):
@@ -157,7 +169,7 @@ def fill_CustomerInfoPage(driver, payload, accountNo, accountNo_2,  address, cit
                 Check_buttons[x].click()
     except:
         pass
-    time.sleep(6)
+    time.sleep(3)
     try:
         driver.find_element_by_id(continue_button_id).click()
     except:

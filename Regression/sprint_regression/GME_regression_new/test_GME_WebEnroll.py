@@ -11,11 +11,10 @@ from selenium.webdriver.support import  expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 from Regression.helpers.common.create_data_for_test import create_data_for_test
 from Regression.helpers.GME.GmeEnroll import GmeEnroll
+# from Regression.helpers.common.mail_send_2 import send_mail
 
-
-
-test_list=[1]
-start_test = 1
+test_list=[]
+start_test = 12
 
 test_name = "test_GME_WebEnroll"
 chosen_driver = "chrome"  #choose "firefox" or "chrome"
@@ -102,6 +101,7 @@ def test_state(driver, payload):
         print(str(ae))
         csv_a.writerow(
             ["FAILED", time, payload.ts, payload.sku, str(url_1 + str(payload.sku)), payload.StateSlug, payload.UtilitySlug ])
+        # send_mail()
         raise ae
 
 

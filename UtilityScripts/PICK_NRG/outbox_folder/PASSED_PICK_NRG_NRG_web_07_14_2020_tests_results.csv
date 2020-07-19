@@ -1,0 +1,76 @@
+ts,State,Vanity,Landing Page URL,Zip Code,Electric Utility,Confirmation Number,Electric SKU,Status
+ts_1,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,Comed,E1-9KM-MKW,g37e905cd6ff5e23,Passed
+ts_9,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,West Penn Power,E1-BXP-P5W,gf4e890b4fad275b,Passed
+ts_9,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,West Penn Power,E1-LPE-ELK,gf4e890b4fad275b,Passed
+ts_10,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,02126,Eversource (EMA),E1-QKA-ADE,g2c9bd35bac12112,Passed
+ts_13,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,20815.0,Pepco,E1-WEV-V6K,g3dbdc2dc576b2e5,Passed
+ts_14,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21071.0,BGE,E1-N7R-RLE,g663fb933b0ad13a,Passed
+ts_15,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21071.0,Potomac Ed,E1-KKX-XLE,g453642847a394cd,Passed
+ts_16,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21620.0,Delmarva,E1-A4K-K5Q,g49ce8320fe212c1,Passed
+ts_18,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08540,PSE&G,E1-9KM-MLX,ga4d426de39f0a5b,Passed
+ts_19,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08201,Atlantic City Elec,E1-Z6E-ERB,g40e5f74c781b892,Passed
+ts_22,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Ohio Edison,E1-BXP-P6W,g9229a6992272f5d,Passed
+ts_25,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,43605.0,Toledo Edison,E1-EB9-9QM,g3ccde36a6d0f3e3,Passed
+ts_26,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,45034.0,Duke Energy,E1-RP7-7MX,gb8c01092b462da4,Passed
+ts_11,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,Eversource (WMA),E1-86Z-ZLV,ge6aec407beaf5b9,Passed
+ts_12,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,Nat Grid,E1-5LA-AXQ,g3b75f573695261e,Passed
+ts_17,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08550,JCP&L,E1-N7R-RAE,g67f1756eb4e6f89,Passed
+ts_20,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,07495,Rockland,E1-KKX-X6E,ga3e8950df4a6423,Passed
+ts_21,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,43016.0,Ohio Power (AE),E1-769-95Z,g9229a6992272f5d,Passed
+ts_21,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,43016.0,Ohio Power (AE),E1-Z6E-EDB,g9229a6992272f5d,Passed
+ts_23,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Dayton Power,E1-MA4-4NE,gd2b344939c39bdc,Passed
+ts_24,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,The Cleveland Illuminating Company,E1-BXP-PVW,g1ea66f0081f6f24,Passed
+ts_1,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,Comed,E1-XEB-BDE,g37e905cd6ff5e23,Passed
+ts_2,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60933.0,Ameren,E1-46P-PDY,56CC6700-3A67,Passed
+ts_3,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,Duquesne Light,E1-RP7-7DX,ge5baaacac55de91,Passed
+ts_4,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,19104.0,PECO,E1-LPE-EMK,gec3cf16f794fcdd,Passed
+ts_5,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,17344.0,Met-Ed,E1-86Z-ZDV,g136c0f9102d2081,Passed
+ts_6,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,16130.0,Penn Power,E1-DV7-7N7,g054fad321bb30a7,Passed
+ts_7,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15765.0,Penelec,E1-5LA-ADQ,g2dbaf13094f14cb,Passed
+ts_9,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,West Penn Power,E1-N7R-RVE,gf4e890b4fad275b,Passed
+ts_10,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,02126,Eversource (EMA),E1-KKX-XZE,g2c9bd35bac12112,Passed
+ts_8,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,18073.0,PPL,E1-PZP-PXA,g34c620ef21a87b2,Passed
+ts_9,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,West Penn Power,E1-A4K-KYQ,gf4e890b4fad275b,Passed
+ts_10,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,02126,Eversource (EMA),E1-769-9DZ,g2c9bd35bac12112,Passed
+ts_11,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,Eversource (WMA),E1-9KM-MNX,ge6aec407beaf5b9,Passed
+ts_12,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,Nat Grid,E1-Z6E-EQB,g3b75f573695261e,Passed
+ts_13,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,20815.0,Pepco,E1-MA4-47E,g3dbdc2dc576b2e5,Passed
+ts_15,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21071.0,Potomac Ed,E1-Y5N-NQ4,g453642847a394cd,Passed
+ts_16,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21620.0,Delmarva,E1-VZY-Y47,g49ce8320fe212c1,Passed
+ts_18,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08540,PSE&G,E1-BXP-PZW,ga4d426de39f0a5b,Passed
+ts_19,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08201,Atlantic City Elec,E1-XEB-BQE,g40e5f74c781b892,Passed
+ts_20,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,07495,Rockland,E1-46P-P9Y,ga3e8950df4a6423,Passed
+ts_21,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,43016.0,Ohio Power (AE),E1-RP7-7VX,g9229a6992272f5d,Passed
+ts_22,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Ohio Edison,E1-65N-NMW,g9229a6992272f5d,Passed
+ts_23,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Dayton Power,E1-LPE-EAK,gd2b344939c39bdc,Passed
+ts_24,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,The Cleveland Illuminating Company,E1-QKA-AYE,g1ea66f0081f6f24,Passed
+ts_25,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,43605.0,Toledo Edison,E1-86Z-ZVV,g3ccde36a6d0f3e3,Passed
+ts_26,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,45034.0,Duke Energy,E1-DV7-7Y7,gb8c01092b462da4,Passed
+ts_14,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21071.0,BGE,E1-PZP-PMA,g663fb933b0ad13a,Passed
+ts_17,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08550,JCP&L,E1-A4K-KNQ,g67f1756eb4e6f89,Passed
+ts_1,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60602.0,Comed,E1-769-9YZ,g37e905cd6ff5e23,Passed
+ts_2,IL,picknrg.com/nrril7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,60933.0,Ameren,E1-9KM-MMX,56CC6700-3A67,Passed
+ts_3,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,Duquesne Light,E1-Z6E-EEB,ge5baaacac55de91,Passed
+ts_4,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,19104.0,PECO,E1-MA4-44E,gec3cf16f794fcdd,Passed
+ts_5,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,17344.0,Met-Ed,E1-Y5N-NN4,g136c0f9102d2081,Passed
+ts_6,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,16130.0,Penn Power,E1-VZY-YY7,g054fad321bb30a7,Passed
+ts_7,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15765.0,Penelec,E1-BXP-PPW,g2dbaf13094f14cb,Passed
+ts_8,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,18073.0,PPL,E1-XEB-BBE,g34c620ef21a87b2,Passed
+ts_9,PA,picknrg.com/nrrpa7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,15243.0,West Penn Power,E1-EB9-99M,gf4e890b4fad275b,Passed
+ts_10,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,02126,Eversource (EMA),E1-KKX-XXD,g2c9bd35bac12112,Passed
+ts_11,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,Eversource (WMA),E1-PZP-PP4,ge6aec407beaf5b9,Passed
+ts_12,MA,picknrg.com/nrrma7959,https://www.picknrg.com/en/us/lp/dm/brandma_7959,01060,Nat Grid,E1-A4K-KK5,g3b75f573695261e,Passed
+ts_13,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,20815.0,Pepco,E1-769-995,g3dbdc2dc576b2e5,Passed
+ts_14,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21071.0,BGE,E1-9KM-MMD,g663fb933b0ad13a,Passed
+ts_15,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21071.0,Potomac Ed,E1-Z6E-EEQ,g453642847a394cd,Passed
+ts_16,MD,picknrg.com/nrrmd7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,21620.0,Delmarva,E1-MA4-444,g49ce8320fe212c1,Passed
+ts_17,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08550,JCP&L,E1-Y5N-NN8,g67f1756eb4e6f89,Passed
+ts_18,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08540,PSE&G,E1-VZY-YYL,ga4d426de39f0a5b,Passed
+ts_19,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,08201,Atlantic City Elec,E1-BXP-PPQ,g40e5f74c781b892,Passed
+ts_20,NJ,picknrg.com/nrrnj7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,07495,Rockland,E1-XEB-BBM,ga3e8950df4a6423,Passed
+ts_21,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,43016.0,Ohio Power (AE),E1-EB9-99X,g9229a6992272f5d,Passed
+ts_22,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Ohio Edison,E1-46P-PP7,g9229a6992272f5d,Passed
+ts_23,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,Dayton Power,E1-RP7-778,gd2b344939c39bdc,Passed
+ts_24,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,44122.0,The Cleveland Illuminating Company,E1-65N-NK4,g1ea66f0081f6f24,Passed
+ts_25,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,43605.0,Toledo Edison,E1-LPE-EWR,g3ccde36a6d0f3e3,Passed
+ts_26,OH,picknrg.com/nrroh7959,https://www.picknrg.com/en/us/lp/dm/brand_7959,45034.0,Duke Energy,E1-QKA-AWN,gb8c01092b462da4,Passed

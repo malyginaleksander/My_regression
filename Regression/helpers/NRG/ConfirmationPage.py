@@ -30,13 +30,13 @@ def get_confirmation_number(driver, env, payload, test_name, firstname, lastname
     except:
         pass
 
+
     query_text = 'http://nerf.api.' + env + '.nrgpl.us/api/v1/orders/?enrollment_number=' + str(conf_text)
     response = requests.get(query_text)
     data = response.json()
     order_status = data[0]['order_status']
     while order_status == 'backend_processing':
         for i in range(1, 5):
-            query_text = 'http://nerf.api.' + env + '.nrgpl.us/api/v1/orders/?enrollment_number=' + str(conf_text)
             response = requests.get(query_text)
             data = response.json()
             order_status = data[0]['order_status']
@@ -55,6 +55,8 @@ def get_confirmation_number(driver, env, payload, test_name, firstname, lastname
     data_sap = response_sap.json()
     sap_enrollment_confirmation = data_sap['sap_enrollment_confirmation']
     sap_conf_ = str("'" + str(sap_enrollment_confirmation))
+
+
     if len(sap_enrollment_confirmation) > 0:
         sap_list.append(sap_enrollment_confirmation)
     else:
@@ -71,11 +73,20 @@ def get_confirmation_number(driver, env, payload, test_name, firstname, lastname
     date = now.strftime("%m_%d_%Y")
     csv_filename = ("./outbox_folder/PASSED_"+test_name+"_NRG_web_"+ str(date) + "_tests_results.csv")
 
+
+
     data_report_list = [payload.ts, payload.SKU, payload.ChannelSlug, payload.BrandSlug, payload.PremiseType,
              payload.TermsOfServiceType, payload.ProductName, payload.ProductSlug, payload.StateSlug,
              payload.Commodity, payload.UtilitySlug, firstname, lastname, address,
-              str(zipcode_), city, str("'"+str(accountNo)),
+              str(zipcode_), city, str("'"+str(account_number)),
              email, payload.emailmarketing, str(date), conf_text, order_status,  sap_conf_, "Passed"]
+    headers_report_list =['ts', 'SKU', 'ChannelSlug', 'BrandSlug', 'PremiseType',
+             'TermsOfServiceTyp', 'ProductName', 'ProductSlug', 'StateSlug',
+             'Commodity', 'UtilitySlug', 'first_name', 'last_name', 'ServiceAddress1',
+              'zip_code', 'city', 'account_no', 'email', 'emailmarketing', 'time_for_csv_report', 'conf_number',
+             'order_status', 'sap_enrollment_conf_',  "test_status"]
+
+
 
     if os.path.isfile(csv_filename):
         f = open(csv_filename, 'a', newline='')
@@ -84,22 +95,71 @@ def get_confirmation_number(driver, env, payload, test_name, firstname, lastname
     else:
         f = open(csv_filename, 'a', newline='')
         csv_a = csv.writer(f)
-        csv_a.writerow(
-            ['ts', 'SKU', 'ChannelSlug', 'BrandSlug', 'PremiseType',
-             'TermsOfServiceTyp', 'ProductName', 'ProductSlug', 'StateSlug',
-             'Commodity', 'UtilitySlug', 'first_name', 'last_name', 'ServiceAddress1',
-              'zip_code', 'city', 'account_no', 'email', 'emailmarketing', 'time_for_csv_report', 'conf_number',
-             'order_status', 'sap_enrollment_conf_',  "test_status"])
+        csv_a.writerow(headers_report_list)
         csv_a.writerow(data_report_list)
 
     time.sleep(1)
 
 
+def get_confirmation_number_PICK_NRG (driver, payload, test_name ):
+    global emailMarketing
+
+    WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.ID,  "confirmation")))
+
+    confirm_text = driver.find_element_by_xpath("//*[@class='section row personal-info-section']/../div/div[2]")
+    conf_text = confirm_text.text
+
+    query_text = 'http://nerf.api.nrgpl.us/api/v1/orders/?enrollment_number=' + str(conf_text)
+
+    response = requests.get(query_text)
+    data = response.json()
+
+    el_request = data[0]['order_items'][0]['href']
+    if len(str(payload.GasUtility))>0:
+        gas_request = data[0]['order_items'][1]['href']
+        response_gas = requests.get(gas_request)
+        data_gas = response_gas.json()
+        gas_sku = data_gas['sku']
+    else:
+        gas_sku='n/a'
+    response_el = requests.get(el_request)
+    data_el = response_el.json()
+    el_sku = data_el['sku']
+
+
+
+    folder_name = './outbox_folder'
+
+    if path.exists(folder_name) == True:
+       pass
+    else:
+       os.mkdir(folder_name)
+
+
+    now = datetime.now()
+    date = now.strftime("%m_%d_%Y")
+    csv_filename = ("./outbox_folder/PASSED_"+test_name+"_NRG_web_"+ str(date) + "_tests_results.csv")
+
+
+    data_report_list = [payload.ts, payload.StateSlug, payload.Vanity, payload.LandingPageURL, payload.ZipCode,
+                        payload.ElectricUtility, payload.GasUtility,   conf_text, el_sku, gas_sku, "Validated"]
+    headers_report_list = ['ts', 'State', 'Vanity', 'Landing Page URL', 'Zip Code',
+                           'Electric Utility', 'Gas Utility', 'Confirmation Number', 'Electric SKU', 'Gas SKU', 'Yes']
 
 
 
 
+    if os.path.isfile(csv_filename):
+        f = open(csv_filename, 'a', newline='')
+        csv_a = csv.writer(f)
+        csv_a.writerow(data_report_list)
+    else:
+        f = open(csv_filename, 'a', newline='')
+        csv_a = csv.writer(f)
+        csv_a.writerow(headers_report_list)
+        csv_a.writerow(data_report_list)
 
+    time.sleep(1)
 
 
 

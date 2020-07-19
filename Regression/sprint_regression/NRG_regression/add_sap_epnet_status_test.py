@@ -3,7 +3,6 @@ import glob
 import os
 import time
 from datetime import datetime
-
 import pandas as pd
 import pyodbc
 
@@ -155,6 +154,6 @@ else:
     print("Failed: 0")
 print("-"*30)
 
-final_report_xls = './final_report/'+str(test_name)+'_regression_NRG_web_{}.xlsx'.format(time_date)
+final_report_xls = './final_report/'+str(test_name)+'_NRG_web_{}.xlsx'.format(time_date)
 read_file = pd.read_csv (final_file_csv)
 read_file.to_excel (final_report_xls, index = None, header=True)

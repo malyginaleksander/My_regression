@@ -1,0 +1,25 @@
+ts,Brand,StateSlug,State_full_name,BrandSlug,PartnerCode,TermsOfServiceType,PremiseType,Commodity,ChannelSlug,SKU,Bonus,Ongoing_Earn,promo_compaign_code,PromoCode,UtilitySlug,Offer,ECF_NoECF,ProductName,Bundle_Description,ProductSlug,System,utility_inb,first_name,last_name,ServiceAddress1,zip_code,city,account_no,phone,email,emailmarketing,confcode,offer_1,offer_2,offer_3,offer_4,offer_5,offer_6,text_checking,date_for_report
+ts_1,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,Gas,inbound_telemarketing,012910DA-D975,,,8031.0,566.0,COLOHG,,,Natural Gas Choice Ohio Plan 3M (Gas),online_exclusive_3_gas,online_exclusive_3_gas,,COLOHG,Alicia,Medina,861551 Hannah Martin St.,43019, FREDRICKTOWN,'503893505385613,3632899230,Alicia@testnrg.com,no_email_mark,33be7e1,"Natural Gas Choice Ohio Plan 3M (Gas)
+53.900¢ per ccf
+3 month Promotional Plan
+1% every 12 Months",,,,,,text_passed,07.17.2020
+ts_2,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,Gas,inbound_telemarketing,012910DA-D975,,,8031.0,566.0,COLOHG,,,Natural Gas Choice Ohio Plan 3M (Gas),online_exclusive_3_gas,online_exclusive_3_gas,,COLOHG,Emily,Cross,290456 Andrea Peters St.,45502,SPRINGFIELD,'415240419928265,5777866264,Emily@testnrg.com,emailmarketing,4b05fea,"Natural Gas Choice Ohio Plan 3M (Gas)
+53.900¢ per ccf
+3 month Promotional Plan
+1% every 12 Months",,,,,,text_passed,07.17.2020
+ts_3,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,Gas,inbound_telemarketing,022F3193-54D3,,,8031.0,566.0,DUKEOHG,,,Natural Gas Choice Ohio Plan 3M (Gas),online_exclusive_3_gas,online_exclusive_3_gas,,DUKEOHG,Wanda,Mccoy,810475 Jennifer Willis St.,45065,SOUTH LEBANON,'47334519253,7921799794,Wanda@testnrg.com,no_email_mark,68b3913,"Natural Gas Choice Ohio Plan 3M (Gas)
+53.900¢ per ccf
+3 month Promotional Plan
+1% every 12 Months",,,,,,text_passed,07.17.2020
+ts_4,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,Gas,inbound_telemarketing,022F3193-54D3,,,8031.0,566.0,DUKEOHG,,,Natural Gas Choice Ohio Plan 3M (Gas),online_exclusive_3_gas,online_exclusive_3_gas,,DUKEOHG,Harry,Gonzalez,258315 Laura Mueller St.,45217,SAINT BERNARD,'48283209557,5798301604,Harry@testnrg.com,emailmarketing,870f67b,"Natural Gas Choice Ohio Plan 3M (Gas)
+53.900¢ per ccf
+3 month Promotional Plan
+1% every 12 Months",,,,,,text_passed,07.17.2020
+ts_5,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,Gas,inbound_telemarketing,0524F08B-C628,,,8031.0,566.0,DEOHG,,,Natural Gas Choice Ohio Plan 3M (Gas),online_exclusive_3_gas,online_exclusive_3_gas,,DEOHG,Yvonne,Johnson,26656 Lisa Alvarez St.,44064,NORTHFIELD,'7710513246066,7304089634,Yvonne@testnrg.com,no_email_mark,d2bca88,"Natural Gas Choice Ohio Plan 3M (Gas)
+$3.69 per Mcf
+3 month Promotional Plan
+1% every 12 Months",,,,,,text_passed,07.17.2020
+ts_6,NRG,OH,Ohio,nrg_residential,NRR,variable,residential,Gas,inbound_telemarketing,0524F08B-C628,,,8031.0,566.0,DEOHG,,,Natural Gas Choice Ohio Plan 3M (Gas),online_exclusive_3_gas,online_exclusive_3_gas,,DEOHG,Tina,Lewis,652495 Mariah Lee St.,44064,NORTHFIELD,'4895551281427,9367071233,Tina@testnrg.com,emailmarketing,f2e179b,"Natural Gas Choice Ohio Plan 3M (Gas)
+$3.69 per Mcf
+3 month Promotional Plan
+1% every 12 Months",,,,,,text_passed,07.17.2020

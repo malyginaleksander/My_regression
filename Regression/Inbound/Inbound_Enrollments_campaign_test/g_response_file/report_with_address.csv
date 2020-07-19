@@ -1,0 +1,7 @@
+address,conf_number,idoc,sku,service_address_zip,service_address_state,allow_email_marketing,order_status,uan
+290456 Andrea Peters St.,E1-JNZ-QXK,',012910DA-D975,'45502,OH,True,epnet_file_sent
+810475 Jennifer Willis St.,E1-JKY-ABM,',022F3193-54D3,'45065,,False,epnet_file_sent
+258315 Laura Mueller St.,E1-JPD-LVR,',022F3193-54D3,'45217,,True,epnet_file_sent
+26656 Lisa Alvarez St.,E1-JAW-7B7,',0524F08B-C628,'44064,,False,epnet_file_sent
+861551 Hannah Martin St.,E1-JWN-4LZ,',012910DA-D975,'43019,,False,epnet_file_sent
+652495 Mariah Lee St.,E1-G78-VAR,',0524F08B-C628,'44064,,True,epnet_file_sent
