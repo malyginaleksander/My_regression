@@ -14,7 +14,7 @@ from Regression.helpers.NRG.NrgEnroll import fill_personalinformation_pickNRG
 from Regression.helpers.NRG.VerificationPage import scroll_termsandconditions_and_agree
 from Regression.helpers.common.accountNO_generator import account_generator_accountNo
 
-test_list = []# test_list = [4,11,16]
+test_list = [ 3,6,]# test_list = [4,11,16]
 start_test=1
 env = 'prod'
 test_name = 'PICK_NRG_el_and_gas'

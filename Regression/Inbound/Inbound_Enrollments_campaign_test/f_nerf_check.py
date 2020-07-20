@@ -55,15 +55,15 @@ def test_file_query():
             #     "item.date_of_Sale, item.external_id, item.representative_id, item.partner_code from nerf_order ord join "
             #     "nerf_fileenrollment file on ord.source_filename = file.file_name join nerf_orderitem item on "
             #     "ord.order_id = item.order_id where file_name='{}'").format(file)
-
-
+            #
+            #
             query_text = (
                 "select item.sap_enrollment_confirmation, ord.order_id, ord.marketer_id, ord.order_status, ord.created, "
                 "ord.enrollment_number, ord.source_filename, item.uan, item.sku, item.uan_valid,  "
                 "item.date_of_Sale, item.external_id, item.representative_id, item.partner_code from nerf_order ord join "
                 "nerf_fileenrollment file on ord.source_filename = file.file_name join nerf_orderitem item on "
-                "ord.order_id = item.order_id where file_name='all07172020-091502.txt'")
-            # # #
+                "ord.order_id = item.order_id where file_name='all07192020-201502.txt'")
+            # # # #
             #
 
 

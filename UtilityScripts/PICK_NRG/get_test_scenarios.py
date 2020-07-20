@@ -15,7 +15,7 @@ import pandas as pd
 
 
 test_list = []# test_list = [4,11,16]
-start_test=24
+start_test=1
 env = 'prod'
 test_name = 'PICK_NRG_el_and_gas'
 workbook = xlrd.open_workbook("./inbox_files/databaseGIVEN.xlsx")
@@ -66,7 +66,7 @@ def test_setup(request):
     def resource_a_teardown():
         make_report_test(scenarios)
         read_file = pd.read_csv(report)
-        read_file.to_excel('./database_.xlsx', index=None, header=True)
+        read_file.to_excel('./inbox_files/database.xlsx', index=None, header=True)
         driver.quit()
     request.addfinalizer(resource_a_teardown)
     make_report_test(scenarios)
@@ -103,89 +103,93 @@ def test_state(test_setup, payload):
 
 
 def _state_test_internals(driver, payload):
-        url = payload.LandingPageURL
-        print( " getting url: " +url )
+    url=''
+    url = payload.LandingPageURL
+    print( " getting url: " +url )
 
-        driver.get(url)
+    driver.get(url)
 
-        ## Personal Information
-        try:
-            zip = str(payload.ZipCode("'", ''))
-        except:
-            zip = str(payload.ZipCode)
-        if len(zip) < 5:
-            zip = str("0" + str(zip))
+    ## Personal Information
+    try:
+        zip = int(payload.ZipCode.replace("'", ''))
+    except:
+        zip = int(payload.ZipCode)
+    if len(str(zip)) < 5:
+        zip = str("0" + str(zip))
+    else:
+        zip = str(zip)
+    WebDriverWait(driver, 15).until(EC.visibility_of_element_located((By.XPATH, "//input[@id='zip']")))
 
-
-        WebDriverWait(driver, 15).until(EC.visibility_of_element_located((By.XPATH, "//input[@id='zip']")))
-
-        driver.find_element_by_xpath("//input[@id='zip']").send_keys(zip)
-        driver.find_element_by_xpath("//span[contains(text(),'Get started') ][1]").click()
-        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "showTitle")))
+    driver.find_element_by_xpath("//input[@id='zip']").send_keys(zip)
+    driver.find_element_by_xpath("//span[contains(text(),'Get started') ][1]").click()
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "showTitle")))
+    time.sleep(2)
+    driver.switch_to_alert()
+        # WebDriverWait(driver, 3).until(EC.alert_is_present())
+    try:
+        WebDriverWait(driver, 3).until(EC.visibility_of_element_located((By.XPATH,  '//h4[contains(text(), "Multiple utilities service your zip code.")]')))
         time.sleep(2)
-        driver.switch_to_alert()
-            # WebDriverWait(driver, 3).until(EC.alert_is_present())
+        electric_enrollment = []
+        gas_enrollment = []
         try:
-            WebDriverWait(driver, 3).until(EC.visibility_of_element_located((By.XPATH,  '//h4[contains(text(), "Multiple utilities service your zip code.")]')))
-            time.sleep(2)
-            electric_enrollment = []
-            gas_enrollment = []
-            try:
-                elem = driver.find_element_by_xpath("//div[@id= 'showelectric']")
-                for span in elem.find_elements_by_class_name("util"):
-                    electric_utilitity = span.text
-                    electric_enrollment.append(electric_utilitity)
-
-            except:
-                pass
-
-            try:
-                elem = driver.find_element_by_xpath("//div[@id= 'showgas']")
-                for span in elem.find_elements_by_class_name("util"):
-                    gas_utilitity = span.text
-                    gas_enrollment.append(gas_utilitity)
-            except:
-                pass
-
-            print(payload.ts, "Electric", electric_enrollment)
-            print(payload.ts, "Gas", gas_enrollment)
-
-            merged_list = []
-            for i in range(max((len(electric_enrollment), (len(gas_enrollment))))):
-
-                while True:
-                    try:
-                        tup = (electric_enrollment[i], gas_enrollment[i])
-                    except IndexError:
-                        if len(electric_enrollment) > len(gas_enrollment):
-                            gas_enrollment.append('')
-                            tup = (electric_enrollment[i], gas_enrollment[i])
-                        elif len(electric_enrollment) < len(gas_enrollment):
-                            electric_enrollment.append(random.choice(electric_enrollment))
-                            tup = (electric_enrollment[i], gas_enrollment[i])
-                        continue
-
-
-                    merged_list.append(tup)
-                    break
-
-            for i in merged_list:
-                checking = (str(zip)+str(i[0])+str(i[1]))
-                if checking in check_scenarios:
-                    pass
-                else:
-                    scenarios.append([ payload.StateSlug, payload.Vanity, payload.LandingPageURL, str(zip), i[0], i[1]])
-
+            elem = driver.find_element_by_xpath("//div[@id= 'showelectric']")
+            for span in elem.find_elements_by_class_name("util"):
+                electric_utilitity = span.text
+                electric_enrollment.append(electric_utilitity)
 
         except:
-            j = driver.find_element_by_xpath("//span[@class='plan-name']").text
-            checking = (str(zip) + str(j) )
+            pass
+
+        try:
+            elem = driver.find_element_by_xpath("//div[@id= 'showgas']")
+            for span in elem.find_elements_by_class_name("util"):
+                gas_utilitity = span.text
+                gas_enrollment.append(gas_utilitity)
+        except:
+            pass
+
+        print(payload.ts, "Electric", electric_enrollment)
+        print(payload.ts, "Gas", gas_enrollment)
+
+        merged_list = []
+        for i in range(max((len(electric_enrollment), (len(gas_enrollment))))):
+
+            while True:
+                try:
+                    tup = (electric_enrollment[i], gas_enrollment[i])
+                except IndexError:
+                    if len(electric_enrollment) > len(gas_enrollment):
+                        gas_enrollment.append('')
+                        tup = (electric_enrollment[i], gas_enrollment[i])
+                    elif len(electric_enrollment) < len(gas_enrollment):
+                        electric_enrollment.append(random.choice(electric_enrollment))
+                        tup = (electric_enrollment[i], gas_enrollment[i])
+                    continue
+
+
+                merged_list.append(tup)
+                break
+
+
+
+
+        for i in merged_list:
+            checking = (str(zip)+str(i[0])+str(i[1]))
             if checking in check_scenarios:
                 pass
             else:
-                scenarios.append([payload.StateSlug, payload.Vanity, payload.LandingPageURL, str(zip), j])
+                scenarios.append([ payload.StateSlug, payload.Vanity, payload.LandingPageURL, str("'") +zip, i[0], i[1]])
 
-                # f.close()
+
+    except:
+        j = driver.find_element_by_xpath("//span[@class='plan-name']").text
+        checking = (str(zip) + str(j) )
+        if checking in check_scenarios:
+            pass
+        else:
+            scenarios.append([payload.StateSlug, payload.Vanity, payload.LandingPageURL, str("'") +zip, j])
+
+            # f.close()
 
 def make_report_test(scenarios):
     ts=0

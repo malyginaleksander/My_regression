@@ -16,16 +16,17 @@ from Regression.helpers.Inbound.Inbound_UtilityNameGenarator import UtilityNameG
 from Regression.helpers.Inbound.Inbound_pages_methods import *
 from Regression.helpers.Inbound.Inbound_tags import *
 
-# test_list=[86,	93,	100,	107,	114,	122,	128,	134,	151,	160,	169,	178,	187,	152,	161,
-#            170,	179,	188,	122,	128,	134,	113,
-# ]
-test_list=[]
+test_list=[	92,	97,	98,	99,	104,	105,	106,	111,	112,	118,	119,	121,	120,	121,	124,	125,	126,	122,	124,	125,	126,	127,	128,	130,	131,	132,	133,	134,	136,	137,	138,	139,	140,	142,	143,	144,	145,	146,	148,	149,	150,	153,	157,	158,	159,	162,	166,	167,	168,	169,	171,	175,	176,	177,	178,	180,	184,	185,	186,	187,	189,	152,	161,	170,	179,	188,
+]
+
+
+# test_list=[]
 start_test =1
 env = "pt"
 # env = "GME_en"
 
-# test_name = 'August_campaign'
-test_name = 'Apple'
+test_name = 'August_campaign'
+# test_name = 'Apple'
 
 data_sheet_name = 'Sheet1'
 chosen_driver = "chrome"
@@ -39,7 +40,8 @@ login_email_data = "aleksandr.malygin@nrg.com"
 login_password_data = "energy"
 
 
-workbook = xlrd.open_workbook("./b_files_for_testing_02/inbound_data_file_old.xlsx")
+workbook = xlrd.open_workbook("./b_files_for_testing_02/inbound_data_file.xlsx")
+# workbook = xlrd.open_workbook("./b_files_for_testing_02/inbound_data_file_old.xlsx")
 worksheet = workbook.sheet_by_name(data_sheet_name)
 headers = [cell.value for cell in worksheet.row(0)]
 Payload = namedtuple('payload', headers)
