@@ -36,7 +36,7 @@ def fill_personalinformation(driver, payload, firstname, lastname, address, zipc
 
 
 
-    if payload.StateSlug =="MA":
+    if payload.StateSlug =="MA" or payload.UtilitySlug.upper() =="PGW" or payload.UtilitySlug.upper() =="AEPS" :
         try:
             driver.find_element_by_id('id_electric-billing_uan').send_keys(account_number)
         except:
@@ -111,11 +111,11 @@ def fill_personalinformation_pickNRG(driver, payload, test_name, firstname, last
     # else:
     #     RewardsNumber = account_number
 
-    # try:
-    #     RewardsNumber = '9999999999999999'
-    #     driver.find_element_by_id('id_partner_member_number').send_keys(RewardsNumber)
-    # except:
-    #     pass
+    try:
+        RewardsNumber = '9999999999999999'
+        driver.find_element_by_id('id_partner_member_number').send_keys(RewardsNumber)
+    except:
+        pass
     time.sleep(1)
     try:
         driver.find_element_by_id('continue-submit').click()

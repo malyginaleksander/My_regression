@@ -124,7 +124,7 @@ def account_generator_accountNo(Utility):
 
 
 def servicereference_generator(given_UtilitySlug):
-    if given_UtilitySlug == 'Philadelphia Gas Works' or given_UtilitySlug == 'PGW':
+    if given_UtilitySlug == 'Philadelphia Gas Works' or given_UtilitySlug.upper() == 'PGW':
         servicereference = randint(1000000000, 9999999999)  # 10 digits
     else:
         servicereference_rand = randint(100000000, 999999999)

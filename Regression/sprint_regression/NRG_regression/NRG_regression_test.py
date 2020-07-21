@@ -12,8 +12,8 @@ from Regression.helpers.NRG.ConfirmationPage import get_confirmation_number
 from Regression.helpers.common.create_data_for_test import create_data_for_test
 
 # test_list = []# test_list = [4,11,16]
-test_list = []
-start_test=1
+test_list = [19]
+start_test=2
 
 env = 'pt'
 # env = 'gme-plus'
@@ -77,6 +77,7 @@ def test_state(test_setup, payload):
           payload.UtilitySlug)
 
     try:
+        driver.delete_all_cookies()
         _state_test_internals(driver, payload, test_name)
     except Exception as ae:
         now = datetime.now()

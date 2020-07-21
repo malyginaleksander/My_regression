@@ -9,16 +9,18 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 import pytest
 from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
+
 from Regression.helpers.NRG.ConfirmationPage import  get_confirmation_number_PICK_NRG
 from Regression.helpers.NRG.NrgEnroll import fill_personalinformation_pickNRG
 from Regression.helpers.NRG.VerificationPage import scroll_termsandconditions_and_agree
 from Regression.helpers.common.accountNO_generator import account_generator_accountNo
 
-test_list = [ 3,6,]# test_list = [4,11,16]
+test_list = []# test_list = [4,11,16]
 start_test=1
 env = 'prod'
 test_name = 'PICK_NRG_el_and_gas'
-workbook = xlrd.open_workbook("./inbox_files/database.xlsx")
+workbook = xlrd.open_workbook("./inbox_files/databaseGIVEN.xlsx")
 worksheet = workbook.sheet_by_name('Sheet1')
 
 firstname = 'test'
@@ -58,6 +60,7 @@ else:
 def test_setup(request):
     global driver
     driver = webdriver.Firefox()
+    # driver = webdriver.Chrome(ChromeDriverManager("2.36").install())
     driver.implicitly_wait(4)
     def resource_a_teardown():
         driver.quit()
@@ -70,27 +73,33 @@ def test_setup(request):
 def test_state(test_setup, payload):
 
     try:
+        driver.delete_all_cookies()
         _state_test_internals(driver, payload)
-    except:
-        try:
-            _state_test_internals(driver, payload)
-        except Exception as ae:
-            now = datetime.now()
-            time_for_csv_report = now.strftime("_%m_%d_%Y_%I_%M_%S_%p")
-            filename = "./failed/failed_{}_{}{}.png".format(test_name, payload.ts, time_for_csv_report)
-            driver.save_screenshot(filename)
-            print("Saving screenshot of failed test -- ", payload.ts)
-            print("filename:", filename)
-            print(str(ae))
-            date = now.strftime("_%m_%d_%Y_")
-            csv_filename = (
-                    "./outbox_folder/" + str(date) + "_FAILED_tests_results.csv")
-            f = open(csv_filename, 'a', newline='')
-            csv_a = csv.writer(f)
-            csv_a.writerow([payload.ts, payload.StateSlug, payload.Vanity, payload.LandingPageURL, payload.ZipCode,
-                                payload.ElectricUtility, time_for_csv_report])
 
-            raise ae
+
+    except Exception as ae:
+        driver.quit()
+        # try:
+        #
+        #     # driver = webdriver.Firefox()
+        #     _state_test_internals(driver, payload)
+        # except Exception as ae:
+        now = datetime.now()
+        time_for_csv_report = now.strftime("_%m_%d_%Y_%I_%M_%S_%p")
+        filename = "./failed/failed_{}_{}{}.png".format(test_name, payload.ts, time_for_csv_report)
+        driver.save_screenshot(filename)
+        print("Saving screenshot of failed test -- ", payload.ts)
+        print("filename:", filename)
+        print(str(ae))
+        date = now.strftime("_%m_%d_%Y_")
+        csv_filename = (
+                "./outbox_folder/" + str(date) + "_FAILED_tests_results.csv")
+        f = open(csv_filename, 'a', newline='')
+        csv_a = csv.writer(f)
+        csv_a.writerow([payload.ts, payload.StateSlug, payload.Vanity, payload.LandingPageURL, payload.ZipCode,
+                            payload.ElectricUtility, time_for_csv_report])
+
+        raise ae
 
 
 
@@ -156,8 +165,7 @@ def _state_test_internals(driver, payload):
             driver.find_element_by_id('electButtonSignUpButton').click()
         except:
             pass
-        else:
-            pass
+
 
 
         # time.sleep(2)
@@ -214,6 +222,7 @@ def _state_test_internals(driver, payload):
         ## Grab Confirmation Code
 
         get_confirmation_number_PICK_NRG(driver, payload, test_name )
-        print(payload.ts, "Passed")
+        # print(payload.ts, "Passed")
         time.sleep(2)
+
 
