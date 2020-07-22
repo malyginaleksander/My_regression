@@ -11,9 +11,8 @@ from Regression.helpers.NRG.VerificationPage import scroll_termsandconditions_an
 from Regression.helpers.NRG.ConfirmationPage import get_confirmation_number
 from Regression.helpers.common.create_data_for_test import create_data_for_test
 
-# test_list = []# test_list = [4,11,16]
-test_list = [19]
-start_test=2
+test_list = [ 140]
+start_test=1
 
 env = 'pt'
 # env = 'gme-plus'

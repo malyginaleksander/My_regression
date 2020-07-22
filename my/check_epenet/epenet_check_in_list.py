@@ -5,25 +5,26 @@ import pyodbc
 import csv
 test_name = 'July'
 now = datetime.now()
-check_date = '2020-06-17'
+check_date = '2020-06-16'
 
 
 #
 # # ##todo web retest
 list  = [
-'E1-JPD-YMK',
-'E1-JAW-ZN4',
-'E1-J9R-4N9',
-'E1-JZY-BQA',
-'E1-JMZ-B7L',
-'E1-GYM-6QR',
-'E1-GV7-R4D',
-'E1-JBN-DZZ',
-'E1-GX4-AQB',
-'E1-GE8-7VW',
-'E1-G45-Z9R',
-'E1-JRB-YVL',
 
+'E1-GE8-79W',
+
+'E1-JWN-YVP',
+'E1-JKY-NXY',
+'E1-JPD-YPK',
+'E1-JAW-ZK4',
+'E1-G78-R9X',
+'E1-J9R-4M9',
+'E1-JMZ-B4L',
+'E1-GYM-6NR',
+'E1-GV7-RYD',
+'E1-JBN-DPZ',
+'E1-GX4-ABB',
 
 ]
 #
@@ -33,13 +34,8 @@ list  = [
 # 'E1-GE8-DYX',
 # 'E1-G45-VL7',
 # 'E1-JRB-5Q8',
-# 'E1-G6R-4R4',
 # 'E1-JLQ-7QR',
 # 'E1-JQB-RBN',
-# 'E1-G5M-5M8',
-# 'E1-JNZ-QZX',
-# 'E1-JAW-7W5',
-# 'E1-JZY-XYQ',
 # 'E1-JMZ-5Z4',
 # 'E1-JPD-LDR',
 # 'E1-JAW-787',
@@ -49,36 +45,24 @@ list  = [
 # 'E1-G45-ZEP',
 # 'E1-JM9-YRE',
 # 'E1-JKY-A5D',
-# 'E1-GY4-XY4',
 # 'E1-JPD-L54',
-# 'E1-JL9-Z4K',
-# 'E1-JAW-7V5',
 # 'E1-G78-VE5',
 # 'E1-JAV-9MQ',
-# 'E1-J9R-X6D',
 # 'E1-G7E-ZLZ',
 # 'E1-JZ5-4PB',
 # 'E1-JZY-X5Q',
 # 'E1-G7E-ZMZ',
 # 'E1-GVB-997',
-# 'E1-JBK-MMW',
 # 'E1-G6E-77W',
 # 'E1-JL9-ZZK',
 # 'E1-JQM-LLE',
 # 'E1-J8E-YYV',
 # 'E1-JN5-BBE',
 # 'E1-JK5-77E',
-# 'E1-JP5-RRA',
-# 'E1-JMZ-55E',
-# 'E1-GYM-774',
 # 'E1-JBN-LKQ',
-# 'E1-GEY-44M',
 # 'E1-J88-B8E',
 # 'E1-GD8-D88',
 # 'E1-JAW-ZDW',
-# 'E1-JKY-AAD',
-# 'E1-JZY-XXQ',
-# 'E1-JMZ-554',
 # 'E1-J88-BRE',
 # 'E1-GD8-DM8',
 # 'E1-GYM-6BP',
@@ -101,8 +85,11 @@ list  = [
 # 'E1-JBN-L9Q',
 # 'E1-G5M-548',
 # 'E1-JWN-49E',
-# 'E1-JNZ-Q5X',
 # 'E1-JQB-RMN',
+# 'E1-J9R-4N9',
+# 'E1-JMZ-B7L',
+# 'E1-JRB-YVL',
+#
 # ]
 # # # todo apple
 # list= [

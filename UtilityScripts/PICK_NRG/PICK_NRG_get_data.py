@@ -21,7 +21,7 @@ test_list = []# test_list = [4,11,16]
 start_test=1
 env = 'prod'
 test_name = 'PICK_NRG_el_and_gas'
-workbook = xlrd.open_workbook("./inbox_files/database_.xlsx")
+workbook = xlrd.open_workbook("./inbox_files/databaseGIVEN.xlsx")
 worksheet = workbook.sheet_by_name('Sheet1')
 
 firstname = 'test'

@@ -86,8 +86,7 @@ def account_generator_accountNo(Utility):
     elif Utility.upper()  == "Philadelphia Gas Works".upper()   or Utility.upper() =='PGW'.upper()or Utility.upper() =='Phila Gas Works'.upper()\
             or Utility.upper() =='PPL Electric Utilities'.upper() or Utility.upper() =='PPL'.upper()\
             or Utility.upper() =='PECO'.upper() \
-            or Utility.upper() =='PECO-GAS'.upper() \
-            or Utility.upper() =='PECO Gas'.upper() \
+            or Utility.upper() =='PECO-GAS'.upper()  or Utility.upper() =='PECO Gas'.upper() \
             or Utility.upper() =='Ameren'.upper() \
             or Utility.upper() == 'COMED'.upper() \
             or Utility.upper() == 'meco'.upper() \

@@ -16,7 +16,7 @@ from Regression.helpers.Inbound.Inbound_UtilityNameGenarator import UtilityNameG
 from Regression.helpers.Inbound.Inbound_pages_methods import *
 from Regression.helpers.Inbound.Inbound_tags import *
 
-test_list=[	92,	97,	98,	99,	104,	105,	106,	111,	112,	118,	119,	121,	120,	121,	124,	125,	126,	122,	124,	125,	126,	127,	128,	130,	131,	132,	133,	134,	136,	137,	138,	139,	140,	142,	143,	144,	145,	146,	148,	149,	150,	153,	157,	158,	159,	162,	166,	167,	168,	169,	171,	175,	176,	177,	178,	180,	184,	185,	186,	187,	189,	152,	161,	170,	179,	188,
+test_list=[	169,
 ]
 
 

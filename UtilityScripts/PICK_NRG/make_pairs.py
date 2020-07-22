@@ -14,7 +14,6 @@ def merge_list(list1, list2):
                     tup = (list1[i], list2[i])
                 elif len(list1) < len(list2):
                     list1.append(random.choice(list1))
-                    # list1.append(random.choice(list1))
                     tup = (list1[i], list2[i])
                 continue
 
@@ -23,8 +22,8 @@ def merge_list(list1, list2):
     return merged_list
 
 
-electric_enrollment = [1,2,3,4]
-gas_enrollment = ['a', 'b']
+electric_enrollment = ['el_1','el_2','el_3','el_4']
+gas_enrollment = ['gas_1', 'gas_2', 'gas_3', 'gas_4', 'gas_5']
 merged_list = merge_list(electric_enrollment, gas_enrollment)
 for i in merged_list:
     print(i[0], i[1])
